@@ -2,7 +2,7 @@ import React from 'react'
 import {useState} from "react"
 import axios from 'axios'
 import {useNavigate} from 'react-router-dom'
-
+import {toast} from 'react-hot-toast';
 
 
 export default function Register() {
@@ -23,10 +23,16 @@ const registerUser = async(e) =>{
     const {data} = await axios.post ('/register',{
       name,email,password
     })
+
     if(data.error){
       toast.error(data.error)
     }else{
-      setData({})
+      setData({
+        name: '',
+        email: '',
+        password: '',
+      });
+      
       toast.success('Login successfull Welcome!')
       navigate('/login')
     }
