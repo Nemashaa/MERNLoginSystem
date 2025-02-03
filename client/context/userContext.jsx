@@ -13,6 +13,8 @@ useEffect(() => {
     }
   },[])
 
+
+  
 return ( 
 <UserContext.Provider value={{ user, setUser }}
 > 

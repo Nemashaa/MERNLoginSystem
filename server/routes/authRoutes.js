@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const cors = require('cors');
-const { test, registerUser ,loginUser ,getProfile} = require('../controllers/authController');
+const { test, registerUser, loginUser, refreshAccessToken, logoutUser ,getProfile} = require('../controllers/authController');
 const jwt =  require('jsonwebtoken');
 
 // middleware
@@ -15,6 +15,9 @@ router.use(
   router.post('/register' , registerUser)
   router.post('/login' , loginUser)
   router.get('/profile',getProfile)
+  router.post('/refresh-token', refreshAccessToken);
+  router.post('/logout', logoutUser);
+
   
 
 

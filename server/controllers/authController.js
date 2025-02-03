@@ -2,6 +2,8 @@
 const User = require ('../models/user');
 const {hashPassword,comparePassword} = require('../helpers/auth')
 const jwt = require('jsonwebtoken');
+const { generateAccessToken, generateRefreshToken } = require('../helpers/auth');
+
 
 const test = (req, res) => {
   res.json('test is working')
@@ -64,25 +66,44 @@ const loginUser = async (req,res) => {
   }
 
     //check if password match
-    const match = await comparePassword(password,user.password)
-    if(match){
-      jwt.sign({email: user.email,id: user._id, name:user.name}, process.env.JWT_SECRET, {} , (err, token) => {
-        if(err) throw err;
-        res.cookie('token',token).json(user)
-      })
-      //res.json('password match')
-    }
-    if(!match){
-      res.json({
-        error: "Passwords do not match"
-      })
-    }
+    const match = await comparePassword(password, user.password);
+        if (!match) return res.status(400).json({ error: 'Incorrect password' });
 
-  }catch(error){
-    console.log(error)
-  }
+        const accessToken = generateAccessToken(user);
+        const refreshToken = generateRefreshToken(user);
 
-}
+        res.cookie('refreshToken', refreshToken, {
+            httpOnly: true,
+            secure: true,
+            sameSite: 'Strict'
+        });
+
+        res.json({ accessToken, user });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+  
+
+// Refresh Token Endpoint
+const refreshAccessToken = (req, res) => {
+  const refreshToken = req.cookies.refreshToken;
+  if (!refreshToken) return res.status(403).json({ error: 'Refresh token not found' });
+
+  jwt.verify(refreshToken, process.env.JWT_REFRESH_SECRET, (err, user) => {
+      if (err) return res.status(403).json({ error: 'Invalid refresh token' });
+
+      const newAccessToken = generateAccessToken(user);
+      res.json({ accessToken: newAccessToken });
+  });
+};
+
+// Logout Endpoint (Clear Refresh Token)
+const logoutUser = (req, res) => {
+  res.clearCookie('refreshToken');
+  res.json({ message: 'Logged out successfully' });
+};
 
 const getProfile = (req,res) => {
 
@@ -102,5 +123,7 @@ module.exports =  {
 test,
 registerUser,
 loginUser,
-getProfile
+getProfile,
+refreshAccessToken,
+logoutUser
 }
