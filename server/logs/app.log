@@ -1,0 +1,75 @@
+2025-02-24 13:55:16 [INFO]: Server is running on port 8000
+2025-02-24 13:55:20 [INFO]: Database Connected
+2025-02-24 14:02:03 [INFO]: Server is running on port 8000
+2025-02-24 14:02:06 [INFO]: Database Connected
+2025-02-24 14:02:26 [INFO]: User logged in: k@gmail.com
+2025-02-24 14:02:28 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:28 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:28 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:29 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:29 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:29 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:29 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:29 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:33 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:33 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:33 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:02:33 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 14:08:28 [INFO]: Server is running on port 8000
+2025-02-24 14:08:32 [INFO]: Database Connected
+2025-02-24 15:27:30 [INFO]: Server is running on port 8000
+2025-02-24 15:27:34 [INFO]: Database Connected
+2025-02-24 15:28:30 [INFO]: User logged in: k@gmail.com
+2025-02-24 15:28:38 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:38 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:40 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:40 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:41 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:41 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:42 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:42 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:43 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:43 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:45 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:45 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:46 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:46 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:47 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:47 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:48 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+2025-02-24 15:28:48 [INFO]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:02:38[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-02-24 21:02:42[39m [[32mINFO[39m]: Database Connected
+[36m2025-02-24 21:02:55[39m [[31mERROR[39m]: GET /profile 403 9.190
+[36m2025-02-24 21:02:55[39m [[31mERROR[39m]: GET /profile 403 3.372
+[36m2025-02-24 21:03:09[39m [[32mINFO[39m]: OPTIONS /login 204 0.599
+[36m2025-02-24 21:03:10[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-24 21:03:10[39m [[32mINFO[39m]: POST /login 200 796.358
+[36m2025-02-24 21:03:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:15[39m [[32mINFO[39m]: GET /profile 200 6.735
+[36m2025-02-24 21:03:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:15[39m [[32mINFO[39m]: GET /profile 304 9.531
+[36m2025-02-24 21:03:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:16[39m [[32mINFO[39m]: GET /profile 304 4.559
+[36m2025-02-24 21:03:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:16[39m [[32mINFO[39m]: GET /profile 304 4.427
+[36m2025-02-24 21:03:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:18[39m [[32mINFO[39m]: GET /profile 304 4.861
+[36m2025-02-24 21:03:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:18[39m [[32mINFO[39m]: GET /profile 304 4.947
+[36m2025-02-24 21:03:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:19[39m [[32mINFO[39m]: GET /profile 304 7.048
+[36m2025-02-24 21:03:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:19[39m [[32mINFO[39m]: GET /profile 304 6.334
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: GET /profile 304 20.343
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: GET /profile 304 45.978
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: GET /profile 200 5.354
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:20[39m [[32mINFO[39m]: GET /profile 304 4.114
+[36m2025-02-24 21:03:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:21[39m [[32mINFO[39m]: GET /profile 304 4.082
+[36m2025-02-24 21:03:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-24 21:03:21[39m [[32mINFO[39m]: GET /profile 304 5.415
