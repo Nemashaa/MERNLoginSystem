@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 export default function Login() {
 
   const navigate = useNavigate();
-  const [data, setData] = useState({
+  const [data, setData] = useState({// use loginData for data
     email: '',
     password: '',
   });
@@ -22,14 +22,14 @@ export default function Login() {
       if (data.error) {
         toast.error(data.error);
       } else {
-        console.log("Login Response:", data); // Debugging line
+        console.log("Login Response:", data); 
         if (data.accessToken) {
           localStorage.setItem('accessToken', data.accessToken);
         }
         if (data.refreshToken) {
           localStorage.setItem('refreshToken', data.refreshToken);
         }
-        setData({ email: '', password: '' }); // Ensure controlled input
+        setData({ email: '', password: '' }); 
         navigate('/dashboard');
       }
     } catch (error) {
