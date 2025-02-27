@@ -1,6 +1,6 @@
 const morgan = require('morgan');
 const logger = require('./logger'); // Winston Logger
-const chalk = require('chalk'); 
+
 
 // Create a custom Morgan format that logs via Winston
 const morganLogger = morgan((tokens, req, res) => {

@@ -1,35 +1,23 @@
-import './App.css';
-import {Routes,Route} from 'react-router-dom';
-import Navbar from '../src/components/Navbar';
-import Home from '../src/pages/Home';
-import Register from '../src/pages/Register';
-import Login from '../src/pages/Login';
-import NotFound from '../src/pages/NotFound';
-import axios from 'axios';
-import {Toaster} from 'react-hot-toast';
-import {UserContextProvider} from '../context/userContext';
-import Dashboard from '../src/pages/Dashboard';
+// 📌 App.jsx
+import React from "react";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import { Toaster } from "react-hot-toast";
+import { UserContextProvider } from "../context/userContext";
+import AppRoutes from "./routes/AppRoutes";
+import axios from "axios";
 
-axios.defaults.baseURL ='http://localhost:8000';
-axios.defaults.withCredentials = true
+axios.defaults.baseURL = "http://localhost:8000";
+axios.defaults.withCredentials = true;
 
-function App() {
+const App = () => {
   return (
-    
-      <UserContextProvider>
-      <Navbar/>
-      <Toaster position='bottom-right' toastOptions={{duration:2000}}/>
-      <Routes>
-       <Route path ='/' element = {<Home/>} />
-       <Route path ='/register' element = {<Register/>} />
-       <Route path ='/login' element = {<Login/>} />
-       <Route path ='/dashboard' element = {<Dashboard/>} />
-       <Route path="*" element={<NotFound />} />
-
-      </Routes>
-      </UserContextProvider>
-    
-  )
-}
+    <UserContextProvider>
+      <Navbar />
+      <Toaster position="bottom-right" toastOptions={{ duration: 2000 }} />
+      <AppRoutes />
+    </UserContextProvider>
+  );
+};
 
 export default App;

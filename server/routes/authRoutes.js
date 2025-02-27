@@ -12,7 +12,7 @@ router.get('/', test)
 router.post('/register', registerUser)
 router.post('/login', loginUser)
 router.get('/profile', authMiddleware, getProfile);
-router.post('/refresh-token', refreshAccessToken);
+router.post('/refreshToken', refreshAccessToken);
 router.post('/logout', logoutUser);
 
 module.exports = router;

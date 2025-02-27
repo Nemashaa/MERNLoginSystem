@@ -1,35 +1,33 @@
-import React from 'react';
-import { useState } from "react";
+import React, { useState } from 'react';
 import axios from 'axios';
 import { toast } from 'react-hot-toast';
 import { useNavigate } from 'react-router-dom';
 
 export default function Login() {
-
   const navigate = useNavigate();
-  const [data, setData] = useState({// use loginData for data
+  const [loginData, setLoginData] = useState({
     email: '',
     password: '',
   });
 
   const loginUser = async (e) => {
     e.preventDefault();
-    const { email, password } = data;
+    const { email, password } = loginData;
 
     try {
-      const { data } = await axios.post('/login', { email, password });
+      const { data: responseData } = await axios.post('/login', { email, password });
 
-      if (data.error) {
-        toast.error(data.error);
+      if (responseData.error) {
+        toast.error(responseData.error);
       } else {
-        console.log("Login Response:", data); 
-        if (data.accessToken) {
-          localStorage.setItem('accessToken', data.accessToken);
+        console.log("Login Response:", responseData); 
+        if (responseData.accessToken) {
+          localStorage.setItem('accessToken', responseData.accessToken);
         }
-        if (data.refreshToken) {
-          localStorage.setItem('refreshToken', data.refreshToken);
+        if (responseData.refreshToken) {
+          localStorage.setItem('refreshToken', responseData.refreshToken);
         }
-        setData({ email: '', password: '' }); 
+        setLoginData({ email: '', password: '' }); 
         navigate('/dashboard');
       }
     } catch (error) {
@@ -40,7 +38,7 @@ export default function Login() {
   // Function to refresh the access token
   const refreshAccessToken = async () => {
     try {
-      const { data } = await axios.post('/refresh-token', {}, { withCredentials: true });
+      const { data } = await axios.post('/refreshToken', {}, { withCredentials: true });
 
       if (data.accessToken) {
         localStorage.setItem('accessToken', data.accessToken); // Save the new access token
@@ -58,15 +56,15 @@ export default function Login() {
         <input
           type="email"
           placeholder="Enter email..."
-          value={data.email}
-          onChange={(e) => setData({ ...data, email: e.target.value })}
+          value={loginData.email}
+          onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}
         />
         <label>Password</label>
         <input
           type="password"
           placeholder="Enter password..."
-          value={data.password}
-          onChange={(e) => setData({ ...data, password: e.target.value })}
+          value={loginData.password}
+          onChange={(e) => setLoginData({ ...loginData, password: e.target.value })}
         />
         <button type="submit">Login</button>
       </form>

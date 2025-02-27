@@ -73,3 +73,333 @@
 [36m2025-02-24 21:03:21[39m [[32mINFO[39m]: GET /profile 304 4.082
 [36m2025-02-24 21:03:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
 [36m2025-02-24 21:03:21[39m [[32mINFO[39m]: GET /profile 304 5.415
+[36m2025-02-25 03:28:59[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-02-25 03:29:03[39m [[32mINFO[39m]: Database Connected
+[36m2025-02-25 03:31:35[39m [[31mERROR[39m]: GET /profile 403 7.255
+[36m2025-02-25 03:31:35[39m [[31mERROR[39m]: GET /profile 403 3.551
+[36m2025-02-25 03:31:43[39m [[31mERROR[39m]: GET /profile 403 8.274
+[36m2025-02-25 03:31:43[39m [[31mERROR[39m]: GET /profile 403 1.664
+[36m2025-02-25 03:32:04[39m [[32mINFO[39m]: OPTIONS /login 204 0.887
+[36m2025-02-25 03:32:04[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-25 03:32:04[39m [[32mINFO[39m]: POST /login 200 719.038
+[36m2025-02-25 03:32:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:20[39m [[32mINFO[39m]: GET /profile 200 5.381
+[36m2025-02-25 03:32:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:20[39m [[32mINFO[39m]: GET /profile 304 6.043
+[36m2025-02-25 03:32:35[39m [[32mINFO[39m]: OPTIONS /login 204 0.442
+[36m2025-02-25 03:32:35[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-25 03:32:35[39m [[32mINFO[39m]: POST /login 200 727.593
+[36m2025-02-25 03:32:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:39[39m [[32mINFO[39m]: GET /profile 200 15.929
+[36m2025-02-25 03:32:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:39[39m [[32mINFO[39m]: GET /profile 304 14.311
+[36m2025-02-25 03:32:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:41[39m [[32mINFO[39m]: GET /profile 304 6.668
+[36m2025-02-25 03:32:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:41[39m [[32mINFO[39m]: GET /profile 304 3.818
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: GET /profile 304 43.677
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: GET /profile 304 11.507
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: GET /profile 304 4.255
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:43[39m [[32mINFO[39m]: GET /profile 304 3.125
+[36m2025-02-25 03:32:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:44[39m [[32mINFO[39m]: GET /profile 304 5.072
+[36m2025-02-25 03:32:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:44[39m [[32mINFO[39m]: GET /profile 304 5.401
+[36m2025-02-25 03:32:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:45[39m [[32mINFO[39m]: GET /profile 304 5.035
+[36m2025-02-25 03:32:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:45[39m [[32mINFO[39m]: GET /profile 304 4.973
+[36m2025-02-25 03:32:47[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:47[39m [[32mINFO[39m]: GET /profile 304 4.701
+[36m2025-02-25 03:32:47[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:47[39m [[32mINFO[39m]: GET /profile 304 13.055
+[36m2025-02-25 03:32:48[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:48[39m [[32mINFO[39m]: GET /profile 304 6.929
+[36m2025-02-25 03:32:48[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-25 03:32:48[39m [[32mINFO[39m]: GET /profile 304 5.234
+[36m2025-02-25 04:05:09[39m [[31mERROR[39m]: GET /profile 403 5.333
+[36m2025-02-25 04:05:09[39m [[31mERROR[39m]: GET /profile 403 1.578
+[36m2025-02-25 04:07:45[39m [[31mERROR[39m]: GET /profile 403 1.777
+[36m2025-02-25 04:07:45[39m [[31mERROR[39m]: GET /profile 403 3.206
+[36m2025-02-25 04:07:58[39m [[31mERROR[39m]: GET /profile 403 3.065
+[36m2025-02-25 04:07:58[39m [[31mERROR[39m]: GET /profile 403 2.266
+[36m2025-02-25 04:08:00[39m [[31mERROR[39m]: GET /profile 403 2.841
+[36m2025-02-25 04:08:00[39m [[31mERROR[39m]: GET /profile 403 2.446
+[36m2025-02-25 09:20:03[39m [[31mERROR[39m]: GET /profile 403 2.496
+[36m2025-02-25 09:20:03[39m [[31mERROR[39m]: GET /profile 403 1.742
+[36m2025-02-25 09:51:48[39m [[31mERROR[39m]: GET /profile 403 5.982
+[36m2025-02-25 09:51:48[39m [[31mERROR[39m]: GET /profile 403 1.698
+[36m2025-02-25 09:53:37[39m [[31mERROR[39m]: GET /profile 403 2.662
+[36m2025-02-25 09:53:37[39m [[31mERROR[39m]: GET /profile 403 2.748
+[36m2025-02-25 12:41:14[39m [[31mERROR[39m]: GET /profile 403 13.867
+[36m2025-02-25 12:41:14[39m [[31mERROR[39m]: GET /profile 403 1.968
+[36m2025-02-25 13:13:02[39m [[31mERROR[39m]: GET /profile 403 11.407
+[36m2025-02-25 13:13:02[39m [[31mERROR[39m]: GET /profile 403 3.267
+[36m2025-02-25 14:19:07[39m [[31mERROR[39m]: GET /profile 403 24.111
+[36m2025-02-25 14:19:07[39m [[31mERROR[39m]: GET /profile 403 3.399
+[36m2025-02-25 15:17:17[39m [[31mERROR[39m]: GET /profile 403 19.782
+[36m2025-02-25 15:17:17[39m [[31mERROR[39m]: GET /profile 403 10.893
+[36m2025-02-25 15:19:35[39m [[31mERROR[39m]: GET /profile 403 1.689
+[36m2025-02-25 15:19:35[39m [[31mERROR[39m]: GET /profile 403 2.417
+[36m2025-02-25 15:37:13[39m [[31mERROR[39m]: GET /profile 403 3.108
+[36m2025-02-25 15:37:13[39m [[31mERROR[39m]: GET /profile 403 2.282
+[36m2025-02-25 15:38:25[39m [[31mERROR[39m]: GET /profile 403 2.927
+[36m2025-02-25 15:38:25[39m [[31mERROR[39m]: GET /profile 403 4.900
+[36m2025-02-25 16:18:46[39m [[31mERROR[39m]: GET /profile 403 12.328
+[36m2025-02-25 16:18:46[39m [[31mERROR[39m]: GET /profile 403 12.593
+[36m2025-02-25 16:25:22[39m [[31mERROR[39m]: GET /profile 403 2.570
+[36m2025-02-25 16:25:22[39m [[31mERROR[39m]: GET /profile 403 2.287
+[36m2025-02-25 17:41:04[39m [[31mERROR[39m]: GET /profile 403 3.352
+[36m2025-02-25 17:41:04[39m [[31mERROR[39m]: GET /profile 403 4.562
+[36m2025-02-26 09:26:13[39m [[31mERROR[39m]: GET /profile 403 20.244
+[36m2025-02-26 09:26:13[39m [[31mERROR[39m]: GET /profile 403 1.778
+[36m2025-02-26 09:35:18[39m [[31mERROR[39m]: GET /profile 403 2.435
+[36m2025-02-26 09:35:18[39m [[31mERROR[39m]: GET /profile 403 1.967
+[36m2025-02-26 11:19:48[39m [[31mERROR[39m]: GET /profile 403 36.685
+[36m2025-02-26 11:19:48[39m [[31mERROR[39m]: GET /profile 403 7.020
+[36m2025-02-26 11:32:46[39m [[31mERROR[39m]: GET /profile 403 1.588
+[36m2025-02-26 11:32:46[39m [[31mERROR[39m]: GET /profile 403 2.335
+[36m2025-02-26 17:42:09[39m [[31mERROR[39m]: GET /profile 403 39.200
+[36m2025-02-26 17:42:09[39m [[31mERROR[39m]: GET /profile 403 3.455
+[36m2025-02-26 17:43:03[39m [[32mINFO[39m]: OPTIONS /login 204 3.753
+[36m2025-02-26 17:43:07[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-26 17:43:07[39m [[32mINFO[39m]: POST /login 200 3450.496
+[36m2025-02-26 17:43:07[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-26 17:43:07[39m [[32mINFO[39m]: POST /login 200 626.321
+[36m2025-02-26 17:43:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:13[39m [[32mINFO[39m]: GET /profile 200 11.588
+[36m2025-02-26 17:43:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:13[39m [[32mINFO[39m]: GET /profile 304 8.020
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: GET /profile 304 5.571
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: GET /profile 304 6.847
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: GET /profile 304 5.522
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:15[39m [[32mINFO[39m]: GET /profile 304 10.051
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 12.235
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 9.650
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 7.558
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 8.281
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 4.563
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 17:43:16[39m [[32mINFO[39m]: GET /profile 304 4.463
+[36m2025-02-26 17:56:46[39m [[31mERROR[39m]: GET /profile 403 5.918
+[36m2025-02-26 17:56:46[39m [[31mERROR[39m]: GET /profile 403 24.040
+[36m2025-02-26 18:04:57[39m [[31mERROR[39m]: GET /profile 403 9.704
+[36m2025-02-26 18:04:57[39m [[31mERROR[39m]: GET /profile 403 2.715
+[36m2025-02-26 18:04:58[39m [[31mERROR[39m]: GET /profile 403 2.606
+[36m2025-02-26 18:04:58[39m [[31mERROR[39m]: GET /profile 403 4.547
+[36m2025-02-26 18:10:39[39m [[31mERROR[39m]: GET /profile 403 6.179
+[36m2025-02-26 18:10:39[39m [[31mERROR[39m]: GET /profile 403 9.311
+[36m2025-02-26 18:10:41[39m [[31mERROR[39m]: GET /profile 403 2.419
+[36m2025-02-26 18:10:41[39m [[31mERROR[39m]: GET /profile 403 1.673
+[36m2025-02-26 18:12:04[39m [[31mERROR[39m]: GET /profile 403 2.363
+[36m2025-02-26 18:12:04[39m [[31mERROR[39m]: GET /profile 403 1.645
+[36m2025-02-26 18:12:05[39m [[31mERROR[39m]: GET /profile 403 1.805
+[36m2025-02-26 18:12:05[39m [[31mERROR[39m]: GET /profile 403 10.652
+[36m2025-02-26 18:51:04[39m [[31mERROR[39m]: GET /profile 403 11.678
+[36m2025-02-26 18:51:04[39m [[31mERROR[39m]: GET /profile 403 3.482
+[36m2025-02-26 18:57:09[39m [[31mERROR[39m]: GET /profile 403 9.368
+[36m2025-02-26 18:57:09[39m [[31mERROR[39m]: GET /profile 403 3.795
+[36m2025-02-26 18:57:20[39m [[32mINFO[39m]: OPTIONS /register 204 2.998
+[36m2025-02-26 18:57:20[39m [[33mWARN[39m]: Registration failed: Name is required
+[36m2025-02-26 18:57:20[39m [[32mINFO[39m]: POST /register 200 29.828
+[36m2025-02-26 18:57:26[39m [[32mINFO[39m]: OPTIONS /login 204 0.226
+[36m2025-02-26 18:57:30[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-02-26 18:57:30[39m [[32mINFO[39m]: POST /login 200 3842.087
+[36m2025-02-26 19:05:34[39m [[31mERROR[39m]: GET /profile 403 5.036
+[36m2025-02-26 19:05:34[39m [[31mERROR[39m]: GET /profile 403 3.870
+[36m2025-02-26 19:05:37[39m [[31mERROR[39m]: GET /profile 403 4.461
+[36m2025-02-26 19:05:37[39m [[31mERROR[39m]: GET /profile 403 3.680
+[36m2025-02-26 19:05:49[39m [[32mINFO[39m]: OPTIONS /login 204 1.559
+[36m2025-02-26 19:05:50[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-26 19:05:50[39m [[32mINFO[39m]: POST /login 200 960.420
+[36m2025-02-26 19:05:52[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:52[39m [[32mINFO[39m]: GET /profile 200 13.924
+[36m2025-02-26 19:05:52[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:52[39m [[32mINFO[39m]: GET /profile 304 11.878
+[36m2025-02-26 19:05:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:53[39m [[32mINFO[39m]: GET /profile 304 47.031
+[36m2025-02-26 19:05:54[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:54[39m [[32mINFO[39m]: GET /profile 200 13.981
+[36m2025-02-26 19:05:54[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:54[39m [[32mINFO[39m]: GET /profile 304 25.365
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: GET /profile 304 15.069
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: GET /profile 304 17.047
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: GET /profile 304 22.801
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:58[39m [[32mINFO[39m]: GET /profile 304 11.347
+[36m2025-02-26 19:05:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:59[39m [[32mINFO[39m]: GET /profile 304 5.388
+[36m2025-02-26 19:05:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-26 19:05:59[39m [[32mINFO[39m]: GET /profile 304 5.637
+[36m2025-02-26 19:15:16[39m [[31mERROR[39m]: GET /profile 403 15.725
+[36m2025-02-26 19:15:16[39m [[31mERROR[39m]: GET /profile 403 2.142
+[36m2025-02-26 19:15:16[39m [[31mERROR[39m]: GET /profile 403 3.643
+[36m2025-02-26 19:15:16[39m [[31mERROR[39m]: GET /profile 403 2.922
+[36m2025-02-26 22:01:04[39m [[31mERROR[39m]: GET /profile 403 2.726
+[36m2025-02-26 22:01:04[39m [[31mERROR[39m]: GET /profile 403 3.030
+[36m2025-02-26 22:01:04[39m [[31mERROR[39m]: GET /profile 403 1.650
+[36m2025-02-26 22:01:04[39m [[31mERROR[39m]: GET /profile 403 1.821
+[36m2025-02-27 05:03:26[39m [[31mERROR[39m]: GET /profile 403 18.443
+[36m2025-02-27 05:03:26[39m [[31mERROR[39m]: GET /profile 403 1.625
+[36m2025-02-27 05:03:26[39m [[31mERROR[39m]: GET /profile 403 1.933
+[36m2025-02-27 05:03:26[39m [[31mERROR[39m]: GET /profile 403 3.878
+[36m2025-02-27 05:40:02[39m [[31mERROR[39m]: GET /profile 403 38.674
+[36m2025-02-27 05:40:02[39m [[31mERROR[39m]: GET /profile 403 6.442
+[36m2025-02-27 05:40:02[39m [[31mERROR[39m]: GET /profile 403 1.746
+[36m2025-02-27 05:40:02[39m [[31mERROR[39m]: GET /profile 403 3.611
+[36m2025-02-27 06:00:01[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-02-27 06:00:02[39m [[31mERROR[39m]: GET /profile 403 12.408
+[36m2025-02-27 06:00:02[39m [[31mERROR[39m]: GET /profile 403 2.620
+[36m2025-02-27 06:00:06[39m [[32mINFO[39m]: Database Connected
+[36m2025-02-27 06:00:18[39m [[32mINFO[39m]: OPTIONS /login 204 0.446
+[36m2025-02-27 06:00:18[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-27 06:00:18[39m [[32mINFO[39m]: POST /login 200 743.552
+[36m2025-02-27 06:00:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:24[39m [[32mINFO[39m]: GET /profile 200 11.505
+[36m2025-02-27 06:00:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:24[39m [[32mINFO[39m]: GET /profile 304 9.304
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 13.464
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 10.176
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 9.971
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 4.946
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 7.382
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 9.467
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 5.009
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:25[39m [[32mINFO[39m]: GET /profile 304 6.040
+[36m2025-02-27 06:00:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:26[39m [[32mINFO[39m]: GET /profile 304 10.218
+[36m2025-02-27 06:00:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 06:00:26[39m [[32mINFO[39m]: GET /profile 304 4.895
+[36m2025-02-27 06:05:34[39m [[31mERROR[39m]: GET /profile 403 5.628
+[36m2025-02-27 06:05:34[39m [[31mERROR[39m]: GET /profile 403 2.272
+[36m2025-02-27 06:31:27[39m [[31mERROR[39m]: GET /profile 403 20.490
+[36m2025-02-27 06:31:27[39m [[31mERROR[39m]: GET /profile 403 1.886
+[36m2025-02-27 06:47:32[39m [[31mERROR[39m]: GET /profile 403 9.490
+[36m2025-02-27 06:47:32[39m [[31mERROR[39m]: GET /profile 403 1.648
+[36m2025-02-27 06:47:33[39m [[31mERROR[39m]: GET /profile 403 1.876
+[36m2025-02-27 06:47:33[39m [[31mERROR[39m]: GET /profile 403 1.975
+[36m2025-02-27 06:47:33[39m [[31mERROR[39m]: GET /profile 403 1.851
+[36m2025-02-27 06:47:33[39m [[31mERROR[39m]: GET /profile 403 4.906
+[36m2025-02-27 10:27:47[39m [[31mERROR[39m]: GET /profile 403 96.926
+[36m2025-02-27 10:27:47[39m [[31mERROR[39m]: GET /profile 403 6.110
+[36m2025-02-27 10:27:47[39m [[31mERROR[39m]: GET /profile 403 3.388
+[36m2025-02-27 10:27:47[39m [[31mERROR[39m]: GET /profile 403 1.908
+[36m2025-02-27 10:27:48[39m [[31mERROR[39m]: GET /profile 403 2.630
+[36m2025-02-27 10:27:48[39m [[31mERROR[39m]: GET /profile 403 5.763
+[36m2025-02-27 12:11:01[39m [[31mERROR[39m]: GET /profile 403 27.700
+[36m2025-02-27 12:11:01[39m [[31mERROR[39m]: GET /profile 403 3.922
+[36m2025-02-27 12:11:07[39m [[31mERROR[39m]: GET /profile 403 2.933
+[36m2025-02-27 12:11:07[39m [[31mERROR[39m]: GET /profile 403 2.370
+[36m2025-02-27 12:11:07[39m [[31mERROR[39m]: GET /profile 403 2.148
+[36m2025-02-27 12:11:07[39m [[31mERROR[39m]: GET /profile 403 2.575
+[36m2025-02-27 12:21:11[39m [[31mERROR[39m]: GET /profile 403 41.538
+[36m2025-02-27 12:21:11[39m [[31mERROR[39m]: GET /profile 403 2.906
+[36m2025-02-27 12:36:12[39m [[31mERROR[39m]: GET /profile 403 6.891
+[36m2025-02-27 12:36:12[39m [[31mERROR[39m]: GET /profile 403 3.669
+[36m2025-02-27 12:36:12[39m [[31mERROR[39m]: GET /profile 403 5.474
+[36m2025-02-27 12:36:12[39m [[31mERROR[39m]: GET /profile 403 6.348
+[36m2025-02-27 13:55:35[39m [[31mERROR[39m]: GET /profile 403 44.268
+[36m2025-02-27 13:55:35[39m [[31mERROR[39m]: GET /profile 403 4.528
+[36m2025-02-27 13:55:35[39m [[31mERROR[39m]: GET /profile 403 1.935
+[36m2025-02-27 13:55:35[39m [[31mERROR[39m]: GET /profile 403 1.637
+[36m2025-02-27 15:12:22[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-02-27 15:12:27[39m [[32mINFO[39m]: Database Connected
+[36m2025-02-27 15:12:31[39m [[31mERROR[39m]: GET /profile 403 14.389
+[36m2025-02-27 15:12:31[39m [[31mERROR[39m]: GET /profile 403 5.648
+[36m2025-02-27 15:12:48[39m [[32mINFO[39m]: OPTIONS /login 204 0.580
+[36m2025-02-27 15:12:49[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-27 15:12:49[39m [[32mINFO[39m]: POST /login 200 1240.136
+[36m2025-02-27 15:12:54[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:54[39m [[32mINFO[39m]: GET /profile 200 38.220
+[36m2025-02-27 15:12:54[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:54[39m [[32mINFO[39m]: GET /profile 304 8.966
+[36m2025-02-27 15:12:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:55[39m [[32mINFO[39m]: GET /profile 304 6.647
+[36m2025-02-27 15:12:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:55[39m [[32mINFO[39m]: GET /profile 304 17.487
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: GET /profile 304 6.823
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: GET /profile 304 5.672
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: GET /profile 304 12.261
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:56[39m [[32mINFO[39m]: GET /profile 304 11.716
+[36m2025-02-27 15:12:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:57[39m [[32mINFO[39m]: GET /profile 304 5.724
+[36m2025-02-27 15:12:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:57[39m [[32mINFO[39m]: GET /profile 304 5.135
+[36m2025-02-27 15:12:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:58[39m [[32mINFO[39m]: GET /profile 304 5.141
+[36m2025-02-27 15:12:58[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:12:58[39m [[32mINFO[39m]: GET /profile 304 4.854
+[36m2025-02-27 15:43:35[39m [[31mERROR[39m]: GET /profile 403 36.049
+[36m2025-02-27 15:43:35[39m [[31mERROR[39m]: GET /profile 403 3.035
+[36m2025-02-27 15:43:37[39m [[31mERROR[39m]: GET /profile 403 28.098
+[36m2025-02-27 15:43:37[39m [[31mERROR[39m]: GET /profile 403 4.017
+[36m2025-02-27 15:43:53[39m [[32mINFO[39m]: OPTIONS /login 204 0.462
+[36m2025-02-27 15:43:54[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-27 15:43:54[39m [[32mINFO[39m]: POST /login 200 807.374
+[36m2025-02-27 15:44:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:00[39m [[32mINFO[39m]: GET /profile 200 7.903
+[36m2025-02-27 15:44:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:00[39m [[32mINFO[39m]: GET /profile 304 10.531
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: GET /profile 304 15.404
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: GET /profile 304 13.361
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: GET /profile 304 5.426
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:01[39m [[32mINFO[39m]: GET /profile 304 14.890
+[36m2025-02-27 15:44:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:02[39m [[32mINFO[39m]: GET /profile 304 3.773
+[36m2025-02-27 15:44:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 15:44:02[39m [[32mINFO[39m]: GET /profile 304 8.517
+[36m2025-02-27 16:27:02[39m [[31mERROR[39m]: GET /profile 401 10.628
+[36m2025-02-27 16:27:02[39m [[31mERROR[39m]: GET /profile 401 0.437
+[36m2025-02-27 16:27:26[39m [[31mERROR[39m]: GET /profile 403 7.439
+[36m2025-02-27 16:27:27[39m [[31mERROR[39m]: GET /profile 403 1.936
+[36m2025-02-27 16:27:28[39m [[32mINFO[39m]: OPTIONS /login 204 0.271
+[36m2025-02-27 16:27:29[39m [[32mINFO[39m]: User logged in: k@gmail.com
+[36m2025-02-27 16:27:29[39m [[32mINFO[39m]: POST /login 200 943.149
+[36m2025-02-27 16:27:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:35[39m [[32mINFO[39m]: GET /profile 200 4.196
+[36m2025-02-27 16:27:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:35[39m [[32mINFO[39m]: GET /profile 304 6.038
+[36m2025-02-27 16:27:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:38[39m [[32mINFO[39m]: GET /profile 304 7.918
+[36m2025-02-27 16:27:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:38[39m [[32mINFO[39m]: GET /profile 304 3.909
+[36m2025-02-27 16:27:40[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:40[39m [[32mINFO[39m]: GET /profile 304 8.472
+[36m2025-02-27 16:27:40[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:40[39m [[32mINFO[39m]: GET /profile 304 5.352
+[36m2025-02-27 16:27:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:41[39m [[32mINFO[39m]: GET /profile 304 5.644
+[36m2025-02-27 16:27:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67b954ad758f2ace522acbbb
+[36m2025-02-27 16:27:41[39m [[32mINFO[39m]: GET /profile 304 15.885
