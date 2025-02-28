@@ -1,5 +1,5 @@
 // 📌 styles/NavbarStyles.js
-import styled from "styled-components";
+/*import styled from "styled-components";
 
 export const Nav = styled.nav`
   width: 100%;
@@ -28,3 +28,4 @@ export const NavLink = styled.a`
     color: #f39c12;
   }
 `;
+*/

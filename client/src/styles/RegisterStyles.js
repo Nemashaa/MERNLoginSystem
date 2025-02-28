@@ -1,5 +1,5 @@
 // 📌 styles/RegisterStyles.js
-import styled from "styled-components";
+/*import styled from "styled-components";
 import { Button, Container } from "./SharedStyles"; // Import shared styles
 
 export const RegisterContainer = styled(Container)`
@@ -26,3 +26,4 @@ export const RegisterInput = styled.input`
 `;
 
 export const RegisterButton = styled(Button)``; // Reusing the shared button
+*/

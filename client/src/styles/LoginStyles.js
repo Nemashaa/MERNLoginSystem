@@ -1,5 +1,5 @@
 // 📌 styles/LoginStyles.js
-import styled from "styled-components";
+/*import styled from "styled-components";
 import { Button, Container } from "./SharedStyles"; // Import shared styles
 
 export const LoginContainer = styled(Container)`
@@ -11,7 +11,7 @@ export const LoginBox = styled.div`
   padding: 40px;
   border-radius: 10px;
   width: 100%;
-  max-width: 400px; /* Limit width */
+  max-width: 400px; 
   text-align: center;
 `;
 
@@ -26,3 +26,5 @@ export const LoginInput = styled.input`
 `;
 
 export const LoginButton = styled(Button)``; // Reusing the shared button
+
+*/

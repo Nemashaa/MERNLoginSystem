@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+/*import styled from 'styled-components';
 
 // Color palette
 export const colors = {
@@ -130,3 +130,5 @@ export const Grid = styled.div`
   gap: 1.5rem;
   margin-top: 2rem;
 `;
+
+*/

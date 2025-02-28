@@ -1,5 +1,5 @@
 // 📌 styles/HomeStyles.js
-import styled from "styled-components";
+/*import styled from "styled-components";
 import { Container } from "./SharedStyles"; // Import shared styles
 
 export const HomeContainer = styled(Container)`
@@ -15,3 +15,4 @@ export const HomeText = styled.p`
   font-size: 1.2rem;
   color: #666;
 `;
+*/
