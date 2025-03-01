@@ -1,34 +1,32 @@
-import React, { useState } from "react";
-import axios from "axios";
-import { toast } from "react-hot-toast";
-import { useNavigate } from "react-router-dom";
+import React, { useState } from 'react';
+import axios from 'axios';
+import { toast } from 'react-hot-toast';
+import { useNavigate } from 'react-router-dom';
+import useAuthStore from '../store/authStore';
 
 export default function Login() {
   const navigate = useNavigate();
-  const [data, setData] = useState({
-    email: "",
-    password: "",
+  const [loginData, setLoginData] = useState({
+    email: '',
+    password: '',
   });
+
+  const { setUser } = useAuthStore();
 
   const loginUser = async (e) => {
     e.preventDefault();
-    const { email, password } = data;
+    const { email, password } = loginData;
 
     try {
-      const { data } = await axios.post("/login", { email, password });
+      const { data: responseData } = await axios.post('/login', { email, password });
 
-      if (data.error) {
-        toast.error(data.error);
+      if (responseData.error) {
+        toast.error(responseData.error);
       } else {
-        console.log("Login Response:", data);
-        if (data.accessToken) {
-          localStorage.setItem("accessToken", data.accessToken);
-        }
-        if (data.refreshToken) {
-          localStorage.setItem("refreshToken", data.refreshToken);
-        }
-        setData({ email: "", password: "" });
-        navigate("/dashboard");
+        console.log('Login Response:', responseData);
+        setUser(responseData.user);
+        setLoginData({ email: '', password: '' });
+        navigate('/dashboard');
       }
     } catch (error) {
       console.log(error);
@@ -38,14 +36,12 @@ export default function Login() {
   // Function to refresh the access token
   const refreshAccessToken = async () => {
     try {
-      const { data } = await axios.post("/refresh-token", {}, { withCredentials: true });
-
-      if (data.accessToken) {
-        localStorage.setItem("accessToken", data.accessToken); // Save the new access token
+      const { data: responseData } = await axios.post('/refresh-token', {}, { withCredentials: true });
+      if (responseData.accessToken) {
+        setUser((prev) => ({ ...prev, accessToken: responseData.accessToken }));
       }
     } catch (error) {
-      console.error("Failed to refresh token:", error);
-      // Optionally handle cases where refresh token has expired
+      console.error('Failed to refresh token:', error);
     }
   };
 
@@ -54,19 +50,19 @@ export default function Login() {
       <form onSubmit={loginUser}>
         <label>Email</label>
         <input
-          type="email"
-          placeholder="Enter email..."
-          value={data.email}
-          onChange={(e) => setData({ ...data, email: e.target.value })}
+          type='email'
+          placeholder='Enter email...'
+          value={loginData.email}
+          onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}
         />
         <label>Password</label>
         <input
-          type="password"
-          placeholder="Enter password..."
-          value={data.password}
-          onChange={(e) => setData({ ...data, password: e.target.value })}
+          type='password'
+          placeholder='Enter password...'
+          value={loginData.password}
+          onChange={(e) => setLoginData({ ...loginData, password: e.target.value })}
         />
-        <button type="submit">Login</button>
+        <button type='submit'>Login</button>
       </form>
     </div>
   );

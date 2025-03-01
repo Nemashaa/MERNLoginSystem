@@ -1,3 +1,4 @@
+// pages/Register.jsx
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
@@ -5,32 +6,16 @@ import { toast } from 'react-hot-toast';
 
 export default function Register() {
   const navigate = useNavigate();
-  const [registerData, setRegisterData] = useState({
-    name: '',
-    email: '',
-    password: '',
-  });
+  const [registerData, setRegisterData] = useState({ name: '', email: '', password: '' });
 
   const registerUser = async (e) => {
     e.preventDefault();
-    const { name, email, password } = registerData;
-
     try {
-      const { data: responseData } = await axios.post('/register', {
-        name,
-        email,
-        password,
-      });
-
+      const { data: responseData } = await axios.post('/register', registerData); // Renamed data to responseData
       if (responseData.error) {
-        toast.error(responseData.error);
+        toast.error(responseData.error); // Using responseData
       } else {
-        setRegisterData({
-          name: '',
-          email: '',
-          password: '',
-        });
-
+        setRegisterData({ name: '', email: '', password: '' });
         toast.success('Registration successful! Welcome!');
         navigate('/login');
       }

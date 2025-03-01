@@ -1,15 +1,26 @@
 import create from 'zustand';
+
 import axios from 'axios';
 
-export const useUserStore = create((set) => ({
+const useAuthStore = create((set) => ({
   user: null,
-  setUser: (user) => set({ user }),
-  fetchUser: async () => {
+  isLoggedIn: false,
+
+  setUser: (userData) => set({ user: userData, isLoggedIn: !!userData }), // Add this line
+
+  checkAuth: async () => {
     try {
       const { data } = await axios.get('/profile');
-      set({ user: data });
+      set({ user: data, isLoggedIn: true });
     } catch (error) {
-      console.log('Error fetching user data:', error);
+      set({ user: null, isLoggedIn: false });
     }
-  }
+  },
+
+  logout: async () => {
+    await axios.post('/logout');
+    set({ user: null, isLoggedIn: false });
+  },
 }));
+
+export default useAuthStore;

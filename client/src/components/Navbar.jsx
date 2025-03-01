@@ -1,33 +1,30 @@
+// components/Navbar.jsx
 import { Link, useNavigate } from "react-router-dom";
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
+import useAuthStore from "../store/authStore";
 
 export default function Navbar() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const navigate = useNavigate();  // Hook to navigate to different routes
+  const { isLoggedIn, checkAuth, logout } = useAuthStore();
+  const navigate = useNavigate();
 
   useEffect(() => {
-    // Check if the user is logged in by checking tokens
-    const accessToken = localStorage.getItem('accessToken');
-    setIsLoggedIn(!!accessToken);  // If there's an access token, user is logged in
+    checkAuth(); // Check authentication on mount
   }, []);
 
-  const handleLogout = () => {
-    // Remove tokens and log out
-    localStorage.removeItem('accessToken');
-    localStorage.removeItem('refreshToken');
-    setIsLoggedIn(false);
-    navigate('/');  // Navigate to the home page after logout
+  const handleLogout = async () => {
+    await logout();
+    navigate("/");
   };
 
   return (
     <div>
       <Link to="/">Home</Link>
       <Link to="/register">Register</Link>
-      {
-        isLoggedIn ? 
-        <span onClick={handleLogout} style={{cursor: 'pointer'}}>Logout</span> : 
+      {isLoggedIn ? (
+        <span onClick={handleLogout} style={{ cursor: "pointer" }}>Logout</span>
+      ) : (
         <Link to="/login">Login</Link>
-      }
+      )}
     </div>
   );
 }
