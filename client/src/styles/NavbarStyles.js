@@ -1,31 +1,40 @@
-// 📌 styles/NavbarStyles.js
-/*import styled from "styled-components";
+import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
-export const Nav = styled.nav`
+export const NavbarContainer = styled.nav`
+  background-color: #333;
+  padding: 10px;
   width: 100%;
-  background: #333;
-  padding: 15px;
+  box-sizing: border-box;
+`;
+
+export const NavbarList = styled.ul`
+  list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+  margin: 0;
+  padding: 0;
 `;
 
-export const NavLogo = styled.h1`
-  color: white;
+export const NavbarItem = styled.li`
+  margin: 0 10px;
 `;
 
-export const NavLinks = styled.div`
-  display: flex;
-  gap: 20px;
-`;
-
-export const NavLink = styled.a`
+export const NavbarLink = styled(Link)`
   color: white;
   text-decoration: none;
-  font-size: 1rem;
 
   &:hover {
-    color: #f39c12;
+    text-decoration: underline;
   }
 `;
-*/
+
+export const NavbarSpan = styled.span`
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+`;

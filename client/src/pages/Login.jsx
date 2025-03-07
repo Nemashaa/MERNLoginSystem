@@ -33,15 +33,9 @@ export default function Login() {
     }
   };
 
-  // Function to refresh the access token
-  const refreshAccessToken = async () => {
-    try {
-      const { data: responseData } = await axios.post('/refresh-token', {}, { withCredentials: true });
-      if (responseData.accessToken) {
-        setUser((prev) => ({ ...prev, accessToken: responseData.accessToken }));
-      }
-    } catch (error) {
-      console.error('Failed to refresh token:', error);
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
     }
   };
 
@@ -54,6 +48,7 @@ export default function Login() {
           placeholder='Enter email...'
           value={loginData.email}
           onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}
+          onKeyDown={handleKeyDown}
         />
         <label>Password</label>
         <input
@@ -61,6 +56,7 @@ export default function Login() {
           placeholder='Enter password...'
           value={loginData.password}
           onChange={(e) => setLoginData({ ...loginData, password: e.target.value })}
+          onKeyDown={handleKeyDown}
         />
         <button type='submit'>Login</button>
       </form>

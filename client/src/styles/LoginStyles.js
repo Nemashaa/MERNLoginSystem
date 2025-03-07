@@ -1,30 +1,29 @@
-// 📌 styles/LoginStyles.js
-/*import styled from "styled-components";
-import { Button, Container } from "./SharedStyles"; // Import shared styles
+import styled from 'styled-components';
+import { Button, Container, Input } from './SharedStyles'; // Import shared styles
 
 export const LoginContainer = styled(Container)`
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0;
 `;
 
-export const LoginBox = styled.div`
-  background-color: #2a2a2a;
-  padding: 40px;
-  border-radius: 10px;
-  width: 100%;
-  max-width: 400px; 
-  text-align: center;
+export const LoginForm = styled.form`
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 `;
 
-export const LoginInput = styled.input`
-  width: 100%;
-  padding: 10px;
-  margin: 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #333;
-  color: white;
+export const LoginInput = styled(Input)`
+  margin-bottom: 10px;
 `;
 
-export const LoginButton = styled(Button)``; // Reusing the shared button
-
-*/
+export const LoginButton = styled(Button)`
+  width: 100%;
+  margin-top: 20px;
+`; // Reusing the shared button

@@ -4,10 +4,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import { Toaster } from "react-hot-toast";
 import AppRoutes from "./routes/AppRoutes";
-import axios from "axios";
-
-axios.defaults.baseURL = "http://localhost:8000";
-axios.defaults.withCredentials = true;
+import './utils/axiosInterceptor';
 
 const App = () => {
   return (
