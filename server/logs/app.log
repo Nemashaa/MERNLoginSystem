@@ -1341,3 +1341,1263 @@
 [36m2025-03-07 14:54:18[39m [[32mINFO[39m]: GET /profile 304 7.089
 [36m2025-03-07 14:54:19[39m [[32mINFO[39m]: User logged out: Unknown user
 [36m2025-03-07 14:54:19[39m [[32mINFO[39m]: POST /logout 200 0.774
+[36m2025-03-07 15:15:40[39m [[31mERROR[39m]: GET /profile 403 30.169
+[36m2025-03-07 15:15:40[39m [[31mERROR[39m]: GET /profile 403 1.853
+[36m2025-03-07 15:16:07[39m [[32mINFO[39m]: OPTIONS /login 204 0.803
+[36m2025-03-07 15:16:08[39m [[32mINFO[39m]: User logged in: n@gmail.com
+[36m2025-03-07 15:16:08[39m [[32mINFO[39m]: POST /login 200 697.756
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: GET /profile 200 5.027
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: GET /profile 304 4.465
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: GET /profile 304 27.881
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:11[39m [[32mINFO[39m]: GET /profile 304 13.903
+[36m2025-03-07 15:16:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:12[39m [[32mINFO[39m]: GET /profile 304 4.026
+[36m2025-03-07 15:16:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:12[39m [[32mINFO[39m]: GET /profile 304 3.873
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: GET /profile 304 8.012
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: GET /profile 304 6.734
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: GET /profile 304 66.361
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: GET /profile 200 13.284
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-07 15:16:13[39m [[32mINFO[39m]: GET /profile 304 9.542
+[36m2025-03-07 15:16:17[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-07 15:16:17[39m [[32mINFO[39m]: POST /logout 200 2.610
+[36m2025-03-07 16:05:19[39m [[31mERROR[39m]: GET /profile 403 198.500
+[36m2025-03-07 16:05:19[39m [[31mERROR[39m]: GET /profile 403 10.624
+[36m2025-03-07 16:13:19[39m [[31mERROR[39m]: GET /profile 403 258.240
+[36m2025-03-07 16:13:19[39m [[31mERROR[39m]: GET /profile 403 36.525
+[36m2025-03-08 15:19:06[39m [[31mERROR[39m]: GET /profile 403 64.772
+[36m2025-03-08 15:19:07[39m [[31mERROR[39m]: GET /profile 403 5.542
+[36m2025-03-10 06:51:46[39m [[31mERROR[39m]: GET /profile 403 7.728
+[36m2025-03-10 06:51:46[39m [[31mERROR[39m]: GET /profile 403 1.616
+[36m2025-03-10 07:31:28[39m [[32mINFO[39m]: OPTIONS /login 204 15.866
+[36m2025-03-10 07:31:31[39m [[32mINFO[39m]: User logged in: n@gmail.com
+[36m2025-03-10 07:31:31[39m [[32mINFO[39m]: POST /login 200 2910.551
+[36m2025-03-10 07:31:33[39m [[32mINFO[39m]: User logged in: n@gmail.com
+[36m2025-03-10 07:31:33[39m [[32mINFO[39m]: POST /login 200 2120.782
+[36m2025-03-10 07:31:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-10 07:31:38[39m [[32mINFO[39m]: GET /profile 200 14.538
+[36m2025-03-10 07:31:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67c30c01813356d1b9519256
+[36m2025-03-10 07:31:38[39m [[32mINFO[39m]: GET /profile 304 13.253
+[36m2025-03-10 07:31:40[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-10 07:31:40[39m [[32mINFO[39m]: POST /logout 200 0.832
+[36m2025-03-10 08:00:38[39m [[31mERROR[39m]: GET /profile 403 27.212
+[36m2025-03-10 08:00:38[39m [[31mERROR[39m]: GET /profile 403 1.686
+[36m2025-03-10 08:36:59[39m [[31mERROR[39m]: GET /profile 403 10.694
+[36m2025-03-10 08:36:59[39m [[31mERROR[39m]: GET /profile 403 2.020
+[36m2025-03-10 09:09:51[39m [[31mERROR[39m]: GET /profile 403 5.902
+[36m2025-03-10 09:09:51[39m [[31mERROR[39m]: GET /profile 403 11.038
+[36m2025-03-10 10:38:15[39m [[31mERROR[39m]: GET /profile 403 1.650
+[36m2025-03-10 10:38:15[39m [[31mERROR[39m]: GET /profile 403 1.544
+[36m2025-03-10 10:48:13[39m [[31mERROR[39m]: GET /profile 403 1.738
+[36m2025-03-10 10:48:13[39m [[31mERROR[39m]: GET /profile 403 1.933
+[36m2025-03-10 11:49:44[39m [[31mERROR[39m]: GET /profile 403 10.647
+[36m2025-03-10 11:49:44[39m [[31mERROR[39m]: GET /profile 403 2.305
+[36m2025-03-10 18:58:21[39m [[31mERROR[39m]: GET /profile 403 39.394
+[36m2025-03-10 18:58:21[39m [[31mERROR[39m]: GET /profile 403 3.001
+[36m2025-03-10 20:36:33[39m [[31mERROR[39m]: GET /profile 403 61.321
+[36m2025-03-10 20:36:34[39m [[31mERROR[39m]: GET /profile 403 22.041
+[36m2025-03-11 09:26:03[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 09:26:42[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 09:29:55[39m [[31mERROR[39m]: GET /profile 403 30.447
+[36m2025-03-11 09:29:55[39m [[31mERROR[39m]: GET /profile 403 2.736
+[36m2025-03-11 09:29:56[39m [[31mERROR[39m]: GET /profile 403 6.472
+[36m2025-03-11 09:29:56[39m [[31mERROR[39m]: GET /profile 403 17.177
+[36m2025-03-11 09:30:17[39m [[32mINFO[39m]: OPTIONS /login 204 1.054
+[36m2025-03-11 09:30:18[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:30:18[39m [[31mERROR[39m]: POST /login 400 751.846
+[36m2025-03-11 09:30:21[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:30:21[39m [[31mERROR[39m]: POST /login 400 630.166
+[36m2025-03-11 09:30:32[39m [[32mINFO[39m]: OPTIONS /login 204 0.213
+[36m2025-03-11 09:30:33[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:30:33[39m [[31mERROR[39m]: POST /login 400 633.702
+[36m2025-03-11 09:30:38[39m [[32mINFO[39m]: OPTIONS /login 204 0.285
+[36m2025-03-11 09:30:39[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:30:39[39m [[31mERROR[39m]: POST /login 400 619.062
+[36m2025-03-11 09:30:46[39m [[32mINFO[39m]: OPTIONS /login 204 0.221
+[36m2025-03-11 09:30:47[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:30:47[39m [[31mERROR[39m]: POST /login 400 611.140
+[36m2025-03-11 09:35:32[39m [[31mERROR[39m]: GET /profile 403 33.268
+[36m2025-03-11 09:35:48[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 09:35:51[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 09:36:06[39m [[31mERROR[39m]: GET /profile 403 9.740
+[36m2025-03-11 09:36:06[39m [[31mERROR[39m]: GET /profile 403 2.677
+[36m2025-03-11 09:36:09[39m [[32mINFO[39m]: OPTIONS /login 204 0.435
+[36m2025-03-11 09:36:09[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-11 09:36:09[39m [[32mINFO[39m]: POST /login 200 346.453
+[36m2025-03-11 09:36:24[39m [[32mINFO[39m]: OPTIONS /login 204 0.212
+[36m2025-03-11 09:36:24[39m [[33mWARN[39m]: Login failed: Incorrect password for email n@gmail.com
+[36m2025-03-11 09:36:24[39m [[31mERROR[39m]: POST /login 400 641.769
+[36m2025-03-11 09:37:01[39m [[32mINFO[39m]: OPTIONS /register 204 0.368
+[36m2025-03-11 09:37:02[39m [[32mINFO[39m]: New user registered: p@gmail.com
+[36m2025-03-11 09:37:02[39m [[32mINFO[39m]: POST /register 200 951.829
+[36m2025-03-11 09:37:26[39m [[32mINFO[39m]: OPTIONS /login 204 0.282
+[36m2025-03-11 09:37:27[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 09:37:27[39m [[32mINFO[39m]: POST /login 200 613.222
+[36m2025-03-11 09:37:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:32[39m [[32mINFO[39m]: GET /profile 200 4.967
+[36m2025-03-11 09:37:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:32[39m [[32mINFO[39m]: GET /profile 304 8.573
+[36m2025-03-11 09:37:33[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:33[39m [[32mINFO[39m]: GET /profile 304 20.077
+[36m2025-03-11 09:37:33[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:33[39m [[32mINFO[39m]: GET /profile 304 11.871
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 4.204
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 7.663
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 5.929
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 9.140
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 4.002
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:34[39m [[32mINFO[39m]: GET /profile 304 6.324
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 3.600
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 4.747
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 3.597
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 5.245
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 4.277
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 09:37:35[39m [[32mINFO[39m]: GET /profile 304 4.661
+[36m2025-03-11 09:37:37[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-11 09:37:37[39m [[32mINFO[39m]: POST /logout 200 1.049
+[36m2025-03-11 09:37:40[39m [[32mINFO[39m]: OPTIONS /login 204 0.198
+[36m2025-03-11 09:37:41[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-11 09:37:41[39m [[32mINFO[39m]: POST /login 200 297.754
+[36m2025-03-11 09:37:42[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-11 09:37:42[39m [[32mINFO[39m]: POST /login 200 281.088
+[36m2025-03-11 09:37:45[39m [[32mINFO[39m]: OPTIONS /register 204 0.551
+[36m2025-03-11 09:37:45[39m [[33mWARN[39m]: Registration failed: Name is required
+[36m2025-03-11 09:37:45[39m [[32mINFO[39m]: POST /register 200 1.070
+[36m2025-03-11 10:08:12[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 10:08:17[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 10:26:56[39m [[31mERROR[39m]: GET /profile 403 17.489
+[36m2025-03-11 10:26:56[39m [[31mERROR[39m]: GET /profile 403 4.058
+[36m2025-03-11 10:26:57[39m [[31mERROR[39m]: GET /profile 403 2.728
+[36m2025-03-11 10:26:58[39m [[31mERROR[39m]: GET /profile 403 8.522
+[36m2025-03-11 10:27:00[39m [[31mERROR[39m]: GET /profile 403 2.493
+[36m2025-03-11 10:27:04[39m [[31mERROR[39m]: GET /profile 403 2.183
+[36m2025-03-11 10:27:23[39m [[32mINFO[39m]: OPTIONS /login 204 0.571
+[36m2025-03-11 10:27:24[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 10:27:24[39m [[32mINFO[39m]: POST /login 200 755.190
+[36m2025-03-11 10:27:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:27:29[39m [[32mINFO[39m]: GET /profile 200 23.650
+[36m2025-03-11 10:27:30[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:27:30[39m [[32mINFO[39m]: GET /profile 304 5.820
+[36m2025-03-11 10:27:31[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:27:31[39m [[32mINFO[39m]: GET /profile 304 32.867
+[36m2025-03-11 10:27:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:27:34[39m [[32mINFO[39m]: GET /profile 304 13.828
+[36m2025-03-11 10:30:53[39m [[31mERROR[39m]: GET /profile 403 7.738
+[36m2025-03-11 10:31:07[39m [[31mERROR[39m]: GET /profile 403 3.435
+[36m2025-03-11 10:31:09[39m [[31mERROR[39m]: GET /profile 403 2.623
+[36m2025-03-11 10:31:10[39m [[31mERROR[39m]: GET /profile 403 1.987
+[36m2025-03-11 10:31:12[39m [[31mERROR[39m]: GET /profile 403 2.975
+[36m2025-03-11 10:31:16[39m [[31mERROR[39m]: GET /profile 403 2.805
+[36m2025-03-11 10:31:31[39m [[32mINFO[39m]: OPTIONS /login 204 0.240
+[36m2025-03-11 10:31:31[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 10:31:31[39m [[32mINFO[39m]: POST /login 200 777.042
+[36m2025-03-11 10:31:36[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:36[39m [[32mINFO[39m]: GET /profile 200 4.570
+[36m2025-03-11 10:31:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:37[39m [[32mINFO[39m]: GET /profile 304 4.241
+[36m2025-03-11 10:31:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:39[39m [[32mINFO[39m]: GET /profile 304 9.596
+[36m2025-03-11 10:31:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:39[39m [[32mINFO[39m]: GET /profile 304 4.342
+[36m2025-03-11 10:31:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:41[39m [[32mINFO[39m]: GET /profile 304 6.374
+[36m2025-03-11 10:31:49[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:49[39m [[32mINFO[39m]: GET /profile 304 10.454
+[36m2025-03-11 10:31:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:50[39m [[32mINFO[39m]: GET /profile 304 5.291
+[36m2025-03-11 10:31:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:51[39m [[32mINFO[39m]: GET /profile 304 3.863
+[36m2025-03-11 10:31:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:51[39m [[32mINFO[39m]: GET /profile 304 4.264
+[36m2025-03-11 10:31:52[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:31:52[39m [[32mINFO[39m]: GET /profile 200 4.240
+[36m2025-03-11 10:48:24[39m [[31mERROR[39m]: GET /profile 403 12.076
+[36m2025-03-11 10:48:34[39m [[31mERROR[39m]: GET /profile 403 2.079
+[36m2025-03-11 10:48:35[39m [[31mERROR[39m]: GET /profile 403 1.861
+[36m2025-03-11 10:48:37[39m [[31mERROR[39m]: GET /profile 403 2.834
+[36m2025-03-11 10:48:41[39m [[31mERROR[39m]: GET /profile 403 3.301
+[36m2025-03-11 10:50:10[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 10:50:15[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 10:50:25[39m [[31mERROR[39m]: GET /profile 403 10.829
+[36m2025-03-11 10:50:26[39m [[31mERROR[39m]: GET /profile 403 3.497
+[36m2025-03-11 10:50:28[39m [[31mERROR[39m]: GET /profile 403 21.174
+[36m2025-03-11 10:50:28[39m [[31mERROR[39m]: GET /profile 403 3.305
+[36m2025-03-11 10:50:32[39m [[31mERROR[39m]: GET /profile 403 4.286
+[36m2025-03-11 10:50:54[39m [[32mINFO[39m]: OPTIONS /login 204 0.397
+[36m2025-03-11 10:50:55[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 10:50:55[39m [[32mINFO[39m]: POST /login 200 742.374
+[36m2025-03-11 10:51:10[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:51:10[39m [[32mINFO[39m]: GET /profile 200 22.504
+[36m2025-03-11 10:51:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 10:51:11[39m [[32mINFO[39m]: GET /profile 304 8.795
+[36m2025-03-11 10:55:41[39m [[31mERROR[39m]: GET /profile 403 2.004
+[36m2025-03-11 10:57:52[39m [[31mERROR[39m]: GET /profile 403 6.663
+[36m2025-03-11 10:57:53[39m [[31mERROR[39m]: GET /profile 403 2.431
+[36m2025-03-11 10:57:55[39m [[31mERROR[39m]: GET /profile 403 3.123
+[36m2025-03-11 10:57:59[39m [[31mERROR[39m]: GET /profile 403 2.465
+[36m2025-03-11 10:59:56[39m [[31mERROR[39m]: GET /profile 403 2.166
+[36m2025-03-11 10:59:57[39m [[31mERROR[39m]: GET /profile 403 1.929
+[36m2025-03-11 10:59:59[39m [[31mERROR[39m]: GET /profile 403 1.861
+[36m2025-03-11 11:00:03[39m [[31mERROR[39m]: GET /profile 403 7.024
+[36m2025-03-11 11:00:11[39m [[32mINFO[39m]: OPTIONS /login 204 0.337
+[36m2025-03-11 11:00:12[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 11:00:12[39m [[32mINFO[39m]: POST /login 200 766.973
+[36m2025-03-11 11:00:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:00:17[39m [[32mINFO[39m]: GET /profile 200 7.326
+[36m2025-03-11 11:00:51[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 11:00:55[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 11:03:22[39m [[31mERROR[39m]: GET /profile 403 14.520
+[36m2025-03-11 11:03:22[39m [[31mERROR[39m]: GET /profile 403 3.085
+[36m2025-03-11 11:03:22[39m [[31mERROR[39m]: GET /profile 403 5.339
+[36m2025-03-11 11:03:23[39m [[31mERROR[39m]: GET /profile 403 2.061
+[36m2025-03-11 11:03:25[39m [[31mERROR[39m]: GET /profile 403 1.996
+[36m2025-03-11 11:03:27[39m [[32mINFO[39m]: OPTIONS /login 204 0.462
+[36m2025-03-11 11:03:28[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-11 11:03:28[39m [[32mINFO[39m]: POST /login 200 446.014
+[36m2025-03-11 11:03:29[39m [[31mERROR[39m]: GET /profile 403 2.426
+[36m2025-03-11 11:03:41[39m [[31mERROR[39m]: GET /profile 403 3.135
+[36m2025-03-11 11:03:41[39m [[31mERROR[39m]: GET /profile 403 4.008
+[36m2025-03-11 11:03:41[39m [[31mERROR[39m]: GET /profile 403 3.353
+[36m2025-03-11 11:03:42[39m [[31mERROR[39m]: GET /profile 403 2.031
+[36m2025-03-11 11:03:44[39m [[31mERROR[39m]: GET /profile 403 2.861
+[36m2025-03-11 11:03:48[39m [[31mERROR[39m]: GET /profile 403 2.870
+[36m2025-03-11 11:05:08[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-11 11:05:09[39m [[31mERROR[39m]: GET /profile 403 8.411
+[36m2025-03-11 11:05:10[39m [[31mERROR[39m]: GET /profile 403 4.713
+[36m2025-03-11 11:05:10[39m [[31mERROR[39m]: GET /profile 403 1.857
+[36m2025-03-11 11:05:10[39m [[31mERROR[39m]: GET /profile 403 2.007
+[36m2025-03-11 11:05:11[39m [[31mERROR[39m]: GET /profile 403 5.916
+[36m2025-03-11 11:05:12[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-11 11:05:12[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.419
+[36m2025-03-11 11:05:12[39m [[31mERROR[39m]: POST /refresh-token 404 33.590
+[36m2025-03-11 11:05:14[39m [[31mERROR[39m]: GET /profile 403 3.896
+[36m2025-03-11 11:05:17[39m [[31mERROR[39m]: POST /refresh-token 404 1.362
+[36m2025-03-11 11:05:18[39m [[31mERROR[39m]: GET /profile 403 3.356
+[36m2025-03-11 11:05:31[39m [[32mINFO[39m]: OPTIONS /login 204 0.275
+[36m2025-03-11 11:05:32[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 11:05:32[39m [[32mINFO[39m]: POST /login 200 784.187
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: GET /profile 200 7.341
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: GET /profile 304 7.165
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:05:37[39m [[32mINFO[39m]: GET /profile 304 6.160
+[36m2025-03-11 11:05:39[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.324
+[36m2025-03-11 11:05:39[39m [[31mERROR[39m]: POST /refresh-token 404 0.921
+[36m2025-03-11 11:06:01[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.238
+[36m2025-03-11 11:06:01[39m [[31mERROR[39m]: POST /refresh-token 404 0.758
+[36m2025-03-11 11:08:03[39m [[31mERROR[39m]: GET /profile 403 2.141
+[36m2025-03-11 11:08:04[39m [[31mERROR[39m]: GET /profile 403 2.732
+[36m2025-03-11 11:08:06[39m [[31mERROR[39m]: GET /profile 403 8.072
+[36m2025-03-11 11:08:07[39m [[31mERROR[39m]: GET /profile 403 3.145
+[36m2025-03-11 11:08:08[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.342
+[36m2025-03-11 11:08:08[39m [[31mERROR[39m]: POST /refresh-token 404 0.653
+[36m2025-03-11 11:08:09[39m [[31mERROR[39m]: GET /profile 403 6.400
+[36m2025-03-11 11:09:40[39m [[31mERROR[39m]: GET /profile 403 2.254
+[36m2025-03-11 11:09:43[39m [[31mERROR[39m]: GET /profile 403 2.169
+[36m2025-03-11 11:09:44[39m [[31mERROR[39m]: GET /profile 403 3.993
+[36m2025-03-11 11:09:46[39m [[31mERROR[39m]: GET /profile 403 3.594
+[36m2025-03-11 11:09:50[39m [[31mERROR[39m]: GET /profile 403 3.900
+[36m2025-03-11 11:09:58[39m [[32mINFO[39m]: OPTIONS /login 204 0.579
+[36m2025-03-11 11:09:59[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 11:09:59[39m [[32mINFO[39m]: POST /login 200 1183.589
+[36m2025-03-11 11:10:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:10:06[39m [[32mINFO[39m]: GET /profile 200 6.812
+[36m2025-03-11 11:10:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 11:10:07[39m [[32mINFO[39m]: GET /profile 304 7.463
+[36m2025-03-11 11:10:11[39m [[32mINFO[39m]: OPTIONS /login 204 0.204
+[36m2025-03-11 11:10:11[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-11 11:10:11[39m [[32mINFO[39m]: POST /login 200 303.759
+[36m2025-03-11 11:58:57[39m [[31mERROR[39m]: GET /profile 403 51.558
+[36m2025-03-11 11:58:57[39m [[31mERROR[39m]: GET /profile 403 2.533
+[36m2025-03-11 12:21:14[39m [[31mERROR[39m]: GET /profile 403 25.478
+[36m2025-03-11 12:21:14[39m [[31mERROR[39m]: GET /profile 403 1.967
+[36m2025-03-11 12:27:35[39m [[31mERROR[39m]: GET /profile 403 8.082
+[36m2025-03-11 12:27:35[39m [[31mERROR[39m]: GET /profile 403 1.870
+[36m2025-03-11 12:45:01[39m [[31mERROR[39m]: GET /profile 403 14.069
+[36m2025-03-11 12:45:01[39m [[31mERROR[39m]: GET /profile 403 1.942
+[36m2025-03-11 12:50:16[39m [[31mERROR[39m]: GET /profile 403 1.582
+[36m2025-03-11 12:50:16[39m [[31mERROR[39m]: GET /profile 403 2.927
+[36m2025-03-11 12:58:11[39m [[31mERROR[39m]: GET /profile 403 2.382
+[36m2025-03-11 12:58:11[39m [[31mERROR[39m]: GET /profile 403 2.259
+[36m2025-03-11 14:25:03[39m [[31mERROR[39m]: GET /profile 403 366.144
+[36m2025-03-11 14:25:03[39m [[31mERROR[39m]: GET /profile 403 6.317
+[36m2025-03-11 15:20:45[39m [[31mERROR[39m]: GET /profile 403 34.323
+[36m2025-03-11 15:20:45[39m [[31mERROR[39m]: GET /profile 403 11.575
+[36m2025-03-11 15:39:00[39m [[31mERROR[39m]: GET /profile 403 354.816
+[36m2025-03-11 15:39:00[39m [[31mERROR[39m]: GET /profile 403 2.658
+[36m2025-03-11 16:20:46[39m [[32mINFO[39m]: OPTIONS /login 204 22.294
+[36m2025-03-11 16:20:50[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 16:20:50[39m [[32mINFO[39m]: POST /login 200 4210.873
+[36m2025-03-11 16:20:51[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 16:20:51[39m [[32mINFO[39m]: POST /login 200 858.207
+[36m2025-03-11 16:20:51[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-11 16:20:51[39m [[32mINFO[39m]: POST /login 200 3137.428
+[36m2025-03-11 16:21:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:13[39m [[32mINFO[39m]: GET /profile 200 5.695
+[36m2025-03-11 16:21:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:13[39m [[32mINFO[39m]: GET /profile 304 4.018
+[36m2025-03-11 16:21:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:18[39m [[32mINFO[39m]: GET /profile 304 8.965
+[36m2025-03-11 16:21:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:18[39m [[32mINFO[39m]: GET /profile 304 5.061
+[36m2025-03-11 16:21:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:20[39m [[32mINFO[39m]: GET /profile 304 5.250
+[36m2025-03-11 16:21:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:20[39m [[32mINFO[39m]: GET /profile 304 5.978
+[36m2025-03-11 16:21:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:21[39m [[32mINFO[39m]: GET /profile 304 6.756
+[36m2025-03-11 16:21:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-11 16:21:21[39m [[32mINFO[39m]: GET /profile 304 20.862
+[36m2025-03-11 16:31:50[39m [[31mERROR[39m]: GET /profile 403 23.449
+[36m2025-03-11 16:31:50[39m [[31mERROR[39m]: GET /profile 403 2.908
+[36m2025-03-12 09:05:33[39m [[31mERROR[39m]: GET /profile 403 122.238
+[36m2025-03-12 09:05:33[39m [[31mERROR[39m]: GET /profile 403 23.105
+[36m2025-03-12 09:08:09[39m [[31mERROR[39m]: GET /profile 403 2.104
+[36m2025-03-12 09:08:09[39m [[31mERROR[39m]: GET /profile 403 2.686
+[36m2025-03-12 09:46:01[39m [[31mERROR[39m]: GET /profile 403 52.146
+[36m2025-03-12 09:46:01[39m [[31mERROR[39m]: GET /profile 403 2.180
+[36m2025-03-12 10:40:36[39m [[31mERROR[39m]: GET /profile 403 29.890
+[36m2025-03-12 10:40:36[39m [[31mERROR[39m]: GET /profile 403 5.352
+[36m2025-03-12 11:07:05[39m [[31mERROR[39m]: GET /profile 403 23.808
+[36m2025-03-12 11:09:21[39m [[31mERROR[39m]: GET /profile 403 8.716
+[36m2025-03-12 11:22:21[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 11:22:25[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 11:23:36[39m [[31mERROR[39m]: GET /profile 403 24.390
+[36m2025-03-12 11:23:36[39m [[31mERROR[39m]: GET /profile 403 2.112
+[36m2025-03-12 11:23:38[39m [[31mERROR[39m]: GET /profile 403 2.674
+[36m2025-03-12 11:23:38[39m [[31mERROR[39m]: GET /profile 403 1.955
+[36m2025-03-12 11:23:44[39m [[31mERROR[39m]: GET /profile 403 3.013
+[36m2025-03-12 11:23:44[39m [[31mERROR[39m]: GET /profile 403 4.938
+[36m2025-03-12 11:23:59[39m [[32mINFO[39m]: OPTIONS /login 204 0.468
+[36m2025-03-12 11:24:00[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 11:24:00[39m [[32mINFO[39m]: POST /login 200 755.313
+[36m2025-03-12 11:24:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:05[39m [[32mINFO[39m]: GET /profile 200 5.202
+[36m2025-03-12 11:24:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:05[39m [[32mINFO[39m]: GET /profile 304 9.255
+[36m2025-03-12 11:24:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:06[39m [[32mINFO[39m]: GET /profile 304 3.373
+[36m2025-03-12 11:24:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:07[39m [[32mINFO[39m]: GET /profile 304 4.001
+[36m2025-03-12 11:24:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:08[39m [[32mINFO[39m]: GET /profile 304 4.456
+[36m2025-03-12 11:24:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:08[39m [[32mINFO[39m]: GET /profile 304 11.565
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: GET /profile 304 9.988
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: GET /profile 304 16.829
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: GET /profile 304 16.585
+[36m2025-03-12 11:24:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:10[39m [[32mINFO[39m]: GET /profile 304 19.178
+[36m2025-03-12 11:24:10[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:10[39m [[32mINFO[39m]: GET /profile 304 19.468
+[36m2025-03-12 11:24:10[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:24:10[39m [[32mINFO[39m]: GET /profile 304 9.849
+[36m2025-03-12 11:39:17[39m [[31mERROR[39m]: GET /profile 403 10.784
+[36m2025-03-12 11:39:17[39m [[31mERROR[39m]: GET /profile 403 1.839
+[36m2025-03-12 11:39:43[39m [[31mERROR[39m]: GET /profile 403 13.779
+[36m2025-03-12 11:39:43[39m [[31mERROR[39m]: GET /profile 403 1.745
+[36m2025-03-12 11:40:04[39m [[31mERROR[39m]: GET /profile 403 3.274
+[36m2025-03-12 11:40:04[39m [[31mERROR[39m]: GET /profile 403 2.443
+[36m2025-03-12 11:40:06[39m [[31mERROR[39m]: GET /profile 403 2.367
+[36m2025-03-12 11:40:06[39m [[31mERROR[39m]: GET /profile 403 2.409
+[36m2025-03-12 11:40:09[39m [[31mERROR[39m]: GET /profile 403 2.218
+[36m2025-03-12 11:40:09[39m [[31mERROR[39m]: GET /profile 403 2.369
+[36m2025-03-12 11:40:12[39m [[31mERROR[39m]: GET /profile 403 2.331
+[36m2025-03-12 11:40:12[39m [[31mERROR[39m]: GET /profile 403 2.129
+[36m2025-03-12 11:41:01[39m [[32mINFO[39m]: OPTIONS /login 204 1.611
+[36m2025-03-12 11:41:02[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 11:41:02[39m [[32mINFO[39m]: POST /login 200 926.745
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: GET /profile 200 14.954
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: GET /profile 304 6.027
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: GET /profile 304 6.866
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:07[39m [[32mINFO[39m]: GET /profile 304 7.569
+[36m2025-03-12 11:41:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:08[39m [[32mINFO[39m]: GET /profile 304 3.751
+[36m2025-03-12 11:41:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:08[39m [[32mINFO[39m]: GET /profile 304 5.841
+[36m2025-03-12 11:41:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:09[39m [[32mINFO[39m]: GET /profile 304 4.985
+[36m2025-03-12 11:41:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 11:41:09[39m [[32mINFO[39m]: GET /profile 304 5.173
+[36m2025-03-12 11:41:10[39m [[32mINFO[39m]: OPTIONS /logout 204 0.587
+[36m2025-03-12 11:41:10[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-12 11:41:10[39m [[32mINFO[39m]: POST /logout 200 2.711
+[36m2025-03-12 11:52:41[39m [[31mERROR[39m]: GET /profile 403 12.073
+[36m2025-03-12 11:52:51[39m [[31mERROR[39m]: GET /profile 403 1.860
+[36m2025-03-12 11:52:52[39m [[31mERROR[39m]: GET /profile 403 5.087
+[36m2025-03-12 11:52:52[39m [[31mERROR[39m]: GET /profile 403 2.317
+[36m2025-03-12 11:52:57[39m [[31mERROR[39m]: GET /profile 403 1.732
+[36m2025-03-12 11:52:59[39m [[31mERROR[39m]: GET /profile 403 2.244
+[36m2025-03-12 11:53:03[39m [[31mERROR[39m]: GET /profile 403 2.223
+[36m2025-03-12 11:53:24[39m [[32mINFO[39m]: OPTIONS /login 204 0.308
+[36m2025-03-12 11:53:32[39m [[32mINFO[39m]: OPTIONS /login 204 0.216
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:53:43[39m [[31mERROR[39m]: GET /profile 403 12.394
+[36m2025-03-12 11:53:44[39m [[31mERROR[39m]: GET /profile 403 2.889
+[36m2025-03-12 11:53:46[39m [[31mERROR[39m]: GET /profile 403 2.563
+[36m2025-03-12 11:53:50[39m [[31mERROR[39m]: GET /profile 403 1.776
+[36m2025-03-12 11:53:54[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:53:57[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:02[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:02[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:03[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:03[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30000ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:23[39m [[32mINFO[39m]: OPTIONS /login 204 0.254
+[36m2025-03-12 11:54:30[39m [[32mINFO[39m]: OPTIONS /login 204 0.239
+[36m2025-03-12 11:54:47[39m [[31mERROR[39m]: GET /profile 403 2.356
+[36m2025-03-12 11:54:47[39m [[31mERROR[39m]: GET /profile 403 2.013
+[36m2025-03-12 11:54:53[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:53[39m [[31mERROR[39m]: POST /login 500 30007.862
+[36m2025-03-12 11:54:55[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:55[39m [[31mERROR[39m]: POST /login 500 30008.253
+[36m2025-03-12 11:54:55[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:55[39m [[31mERROR[39m]: POST /login 500 30007.872
+[36m2025-03-12 11:54:57[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:54:57[39m [[31mERROR[39m]: POST /login 500 30007.831
+[36m2025-03-12 11:55:00[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:55:00[39m [[31mERROR[39m]: POST /login 500 30005.814
+[36m2025-03-12 11:55:07[39m [[31mERROR[39m]: GET /profile 403 2.016
+[36m2025-03-12 11:55:07[39m [[31mERROR[39m]: GET /profile 403 6.393
+[36m2025-03-12 11:55:18[39m [[32mINFO[39m]: OPTIONS /login 204 0.324
+[36m2025-03-12 11:55:23[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:55:23[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:55:23[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:55:23[39m [[32mINFO[39m]: POST /login  
+[36m2025-03-12 11:55:48[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:55:49[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30002ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:55:51[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30001ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:55:51[39m [[31mERROR[39m]: Error occurred: MongoServerSelectionError: Socket 'secureConnect' timed out after 30001ms (connectTimeoutMS: 30000)
+    at Topology.selectServer (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/sdam/topology.js:320:38)
+    at async tryOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:143:18)
+    at async executeOperation (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/operations/execute_operation.js:73:16)
+    at async FindCursor._initialize (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/find_cursor.js:60:26)
+    at async FindCursor.cursorInit (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:607:27)
+    at async FindCursor.fetchBatch (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:641:13)
+    at async FindCursor.next (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/cursor/abstract_cursor.js:323:17)
+    at async Collection.findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongodb/lib/collection.js:277:21)
+    at async model.Query._findOne (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:2643:15)
+    at async model.Query.exec (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/query.js:4438:63)
+[36m2025-03-12 11:56:05[39m [[31mERROR[39m]: GET /profile 403 2.965
+[36m2025-03-12 11:56:05[39m [[31mERROR[39m]: GET /profile 403 2.204
+[36m2025-03-12 11:56:39[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 11:57:12[39m [[31mERROR[39m]: GET /profile 403 59.138
+[36m2025-03-12 11:57:12[39m [[31mERROR[39m]: GET /profile 403 5.230
+[36m2025-03-12 11:57:24[39m [[32mINFO[39m]: OPTIONS /login 204 0.536
+[36m2025-03-12 11:57:32[39m [[32mINFO[39m]: OPTIONS /login 204 0.603
+[36m2025-03-12 11:57:34[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:34[39m [[31mERROR[39m]: POST /login 500 10041.434
+[36m2025-03-12 11:57:35[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:35[39m [[31mERROR[39m]: POST /login 500 10011.372
+[36m2025-03-12 11:57:35[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:35[39m [[31mERROR[39m]: POST /login 500 10009.079
+[36m2025-03-12 11:57:38[39m [[32mINFO[39m]: OPTIONS /login 204 0.318
+[36m2025-03-12 11:57:42[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:42[39m [[31mERROR[39m]: POST /login 500 10007.118
+[36m2025-03-12 11:57:42[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:42[39m [[31mERROR[39m]: POST /login 500 10002.157
+[36m2025-03-12 11:57:43[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:43[39m [[31mERROR[39m]: POST /login 500 10006.651
+[36m2025-03-12 11:57:44[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:44[39m [[31mERROR[39m]: POST /login 500 10147.924
+[36m2025-03-12 11:57:48[39m [[31mERROR[39m]: Error occurred: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/user/Desktop/2025_02_18/MERN-AUTH/server/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[36m2025-03-12 11:57:48[39m [[31mERROR[39m]: POST /login 500 10006.675
+[36m2025-03-12 11:59:10[39m [[31mERROR[39m]: Database Connection Failed: querySrv ETIMEOUT _mongodb._tcp.cluster0.ue8p7.mongodb.net
+[36m2025-03-12 11:59:44[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 11:59:48[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:00:26[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:00:31[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:01:06[39m [[31mERROR[39m]: GET /profile 403 21.081
+[36m2025-03-12 12:01:06[39m [[31mERROR[39m]: GET /profile 403 2.910
+[36m2025-03-12 12:01:10[39m [[32mINFO[39m]: OPTIONS /login 204 0.554
+[36m2025-03-12 12:01:10[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-12 12:01:10[39m [[32mINFO[39m]: POST /login 200 319.738
+[36m2025-03-12 12:01:22[39m [[32mINFO[39m]: OPTIONS /login 204 0.226
+[36m2025-03-12 12:01:23[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:01:23[39m [[32mINFO[39m]: POST /login 200 809.024
+[36m2025-03-12 12:01:27[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:27[39m [[32mINFO[39m]: GET /profile 200 6.500
+[36m2025-03-12 12:01:27[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:27[39m [[32mINFO[39m]: GET /profile 304 6.595
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: GET /profile 304 3.906
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: GET /profile 304 4.946
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:28[39m [[32mINFO[39m]: GET /profile 304 3.761
+[36m2025-03-12 12:01:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:01:29[39m [[32mINFO[39m]: GET /profile 304 6.002
+[36m2025-03-12 12:04:10[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:04:13[39m [[31mERROR[39m]: GET /profile 403 24.808
+[36m2025-03-12 12:04:14[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:04:15[39m [[31mERROR[39m]: GET /profile 403 2.870
+[36m2025-03-12 12:04:17[39m [[31mERROR[39m]: GET /profile 403 3.080
+[36m2025-03-12 12:04:18[39m [[31mERROR[39m]: GET /profile 403 3.598
+[36m2025-03-12 12:04:20[39m [[31mERROR[39m]: GET /profile 403 3.686
+[36m2025-03-12 12:04:24[39m [[31mERROR[39m]: GET /profile 403 1.966
+[36m2025-03-12 12:04:33[39m [[32mINFO[39m]: OPTIONS /login 204 0.487
+[36m2025-03-12 12:04:34[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:04:34[39m [[32mINFO[39m]: POST /login 200 686.057
+[36m2025-03-12 12:04:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:04:38[39m [[32mINFO[39m]: GET /profile 200 9.155
+[36m2025-03-12 12:04:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:04:39[39m [[32mINFO[39m]: GET /profile 304 27.721
+[36m2025-03-12 12:04:40[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:04:40[39m [[32mINFO[39m]: GET /profile 304 27.004
+[36m2025-03-12 12:04:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:04:41[39m [[32mINFO[39m]: GET /profile 304 4.230
+[36m2025-03-12 12:04:45[39m [[32mINFO[39m]: OPTIONS /login 204 0.584
+[36m2025-03-12 12:04:45[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-12 12:04:45[39m [[32mINFO[39m]: POST /login 200 371.990
+[36m2025-03-12 12:05:01[39m [[32mINFO[39m]: OPTIONS /login 204 0.162
+[36m2025-03-12 12:05:02[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:05:02[39m [[32mINFO[39m]: POST /login 200 987.386
+[36m2025-03-12 12:05:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:05:06[39m [[32mINFO[39m]: GET /profile 200 5.794
+[36m2025-03-12 12:05:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:05:07[39m [[32mINFO[39m]: GET /profile 304 10.340
+[36m2025-03-12 12:05:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:05:08[39m [[32mINFO[39m]: GET /profile 304 31.245
+[36m2025-03-12 12:05:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:05:08[39m [[32mINFO[39m]: GET /profile 304 4.267
+[36m2025-03-12 12:05:43[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:05:47[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:05:47[39m [[32mINFO[39m]: GET /profile 304 12.707
+[36m2025-03-12 12:05:47[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:06:00[39m [[32mINFO[39m]: OPTIONS /login 204 0.619
+[36m2025-03-12 12:06:01[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:06:01[39m [[32mINFO[39m]: POST /login 200 1000.231
+[36m2025-03-12 12:06:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:06:06[39m [[32mINFO[39m]: GET /profile 200 10.237
+[36m2025-03-12 12:06:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:06:07[39m [[32mINFO[39m]: GET /profile 304 5.495
+[36m2025-03-12 12:06:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:06:08[39m [[32mINFO[39m]: GET /profile 304 6.039
+[36m2025-03-12 12:06:09[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:06:09[39m [[32mINFO[39m]: GET /profile 304 4.214
+[36m2025-03-12 12:06:12[39m [[32mINFO[39m]: OPTIONS /login 204 0.322
+[36m2025-03-12 12:06:13[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-12 12:06:13[39m [[32mINFO[39m]: POST /login 200 538.129
+[36m2025-03-12 12:07:05[39m [[31mERROR[39m]: GET /profile 403 3.894
+[36m2025-03-12 12:07:05[39m [[31mERROR[39m]: GET /profile 403 3.712
+[36m2025-03-12 12:07:05[39m [[31mERROR[39m]: GET /profile 403 3.131
+[36m2025-03-12 12:07:05[39m [[31mERROR[39m]: GET /profile 403 3.665
+[36m2025-03-12 12:07:29[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:07:32[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:09:52[39m [[31mERROR[39m]: GET /profile 403 75.808
+[36m2025-03-12 12:09:52[39m [[31mERROR[39m]: GET /profile 403 2.285
+[36m2025-03-12 12:10:05[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:10:08[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:10:18[39m [[31mERROR[39m]: GET /profile 403 11.279
+[36m2025-03-12 12:10:18[39m [[31mERROR[39m]: GET /profile 403 4.383
+[36m2025-03-12 12:10:18[39m [[31mERROR[39m]: GET /profile 403 7.913
+[36m2025-03-12 12:10:19[39m [[31mERROR[39m]: GET /profile 403 2.234
+[36m2025-03-12 12:10:21[39m [[31mERROR[39m]: GET /profile 403 3.514
+[36m2025-03-12 12:10:25[39m [[31mERROR[39m]: GET /profile 403 3.045
+[36m2025-03-12 12:10:37[39m [[32mINFO[39m]: OPTIONS /login 204 0.407
+[36m2025-03-12 12:10:37[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:10:37[39m [[32mINFO[39m]: POST /login 200 729.548
+[36m2025-03-12 12:10:42[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:10:42[39m [[32mINFO[39m]: GET /profile 200 32.406
+[36m2025-03-12 12:10:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:10:43[39m [[32mINFO[39m]: GET /profile 304 10.190
+[36m2025-03-12 12:10:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:10:45[39m [[32mINFO[39m]: GET /profile 304 4.564
+[36m2025-03-12 12:11:07[39m [[32mINFO[39m]: OPTIONS /login 204 0.209
+[36m2025-03-12 12:11:08[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 12:11:08[39m [[32mINFO[39m]: POST /login 200 914.303
+[36m2025-03-12 12:11:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:11:19[39m [[32mINFO[39m]: GET /profile 200 11.989
+[36m2025-03-12 12:11:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:11:21[39m [[32mINFO[39m]: GET /profile 304 18.653
+[36m2025-03-12 12:11:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 12:11:21[39m [[32mINFO[39m]: GET /profile 304 4.172
+[36m2025-03-12 12:13:25[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:13:28[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:14:42[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 12:14:45[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 12:15:19[39m [[31mERROR[39m]: GET /profile 403 115.134
+[36m2025-03-12 13:17:18[39m [[31mERROR[39m]: GET /profile 403 39.347
+[36m2025-03-12 13:17:20[39m [[31mERROR[39m]: GET /profile 403 2.568
+[36m2025-03-12 13:17:24[39m [[31mERROR[39m]: GET /profile 403 2.129
+[36m2025-03-12 13:21:02[39m [[31mERROR[39m]: GET /profile 403 10.602
+[36m2025-03-12 13:21:03[39m [[31mERROR[39m]: GET /profile 403 6.143
+[36m2025-03-12 13:21:18[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 13:21:22[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 13:21:29[39m [[31mERROR[39m]: GET /profile 403 6.920
+[36m2025-03-12 13:21:30[39m [[31mERROR[39m]: GET /profile 403 3.738
+[36m2025-03-12 13:21:32[39m [[31mERROR[39m]: GET /profile 403 4.580
+[36m2025-03-12 13:21:36[39m [[31mERROR[39m]: GET /profile 403 3.582
+[36m2025-03-12 13:23:09[39m [[32mINFO[39m]: OPTIONS /login 204 0.502
+[36m2025-03-12 13:23:10[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 13:23:10[39m [[32mINFO[39m]: POST /login 200 967.941
+[36m2025-03-12 13:23:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:15[39m [[32mINFO[39m]: GET /profile 200 11.832
+[36m2025-03-12 13:23:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:16[39m [[32mINFO[39m]: GET /profile 304 5.027
+[36m2025-03-12 13:23:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:17[39m [[32mINFO[39m]: GET /profile 304 27.996
+[36m2025-03-12 13:23:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:18[39m [[32mINFO[39m]: GET /profile 304 6.062
+[36m2025-03-12 13:23:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:18[39m [[32mINFO[39m]: GET /profile 304 5.736
+[36m2025-03-12 13:23:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:19[39m [[32mINFO[39m]: GET /profile 304 6.620
+[36m2025-03-12 13:23:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:19[39m [[32mINFO[39m]: GET /profile 304 7.983
+[36m2025-03-12 13:23:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:20[39m [[32mINFO[39m]: GET /profile 304 19.933
+[36m2025-03-12 13:23:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:23:23[39m [[32mINFO[39m]: GET /profile 304 4.872
+[36m2025-03-12 13:24:00[39m [[32mINFO[39m]: OPTIONS /register 204 0.434
+[36m2025-03-12 13:24:00[39m [[33mWARN[39m]: Registration failed: Email m@gmail.com already taken
+[36m2025-03-12 13:24:00[39m [[32mINFO[39m]: POST /register 200 319.019
+[36m2025-03-12 13:24:21[39m [[32mINFO[39m]: OPTIONS /register 204 0.214
+[36m2025-03-12 13:24:23[39m [[32mINFO[39m]: New user registered: c@gmail.com
+[36m2025-03-12 13:24:23[39m [[32mINFO[39m]: POST /register 200 1397.300
+[36m2025-03-12 13:24:39[39m [[32mINFO[39m]: OPTIONS /login 204 0.221
+[36m2025-03-12 13:24:40[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 13:24:40[39m [[32mINFO[39m]: POST /login 200 970.434
+[36m2025-03-12 13:24:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:24:44[39m [[32mINFO[39m]: GET /profile 200 4.315
+[36m2025-03-12 13:24:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:24:45[39m [[32mINFO[39m]: GET /profile 304 7.525
+[36m2025-03-12 13:24:46[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:24:46[39m [[32mINFO[39m]: GET /profile 304 5.678
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: GET /profile 304 6.775
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: GET /profile 304 15.589
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: GET /profile 304 3.859
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:16[39m [[32mINFO[39m]: GET /profile 304 2.851
+[36m2025-03-12 13:25:41[39m [[31mERROR[39m]: GET /profile 403 3.400
+[36m2025-03-12 13:25:41[39m [[31mERROR[39m]: GET /profile 403 3.164
+[36m2025-03-12 13:25:55[39m [[32mINFO[39m]: OPTIONS /login 204 0.180
+[36m2025-03-12 13:25:56[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 13:25:56[39m [[32mINFO[39m]: POST /login 200 844.544
+[36m2025-03-12 13:25:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:59[39m [[32mINFO[39m]: GET /profile 200 5.080
+[36m2025-03-12 13:25:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:25:59[39m [[32mINFO[39m]: GET /profile 304 5.450
+[36m2025-03-12 13:26:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:00[39m [[32mINFO[39m]: GET /profile 304 6.169
+[36m2025-03-12 13:26:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:00[39m [[32mINFO[39m]: GET /profile 304 4.599
+[36m2025-03-12 13:26:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:02[39m [[32mINFO[39m]: GET /profile 304 4.948
+[36m2025-03-12 13:26:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:02[39m [[32mINFO[39m]: GET /profile 304 5.932
+[36m2025-03-12 13:26:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:03[39m [[32mINFO[39m]: GET /profile 304 5.824
+[36m2025-03-12 13:26:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:03[39m [[32mINFO[39m]: GET /profile 304 22.482
+[36m2025-03-12 13:26:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:04[39m [[32mINFO[39m]: GET /profile 304 26.332
+[36m2025-03-12 13:26:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:04[39m [[32mINFO[39m]: GET /profile 304 6.973
+[36m2025-03-12 13:26:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:05[39m [[32mINFO[39m]: GET /profile 304 9.016
+[36m2025-03-12 13:26:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:05[39m [[32mINFO[39m]: GET /profile 304 15.632
+[36m2025-03-12 13:26:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:06[39m [[32mINFO[39m]: GET /profile 304 21.109
+[36m2025-03-12 13:26:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 13:26:06[39m [[32mINFO[39m]: GET /profile 304 4.827
+[36m2025-03-12 13:27:28[39m [[31mERROR[39m]: GET /profile 403 1.833
+[36m2025-03-12 13:27:28[39m [[31mERROR[39m]: GET /profile 403 2.118
+[36m2025-03-12 13:31:15[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 13:31:21[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 13:34:31[39m [[31mERROR[39m]: GET /profile 403 8.976
+[36m2025-03-12 13:34:31[39m [[31mERROR[39m]: GET /profile 403 3.015
+[36m2025-03-12 13:35:00[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 13:35:04[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 13:35:20[39m [[31mERROR[39m]: GET /profile 403 13.162
+[36m2025-03-12 13:35:20[39m [[31mERROR[39m]: GET /profile 403 2.757
+[36m2025-03-12 13:35:32[39m [[31mERROR[39m]: GET /profile 403 3.115
+[36m2025-03-12 13:35:32[39m [[31mERROR[39m]: GET /profile 403 2.127
+[36m2025-03-12 13:36:15[39m [[31mERROR[39m]: GET /profile 403 2.003
+[36m2025-03-12 13:36:15[39m [[31mERROR[39m]: GET /profile 403 1.927
+[36m2025-03-12 13:36:21[39m [[31mERROR[39m]: GET /profile 403 2.955
+[36m2025-03-12 13:36:21[39m [[31mERROR[39m]: GET /profile 403 5.771
+[36m2025-03-12 13:37:11[39m [[32mINFO[39m]: OPTIONS /login 204 0.478
+[36m2025-03-12 13:37:11[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 13:37:11[39m [[32mINFO[39m]: POST /login 200 827.887
+[36m2025-03-12 13:37:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:16[39m [[32mINFO[39m]: GET /profile 200 10.938
+[36m2025-03-12 13:37:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:16[39m [[32mINFO[39m]: GET /profile 304 4.790
+[36m2025-03-12 13:37:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:18[39m [[32mINFO[39m]: GET /profile 304 6.628
+[36m2025-03-12 13:37:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:18[39m [[32mINFO[39m]: GET /profile 304 8.519
+[36m2025-03-12 13:37:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:19[39m [[32mINFO[39m]: GET /profile 304 9.979
+[36m2025-03-12 13:37:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:37:19[39m [[32mINFO[39m]: GET /profile 304 8.200
+[36m2025-03-12 13:44:13[39m [[31mERROR[39m]: GET /profile 403 7.381
+[36m2025-03-12 13:44:13[39m [[31mERROR[39m]: GET /profile 403 7.024
+[36m2025-03-12 13:45:08[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 13:45:11[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 13:47:13[39m [[31mERROR[39m]: GET /profile 403 16.987
+[36m2025-03-12 13:47:22[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 13:47:27[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 13:47:33[39m [[31mERROR[39m]: GET /profile 403 46.854
+[36m2025-03-12 13:47:35[39m [[31mERROR[39m]: GET /profile 403 3.575
+[36m2025-03-12 13:47:36[39m [[31mERROR[39m]: GET /profile 403 2.388
+[36m2025-03-12 13:47:37[39m [[31mERROR[39m]: GET /profile 403 2.930
+[36m2025-03-12 13:47:39[39m [[31mERROR[39m]: GET /profile 403 4.444
+[36m2025-03-12 13:47:43[39m [[31mERROR[39m]: GET /profile 403 3.264
+[36m2025-03-12 13:47:58[39m [[32mINFO[39m]: OPTIONS /login 204 0.448
+[36m2025-03-12 13:47:59[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 13:47:59[39m [[32mINFO[39m]: POST /login 200 769.115
+[36m2025-03-12 13:48:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:48:03[39m [[32mINFO[39m]: GET /profile 200 12.457
+[36m2025-03-12 13:48:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:48:04[39m [[32mINFO[39m]: GET /profile 304 3.919
+[36m2025-03-12 13:48:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:48:05[39m [[32mINFO[39m]: GET /profile 304 5.848
+[36m2025-03-12 13:48:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:48:05[39m [[32mINFO[39m]: GET /profile 304 3.556
+[36m2025-03-12 13:48:12[39m [[32mINFO[39m]: OPTIONS /login 204 0.245
+[36m2025-03-12 13:48:12[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-12 13:48:12[39m [[32mINFO[39m]: POST /login 200 515.803
+[36m2025-03-12 13:56:12[39m [[31mERROR[39m]: GET /profile 403 3.395
+[36m2025-03-12 13:56:17[39m [[31mERROR[39m]: GET /profile 403 3.467
+[36m2025-03-12 13:56:18[39m [[31mERROR[39m]: GET /profile 403 1.936
+[36m2025-03-12 13:56:20[39m [[31mERROR[39m]: GET /profile 403 3.378
+[36m2025-03-12 13:56:21[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.209
+[36m2025-03-12 13:56:21[39m [[31mERROR[39m]: POST /refresh-token 404 2.789
+[36m2025-03-12 13:56:24[39m [[31mERROR[39m]: GET /profile 403 3.093
+[36m2025-03-12 13:56:42[39m [[31mERROR[39m]: GET /profile 403 1.666
+[36m2025-03-12 13:56:56[39m [[31mERROR[39m]: GET /profile 403 2.534
+[36m2025-03-12 13:56:57[39m [[31mERROR[39m]: GET /profile 403 8.327
+[36m2025-03-12 13:56:58[39m [[31mERROR[39m]: GET /profile 403 7.355
+[36m2025-03-12 13:57:00[39m [[31mERROR[39m]: GET /profile 403 2.703
+[36m2025-03-12 13:57:04[39m [[31mERROR[39m]: GET /profile 403 1.806
+[36m2025-03-12 13:57:23[39m [[32mINFO[39m]: OPTIONS /login 204 0.232
+[36m2025-03-12 13:57:24[39m [[33mWARN[39m]: Login failed: Incorrect password for email p@gmail.com
+[36m2025-03-12 13:57:24[39m [[31mERROR[39m]: POST /login 400 686.718
+[36m2025-03-12 13:57:26[39m [[33mWARN[39m]: Login failed: Incorrect password for email p@gmail.com
+[36m2025-03-12 13:57:26[39m [[31mERROR[39m]: POST /login 400 707.140
+[36m2025-03-12 13:57:30[39m [[32mINFO[39m]: OPTIONS /login 204 0.195
+[36m2025-03-12 13:57:30[39m [[33mWARN[39m]: Login failed: Incorrect password for email p@gmail.com
+[36m2025-03-12 13:57:30[39m [[31mERROR[39m]: POST /login 400 619.474
+[36m2025-03-12 13:57:36[39m [[32mINFO[39m]: OPTIONS /login 204 0.218
+[36m2025-03-12 13:57:37[39m [[33mWARN[39m]: Login failed: Incorrect password for email p@gmail.com
+[36m2025-03-12 13:57:37[39m [[31mERROR[39m]: POST /login 400 824.168
+[36m2025-03-12 13:57:42[39m [[32mINFO[39m]: OPTIONS /login 204 0.234
+[36m2025-03-12 13:57:43[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-12 13:57:43[39m [[32mINFO[39m]: POST /login 200 505.625
+[36m2025-03-12 13:57:56[39m [[32mINFO[39m]: OPTIONS /login 204 0.227
+[36m2025-03-12 13:57:56[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 13:57:56[39m [[32mINFO[39m]: POST /login 200 753.024
+[36m2025-03-12 13:58:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:58:00[39m [[32mINFO[39m]: GET /profile 200 6.287
+[36m2025-03-12 13:58:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:58:01[39m [[32mINFO[39m]: GET /profile 304 4.705
+[36m2025-03-12 13:58:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:58:02[39m [[32mINFO[39m]: GET /profile 304 4.157
+[36m2025-03-12 13:58:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 13:58:03[39m [[32mINFO[39m]: GET /profile 304 7.414
+[36m2025-03-12 14:01:40[39m [[32mINFO[39m]: OPTIONS /login 204 0.852
+[36m2025-03-12 14:01:41[39m [[33mWARN[39m]: Login failed: No user found with email c@gmailcom
+[36m2025-03-12 14:01:41[39m [[32mINFO[39m]: POST /login 200 460.532
+[36m2025-03-12 14:01:44[39m [[33mWARN[39m]: Login failed: No user found with email c@gmailcom
+[36m2025-03-12 14:01:44[39m [[32mINFO[39m]: POST /login 200 637.779
+[36m2025-03-12 14:01:50[39m [[32mINFO[39m]: OPTIONS /login 204 0.189
+[36m2025-03-12 14:01:50[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 14:01:50[39m [[32mINFO[39m]: POST /login 200 670.827
+[36m2025-03-12 14:01:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:01:55[39m [[32mINFO[39m]: GET /profile 200 14.507
+[36m2025-03-12 14:01:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:01:56[39m [[32mINFO[39m]: GET /profile 304 5.394
+[36m2025-03-12 14:01:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:01:57[39m [[32mINFO[39m]: GET /profile 304 3.682
+[36m2025-03-12 14:03:22[39m [[32mINFO[39m]: OPTIONS /login 204 1.128
+[36m2025-03-12 14:03:22[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 14:03:22[39m [[32mINFO[39m]: POST /login 200 665.172
+[36m2025-03-12 14:03:27[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:03:27[39m [[32mINFO[39m]: GET /profile 200 4.439
+[36m2025-03-12 14:03:28[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:03:28[39m [[32mINFO[39m]: GET /profile 304 4.663
+[36m2025-03-12 14:08:13[39m [[32mINFO[39m]: OPTIONS /login 204 4.974
+[36m2025-03-12 14:08:14[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 14:08:14[39m [[32mINFO[39m]: POST /login 200 894.011
+[36m2025-03-12 14:08:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:08:18[39m [[32mINFO[39m]: GET /profile 200 3.905
+[36m2025-03-12 14:08:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:08:19[39m [[32mINFO[39m]: GET /profile 304 13.041
+[36m2025-03-12 14:08:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:08:20[39m [[32mINFO[39m]: GET /profile 304 3.657
+[36m2025-03-12 14:16:20[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 14:16:24[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 14:16:49[39m [[31mERROR[39m]: GET /profile 403 8.107
+[36m2025-03-12 14:16:50[39m [[31mERROR[39m]: GET /profile 403 5.264
+[36m2025-03-12 14:16:52[39m [[31mERROR[39m]: GET /profile 403 4.797
+[36m2025-03-12 14:16:56[39m [[31mERROR[39m]: GET /profile 403 23.833
+[36m2025-03-12 14:17:00[39m [[31mERROR[39m]: GET /profile 403 4.501
+[36m2025-03-12 14:17:01[39m [[31mERROR[39m]: GET /profile 403 3.450
+[36m2025-03-12 14:17:03[39m [[31mERROR[39m]: GET /profile 403 3.247
+[36m2025-03-12 14:17:07[39m [[31mERROR[39m]: GET /profile 403 1.954
+[36m2025-03-12 14:17:18[39m [[32mINFO[39m]: OPTIONS /login 204 0.717
+[36m2025-03-12 14:17:19[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 14:17:19[39m [[32mINFO[39m]: POST /login 200 848.779
+[36m2025-03-12 14:17:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 14:17:24[39m [[32mINFO[39m]: GET /profile 200 4.939
+[36m2025-03-12 14:19:08[39m [[31mERROR[39m]: GET /profile 403 1.897
+[36m2025-03-12 14:19:09[39m [[31mERROR[39m]: GET /profile 403 3.280
+[36m2025-03-12 14:19:11[39m [[31mERROR[39m]: GET /profile 403 1.996
+[36m2025-03-12 14:19:12[39m [[31mERROR[39m]: GET /profile 403 9.256
+[36m2025-03-12 14:19:13[39m [[31mERROR[39m]: GET /profile 403 5.802
+[36m2025-03-12 14:19:15[39m [[31mERROR[39m]: GET /profile 403 2.836
+[36m2025-03-12 14:19:19[39m [[31mERROR[39m]: GET /profile 403 3.328
+[36m2025-03-12 14:19:29[39m [[32mINFO[39m]: OPTIONS /login 204 0.205
+[36m2025-03-12 14:19:29[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 14:19:29[39m [[32mINFO[39m]: POST /login 200 708.102
+[36m2025-03-12 14:19:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:19:34[39m [[32mINFO[39m]: GET /profile 200 4.631
+[36m2025-03-12 14:19:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:19:35[39m [[32mINFO[39m]: GET /profile 304 12.537
+[36m2025-03-12 14:19:36[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:19:36[39m [[32mINFO[39m]: GET /profile 304 8.509
+[36m2025-03-12 14:24:10[39m [[31mERROR[39m]: GET /profile 403 1.858
+[36m2025-03-12 14:24:18[39m [[31mERROR[39m]: GET /profile 403 2.209
+[36m2025-03-12 14:24:19[39m [[31mERROR[39m]: GET /profile 403 1.934
+[36m2025-03-12 14:24:21[39m [[31mERROR[39m]: GET /profile 403 2.852
+[36m2025-03-12 14:24:25[39m [[31mERROR[39m]: GET /profile 403 2.343
+[36m2025-03-12 14:24:50[39m [[32mINFO[39m]: OPTIONS /login 204 2.454
+[36m2025-03-12 14:24:51[39m [[33mWARN[39m]: Login failed: Incorrect password for email c@gmail.com
+[36m2025-03-12 14:24:51[39m [[31mERROR[39m]: POST /login 400 739.214
+[36m2025-03-12 14:25:04[39m [[32mINFO[39m]: OPTIONS /login 204 0.235
+[36m2025-03-12 14:25:05[39m [[33mWARN[39m]: Login failed: Incorrect password for email c@gmail.com
+[36m2025-03-12 14:25:05[39m [[31mERROR[39m]: POST /login 400 1008.723
+[36m2025-03-12 14:25:15[39m [[32mINFO[39m]: OPTIONS /login 204 0.241
+[36m2025-03-12 14:25:16[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 14:25:16[39m [[32mINFO[39m]: POST /login 200 1014.434
+[36m2025-03-12 14:25:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:25:21[39m [[32mINFO[39m]: GET /profile 200 17.929
+[36m2025-03-12 14:25:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 14:25:22[39m [[32mINFO[39m]: GET /profile 304 5.557
+[36m2025-03-12 15:34:54[39m [[31mERROR[39m]: GET /profile 403 37.860
+[36m2025-03-12 15:34:55[39m [[31mERROR[39m]: GET /profile 403 3.036
+[36m2025-03-12 15:34:57[39m [[31mERROR[39m]: GET /profile 403 2.962
+[36m2025-03-12 15:35:01[39m [[31mERROR[39m]: GET /profile 403 2.877
+[36m2025-03-12 15:35:09[39m [[32mINFO[39m]: OPTIONS /login 204 1.207
+[36m2025-03-12 15:35:10[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 15:35:10[39m [[32mINFO[39m]: POST /login 200 723.966
+[36m2025-03-12 15:35:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:35:15[39m [[32mINFO[39m]: GET /profile 200 19.263
+[36m2025-03-12 15:35:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:35:16[39m [[32mINFO[39m]: GET /profile 304 4.554
+[36m2025-03-12 15:35:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:35:17[39m [[32mINFO[39m]: GET /profile 304 4.282
+[36m2025-03-12 15:35:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:35:17[39m [[32mINFO[39m]: GET /profile 304 3.807
+[36m2025-03-12 15:36:36[39m [[31mERROR[39m]: GET /profile 403 3.799
+[36m2025-03-12 15:36:40[39m [[31mERROR[39m]: GET /profile 403 1.807
+[36m2025-03-12 15:36:42[39m [[31mERROR[39m]: GET /profile 403 4.821
+[36m2025-03-12 15:36:43[39m [[31mERROR[39m]: GET /profile 403 2.162
+[36m2025-03-12 15:36:44[39m [[31mERROR[39m]: GET /profile 403 3.336
+[36m2025-03-12 15:36:46[39m [[31mERROR[39m]: GET /profile 403 2.046
+[36m2025-03-12 15:36:50[39m [[31mERROR[39m]: GET /profile 403 2.845
+[36m2025-03-12 15:36:56[39m [[32mINFO[39m]: OPTIONS /login 204 0.181
+[36m2025-03-12 15:36:57[39m [[32mINFO[39m]: User logged in: p@gmail.com
+[36m2025-03-12 15:36:57[39m [[32mINFO[39m]: POST /login 200 741.593
+[36m2025-03-12 15:37:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:37:01[39m [[32mINFO[39m]: GET /profile 200 3.304
+[36m2025-03-12 15:37:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67cfb6e65b702312db185ee1
+[36m2025-03-12 15:37:02[39m [[32mINFO[39m]: GET /profile 304 7.313
+[36m2025-03-12 15:44:29[39m [[31mERROR[39m]: GET /profile 403 14.077
+[36m2025-03-12 15:44:34[39m [[31mERROR[39m]: GET /profile 403 2.317
+[36m2025-03-12 15:44:35[39m [[31mERROR[39m]: GET /profile 403 1.911
+[36m2025-03-12 15:44:37[39m [[31mERROR[39m]: GET /profile 403 1.913
+[36m2025-03-12 15:44:41[39m [[31mERROR[39m]: GET /profile 403 14.502
+[36m2025-03-12 15:44:57[39m [[32mINFO[39m]: OPTIONS /login 204 0.517
+[36m2025-03-12 15:44:58[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 15:44:58[39m [[32mINFO[39m]: POST /login 200 871.690
+[36m2025-03-12 15:45:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:45:03[39m [[32mINFO[39m]: GET /profile 200 9.815
+[36m2025-03-12 15:45:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:45:04[39m [[32mINFO[39m]: GET /profile 304 11.539
+[36m2025-03-12 15:45:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:45:04[39m [[32mINFO[39m]: GET /profile 304 3.528
+[36m2025-03-12 15:49:29[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.258
+[36m2025-03-12 15:49:29[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.268
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: GET /profile 403 1.748
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: GET /profile 403 2.144
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: POST /refresh-token 404 34.912
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: POST /refresh-token 404 1.553
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: GET /profile 403 2.003
+[36m2025-03-12 15:49:29[39m [[31mERROR[39m]: GET /profile 403 1.871
+[36m2025-03-12 15:49:38[39m [[31mERROR[39m]: GET /profile 403 2.189
+[36m2025-03-12 15:49:38[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 5.423
+[36m2025-03-12 15:49:38[39m [[31mERROR[39m]: POST /refresh-token 404 2.499
+[36m2025-03-12 15:49:38[39m [[31mERROR[39m]: GET /profile 403 1.604
+[36m2025-03-12 15:49:48[39m [[31mERROR[39m]: GET /profile 403 2.133
+[36m2025-03-12 15:50:06[39m [[32mINFO[39m]: Server is running on port 8000
+[36m2025-03-12 15:50:10[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: GET /profile 403 9.533
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: GET /profile 403 3.841
+[36m2025-03-12 15:50:26[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 2.302
+[36m2025-03-12 15:50:26[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.239
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: POST /refresh-token 404 19.114
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: POST /refresh-token 404 1.498
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: GET /profile 403 6.267
+[36m2025-03-12 15:50:26[39m [[31mERROR[39m]: GET /profile 403 1.744
+[36m2025-03-12 15:50:56[39m [[32mINFO[39m]: OPTIONS /login 204 0.268
+[36m2025-03-12 15:50:57[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 15:50:57[39m [[32mINFO[39m]: POST /login 200 1093.156
+[36m2025-03-12 15:51:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:01[39m [[32mINFO[39m]: GET /profile 200 15.861
+[36m2025-03-12 15:51:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:01[39m [[32mINFO[39m]: GET /profile 304 13.261
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.263
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.299
+[36m2025-03-12 15:51:02[39m [[31mERROR[39m]: POST /refresh-token 404 3.883
+[36m2025-03-12 15:51:02[39m [[31mERROR[39m]: POST /refresh-token 404 1.276
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: GET /profile 304 4.767
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:02[39m [[32mINFO[39m]: GET /profile 304 5.578
+[36m2025-03-12 15:51:03[39m [[31mERROR[39m]: POST /refresh-token 404 0.862
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: GET /profile 304 6.308
+[36m2025-03-12 15:51:03[39m [[31mERROR[39m]: POST /refresh-token 404 0.825
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: GET /profile 304 7.812
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: GET /profile 304 5.189
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:03[39m [[32mINFO[39m]: GET /profile 304 5.527
+[36m2025-03-12 15:51:04[39m [[31mERROR[39m]: POST /refresh-token 404 1.030
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: GET /profile 304 3.780
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: GET /profile 304 4.956
+[36m2025-03-12 15:51:04[39m [[31mERROR[39m]: POST /refresh-token 404 1.086
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: GET /profile 304 5.382
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:04[39m [[32mINFO[39m]: GET /profile 304 5.416
+[36m2025-03-12 15:51:06[39m [[31mERROR[39m]: POST /refresh-token 404 1.165
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: GET /profile 304 3.739
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: GET /profile 304 3.917
+[36m2025-03-12 15:51:06[39m [[31mERROR[39m]: POST /refresh-token 404 0.874
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: GET /profile 304 3.631
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:06[39m [[32mINFO[39m]: GET /profile 304 4.109
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.192
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: GET /profile 304 5.022
+[36m2025-03-12 15:51:07[39m [[31mERROR[39m]: POST /refresh-token 404 0.886
+[36m2025-03-12 15:51:07[39m [[31mERROR[39m]: POST /refresh-token 404 1.229
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: GET /profile 304 3.776
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: GET /profile 304 4.649
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:07[39m [[32mINFO[39m]: GET /profile 304 4.764
+[36m2025-03-12 15:51:08[39m [[31mERROR[39m]: POST /refresh-token 404 1.023
+[36m2025-03-12 15:51:08[39m [[31mERROR[39m]: POST /refresh-token 404 1.620
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: GET /profile 304 4.763
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: GET /profile 304 5.053
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: GET /profile 304 3.889
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:08[39m [[32mINFO[39m]: GET /profile 304 3.087
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: GET /profile 304 3.566
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.243
+[36m2025-03-12 15:51:12[39m [[31mERROR[39m]: POST /refresh-token 404 0.809
+[36m2025-03-12 15:51:12[39m [[31mERROR[39m]: POST /refresh-token 404 0.817
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: GET /profile 304 3.467
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: GET /profile 304 4.652
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:12[39m [[32mINFO[39m]: GET /profile 304 4.974
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: GET /profile 304 6.771
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: GET /profile 304 4.615
+[36m2025-03-12 15:51:14[39m [[31mERROR[39m]: POST /refresh-token 404 1.053
+[36m2025-03-12 15:51:14[39m [[31mERROR[39m]: POST /refresh-token 404 0.973
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: GET /profile 304 9.044
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:14[39m [[32mINFO[39m]: GET /profile 304 7.348
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.184
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.358
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: GET /profile 304 12.862
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: GET /profile 304 23.190
+[36m2025-03-12 15:51:22[39m [[31mERROR[39m]: POST /refresh-token 404 1.006
+[36m2025-03-12 15:51:22[39m [[31mERROR[39m]: POST /refresh-token 404 0.552
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: GET /profile 304 11.116
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:22[39m [[32mINFO[39m]: GET /profile 304 5.573
+[36m2025-03-12 15:51:23[39m [[31mERROR[39m]: POST /refresh-token 404 0.864
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: GET /profile 304 9.800
+[36m2025-03-12 15:51:23[39m [[31mERROR[39m]: POST /refresh-token 404 0.622
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: GET /profile 304 41.585
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: GET /profile 304 5.256
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:23[39m [[32mINFO[39m]: GET /profile 304 7.311
+[36m2025-03-12 15:51:24[39m [[31mERROR[39m]: POST /refresh-token 404 1.070
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: GET /profile 304 32.420
+[36m2025-03-12 15:51:25[39m [[31mERROR[39m]: POST /refresh-token 404 0.902
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: GET /profile 304 47.160
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: GET /profile 304 3.031
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:25[39m [[32mINFO[39m]: GET /profile 304 3.938
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: GET /profile 304 4.316
+[36m2025-03-12 15:51:26[39m [[31mERROR[39m]: POST /refresh-token 404 0.559
+[36m2025-03-12 15:51:26[39m [[31mERROR[39m]: POST /refresh-token 404 0.582
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: GET /profile 304 4.071
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: GET /profile 304 3.918
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:51:26[39m [[32mINFO[39m]: GET /profile 304 3.242
+[36m2025-03-12 15:51:30[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-12 15:51:30[39m [[32mINFO[39m]: POST /logout 200 1.032
+[36m2025-03-12 15:51:47[39m [[32mINFO[39m]: OPTIONS /login 204 0.250
+[36m2025-03-12 15:51:48[39m [[32mINFO[39m]: User logged in: c@gmail.com
+[36m2025-03-12 15:51:48[39m [[32mINFO[39m]: POST /login 200 986.425
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.202
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.155
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: GET /profile 200 3.358
+[36m2025-03-12 15:52:08[39m [[31mERROR[39m]: POST /refresh-token 404 0.498
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: GET /profile 304 5.213
+[36m2025-03-12 15:52:08[39m [[31mERROR[39m]: POST /refresh-token 404 9.669
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: GET /profile 304 4.151
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:08[39m [[32mINFO[39m]: GET /profile 304 12.311
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: GET /profile 304 5.912
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: GET /profile 304 6.282
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 2.863
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 4.659
+[36m2025-03-12 15:52:20[39m [[31mERROR[39m]: POST /refresh-token 404 0.788
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:20[39m [[32mINFO[39m]: GET /profile 304 3.493
+[36m2025-03-12 15:52:21[39m [[31mERROR[39m]: POST /refresh-token 404 1.453
+[36m2025-03-12 15:52:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67d13daed108ff69cf97f283
+[36m2025-03-12 15:52:21[39m [[32mINFO[39m]: GET /profile 304 5.302

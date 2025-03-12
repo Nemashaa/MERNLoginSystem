@@ -1,27 +1,27 @@
 // pages/Register.jsx
 import React, { useState } from 'react';
-import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-hot-toast';
+import { useRegister } from '../hooks/useAuth';
 
 export default function Register() {
   const navigate = useNavigate();
   const [registerData, setRegisterData] = useState({ name: '', email: '', password: '' });
 
-  const registerUser = async (e) => {
+  const registerMutation = useRegister();
+
+  const registerUser = (e) => {
     e.preventDefault();
-    try {
-      const { data: responseData } = await axios.post('/register', registerData); // Renamed data to responseData
-      if (responseData.error) {
-        toast.error(responseData.error); // Using responseData
-      } else {
+    registerMutation.mutate(registerData, {
+      onSuccess: () => {
         setRegisterData({ name: '', email: '', password: '' });
         toast.success('Registration successful! Welcome!');
         navigate('/login');
-      }
-    } catch (error) {
-      console.log(error);
-    }
+      },
+      onError: (error) => {
+        toast.error(error.message);
+      },
+    });
   };
 
   return (

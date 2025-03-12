@@ -2,17 +2,20 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 import useAuthStore from "../store/authStore";
+import { useLogout } from '../hooks/useAuth';
 
 export default function Navbar() {
-  const { isLoggedIn, checkAuth, logout } = useAuthStore();
+  const { isLoggedIn, checkAuth } = useAuthStore();
   const navigate = useNavigate();
+
+  const logoutMutation = useLogout();
 
   useEffect(() => {
     checkAuth(); // Check authentication on mount
-  }, []);
+  }, [checkAuth]);
 
   const handleLogout = async () => {
-    await logout();
+    await logoutMutation.mutateAsync();
     navigate("/");
   };
 
