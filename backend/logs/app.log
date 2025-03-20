@@ -1,0 +1,105 @@
+[36m2025-03-19 11:45:08[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-19 15:43:11[39m [[32mINFO[39m]: New user registered: q@gmail.com
+[36m2025-03-19 15:43:11[39m [[32mINFO[39m]: POST /register 201 5187.718 ms
+[36m2025-03-19 15:44:40[39m [[32mINFO[39m]: User logged in: q@gmail.com
+[36m2025-03-19 15:44:40[39m [[32mINFO[39m]: POST /login 200 1038.842 ms
+[36m2025-03-19 16:37:27[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-19 16:50:16[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:06:12[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:14:32[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:20:44[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:22:44[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: GET /profile 403 16.995 ms
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: GET /profile 403 4.211 ms
+[36m2025-03-20 00:22:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.585 ms
+[36m2025-03-20 00:22:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.595 ms
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: POST /refresh-token 404 41.790 ms
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: GET /profile 403 28.760 ms
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: POST /refresh-token 404 2.385 ms
+[36m2025-03-20 00:22:49[39m [[31mERROR[39m]: GET /profile 403 1.915 ms
+[36m2025-03-20 00:23:10[39m [[32mINFO[39m]: OPTIONS /register 204 0.281 ms
+[36m2025-03-20 00:23:11[39m [[32mINFO[39m]: New user registered: w@gmail.com
+[36m2025-03-20 00:23:11[39m [[32mINFO[39m]: POST /register 201 1243.985 ms
+[36m2025-03-20 00:23:40[39m [[32mINFO[39m]: OPTIONS /login 204 2.011 ms
+[36m2025-03-20 00:23:40[39m [[33mWARN[39m]: Login failed: Incorrect password for email w@gmail.com
+[36m2025-03-20 00:23:40[39m [[31mERROR[39m]: POST /login 400 761.960 ms
+[36m2025-03-20 00:23:45[39m [[32mINFO[39m]: OPTIONS /login 204 0.245 ms
+[36m2025-03-20 00:23:46[39m [[32mINFO[39m]: User logged in: w@gmail.com
+[36m2025-03-20 00:23:46[39m [[32mINFO[39m]: POST /login 200 762.335 ms
+[36m2025-03-20 00:23:54[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-20 00:23:54[39m [[32mINFO[39m]: POST /logout 200 7.435 ms
+[36m2025-03-20 00:24:10[39m [[32mINFO[39m]: OPTIONS /login 204 0.221 ms
+[36m2025-03-20 00:24:11[39m [[32mINFO[39m]: User logged in: w@gmail.com
+[36m2025-03-20 00:24:11[39m [[32mINFO[39m]: POST /login 200 842.375 ms
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: GET /profile 200 7.153 ms
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.213 ms
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: GET /profile 304 4.389 ms
+[36m2025-03-20 00:24:14[39m [[31mERROR[39m]: POST /refresh-token 404 4.867 ms
+[36m2025-03-20 00:24:14[39m [[31mERROR[39m]: POST /refresh-token 404 0.751 ms
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: GET /profile 304 40.548 ms
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:14[39m [[32mINFO[39m]: GET /profile 304 11.073 ms
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: GET /profile 304 5.338 ms
+[36m2025-03-20 00:24:16[39m [[31mERROR[39m]: POST /refresh-token 404 1.254 ms
+[36m2025-03-20 00:24:16[39m [[31mERROR[39m]: POST /refresh-token 404 1.150 ms
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: GET /profile 304 6.642 ms
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: GET /profile 304 3.495 ms
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:16[39m [[32mINFO[39m]: GET /profile 304 19.033 ms
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: GET /profile 304 5.311 ms
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: GET /profile 304 6.195 ms
+[36m2025-03-20 00:24:18[39m [[31mERROR[39m]: POST /refresh-token 404 13.098 ms
+[36m2025-03-20 00:24:18[39m [[31mERROR[39m]: POST /refresh-token 404 6.976 ms
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: GET /profile 304 7.803 ms
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67db12962b454a101dcbfc8d
+[36m2025-03-20 00:24:18[39m [[32mINFO[39m]: GET /profile 304 8.323 ms
+[36m2025-03-20 00:24:21[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-20 00:24:21[39m [[32mINFO[39m]: POST /logout 200 1.392 ms
+[36m2025-03-20 00:29:54[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:34:21[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:34:39[39m [[32mINFO[39m]: OPTIONS /login 204 2.092 ms
+[36m2025-03-20 00:34:40[39m [[33mWARN[39m]: Login failed: Incorrect password for email w@gmail.com
+[36m2025-03-20 00:34:40[39m [[31mERROR[39m]: POST /login 400 892.836 ms
+[36m2025-03-20 00:34:45[39m [[32mINFO[39m]: User logged in: w@gmail.com
+[36m2025-03-20 00:34:45[39m [[32mINFO[39m]: POST /login 200 1065.558 ms
+[36m2025-03-20 00:34:49[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-20 00:34:49[39m [[32mINFO[39m]: POST /logout 200 1.377 ms
+[36m2025-03-20 00:36:51[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:40:57[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 00:54:33[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 8.910 ms
+[36m2025-03-20 00:54:33[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.614 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 23.392 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 3.245 ms
+[36m2025-03-20 00:54:33[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.310 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 2.106 ms
+[36m2025-03-20 00:54:33[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.791 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 1.955 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: POST /refresh-token 404 38.329 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 3.325 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: POST /refresh-token 404 1.313 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: POST /refresh-token 404 9.360 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 2.029 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: POST /refresh-token 404 0.659 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 1.927 ms
+[36m2025-03-20 00:54:33[39m [[31mERROR[39m]: GET /profile 403 2.194 ms
+[36m2025-03-20 09:44:50[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-20 09:46:05[39m [[32mINFO[39m]: OPTIONS /register 204 2.074 ms
+[36m2025-03-20 09:46:06[39m [[32mINFO[39m]: New user registered: t@gmail.com
+[36m2025-03-20 09:46:06[39m [[32mINFO[39m]: POST /register 200 1355.881 ms
+[36m2025-03-20 09:46:20[39m [[32mINFO[39m]: OPTIONS /login 204 0.217 ms
+[36m2025-03-20 09:46:21[39m [[32mINFO[39m]: User logged in: t@gmail.com
+[36m2025-03-20 09:46:21[39m [[32mINFO[39m]: POST /login 200 671.581 ms
+[36m2025-03-20 09:46:24[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-20 09:46:24[39m [[32mINFO[39m]: POST /logout 200 2.145 ms
+[36m2025-03-20 09:47:26[39m [[32mINFO[39m]: OPTIONS /register 204 0.318 ms
+[36m2025-03-20 09:47:28[39m [[32mINFO[39m]: New user registered: e@gmail.com
+[36m2025-03-20 09:47:28[39m [[32mINFO[39m]: POST /register 200 1646.299 ms
