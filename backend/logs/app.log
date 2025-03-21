@@ -575,3 +575,1817 @@
 [36m2025-03-21 19:18:11[39m [[32mINFO[39m]: OPTIONS /login 204 0.160 ms
 [36m2025-03-21 19:18:12[39m [[32mINFO[39m]: User logged in: o@gmail.com
 [36m2025-03-21 19:18:12[39m [[32mINFO[39m]: POST /login 200 811.123 ms
+[36m2025-03-21 19:34:23[39m [[31mERROR[39m]: GET /profile 403 10.351 ms
+[36m2025-03-21 19:34:23[39m [[31mERROR[39m]: GET /profile 403 1.613 ms
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.287 ms
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.150 ms
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: POST /refresh-token 200 36.311 ms
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: POST /refresh-token 200 4.926 ms
+[36m2025-03-21 19:34:23[39m [[32mINFO[39m]: OPTIONS /profile 204 0.183 ms
+[36m2025-03-21 19:34:23[39m [[31mERROR[39m]: GET /profile 403 2.693 ms
+[36m2025-03-21 19:34:23[39m [[31mERROR[39m]: GET /profile 403 1.749 ms
+[36m2025-03-21 19:53:08[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 3.709 ms
+[36m2025-03-21 19:53:18[39m [[31mERROR[39m]: GET /profile 403 8.201 ms
+[36m2025-03-21 19:53:18[39m [[31mERROR[39m]: GET /profile 403 3.080 ms
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.603 ms
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: POST /refresh-token 200 31.157 ms
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: POST /refresh-token 200 5.932 ms
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: OPTIONS /profile 204 1.615 ms
+[36m2025-03-21 19:53:18[39m [[32mINFO[39m]: OPTIONS /profile 204 0.378 ms
+[36m2025-03-21 19:53:18[39m [[31mERROR[39m]: GET /profile 403 5.115 ms
+[36m2025-03-21 19:53:18[39m [[31mERROR[39m]: GET /profile 403 2.897 ms
+[36m2025-03-21 19:55:45[39m [[31mERROR[39m]: GET /profile 403 3.275 ms
+[36m2025-03-21 19:55:45[39m [[31mERROR[39m]: GET /profile 403 2.462 ms
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.267 ms
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.369 ms
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: POST /refresh-token 200 6.144 ms
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 19:55:45[39m [[32mINFO[39m]: POST /refresh-token 200 11.380 ms
+[36m2025-03-21 19:55:46[39m [[32mINFO[39m]: OPTIONS /profile 204 0.603 ms
+[36m2025-03-21 19:55:46[39m [[32mINFO[39m]: OPTIONS /profile 204 1.032 ms
+[36m2025-03-21 19:55:46[39m [[31mERROR[39m]: GET /profile 403 2.748 ms
+[36m2025-03-21 19:55:46[39m [[31mERROR[39m]: GET /profile 403 2.917 ms
+[36m2025-03-21 19:56:08[39m [[32mINFO[39m]: OPTIONS /login 204 0.217 ms
+[36m2025-03-21 19:56:08[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-21 19:56:08[39m [[32mINFO[39m]: POST /login 200 446.110 ms
+[36m2025-03-21 20:02:16[39m [[32mINFO[39m]: OPTIONS /profile 204 0.358 ms
+[36m2025-03-21 20:02:16[39m [[32mINFO[39m]: OPTIONS /profile 204 0.266 ms
+[36m2025-03-21 20:02:16[39m [[31mERROR[39m]: GET /profile 403 2.458 ms
+[36m2025-03-21 20:02:16[39m [[31mERROR[39m]: GET /profile 403 2.956 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 3.734 ms
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.182 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 1.927 ms
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.192 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 2.422 ms
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: POST /refresh-token 200 7.431 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 2.234 ms
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: POST /refresh-token 200 14.161 ms
+[36m2025-03-21 20:02:25[39m [[32mINFO[39m]: OPTIONS /profile 204 0.397 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 2.646 ms
+[36m2025-03-21 20:02:25[39m [[31mERROR[39m]: GET /profile 403 2.282 ms
+[36m2025-03-21 20:02:31[39m [[32mINFO[39m]: OPTIONS /profile 204 0.444 ms
+[36m2025-03-21 20:02:31[39m [[32mINFO[39m]: OPTIONS /profile 204 0.242 ms
+[36m2025-03-21 20:02:31[39m [[31mERROR[39m]: GET /profile 403 1.688 ms
+[36m2025-03-21 20:02:31[39m [[31mERROR[39m]: GET /profile 403 1.854 ms
+[36m2025-03-21 20:02:37[39m [[32mINFO[39m]: OPTIONS /profile 204 0.189 ms
+[36m2025-03-21 20:02:37[39m [[32mINFO[39m]: OPTIONS /profile 204 0.254 ms
+[36m2025-03-21 20:02:37[39m [[31mERROR[39m]: GET /profile 403 1.862 ms
+[36m2025-03-21 20:02:37[39m [[31mERROR[39m]: GET /profile 403 2.675 ms
+[36m2025-03-21 20:02:39[39m [[31mERROR[39m]: GET /profile 403 3.421 ms
+[36m2025-03-21 20:02:39[39m [[31mERROR[39m]: GET /profile 403 2.967 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 4.094 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 2.678 ms
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.956 ms
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.183 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 3.358 ms
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: POST /refresh-token 200 8.545 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 2.021 ms
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: POST /refresh-token 200 6.549 ms
+[36m2025-03-21 20:04:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.173 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 2.824 ms
+[36m2025-03-21 20:04:01[39m [[31mERROR[39m]: GET /profile 403 2.407 ms
+[36m2025-03-21 20:04:08[39m [[32mINFO[39m]: OPTIONS /profile 204 0.532 ms
+[36m2025-03-21 20:04:08[39m [[32mINFO[39m]: OPTIONS /profile 204 0.313 ms
+[36m2025-03-21 20:04:08[39m [[31mERROR[39m]: GET /profile 403 1.753 ms
+[36m2025-03-21 20:04:08[39m [[31mERROR[39m]: GET /profile 403 9.029 ms
+[36m2025-03-21 20:09:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.197 ms
+[36m2025-03-21 20:09:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.427 ms
+[36m2025-03-21 20:09:04[39m [[31mERROR[39m]: GET /profile 403 3.946 ms
+[36m2025-03-21 20:09:04[39m [[31mERROR[39m]: GET /profile 403 5.069 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 1.906 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 1.659 ms
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.181 ms
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: POST /refresh-token 200 6.497 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 2.864 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 1.675 ms
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: POST /refresh-token 200 8.147 ms
+[36m2025-03-21 20:10:30[39m [[32mINFO[39m]: OPTIONS /profile 204 0.178 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 2.923 ms
+[36m2025-03-21 20:10:30[39m [[31mERROR[39m]: GET /profile 403 4.189 ms
+[36m2025-03-21 20:11:05[39m [[31mERROR[39m]: GET /profile 403 2.279 ms
+[36m2025-03-21 20:11:05[39m [[31mERROR[39m]: GET /profile 403 2.064 ms
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.189 ms
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.235 ms
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: POST /refresh-token 200 4.492 ms
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: POST /refresh-token 200 6.132 ms
+[36m2025-03-21 20:11:05[39m [[32mINFO[39m]: OPTIONS /profile 204 0.178 ms
+[36m2025-03-21 20:11:05[39m [[31mERROR[39m]: GET /profile 403 1.703 ms
+[36m2025-03-21 20:11:05[39m [[31mERROR[39m]: GET /profile 403 1.983 ms
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.193 ms
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.165 ms
+[36m2025-03-21 20:11:10[39m [[31mERROR[39m]: GET /profile 403 4.498 ms
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: POST /refresh-token 200 6.128 ms
+[36m2025-03-21 20:11:10[39m [[31mERROR[39m]: GET /profile 403 3.832 ms
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: POST /refresh-token 200 5.422 ms
+[36m2025-03-21 20:11:10[39m [[32mINFO[39m]: OPTIONS /profile 204 0.177 ms
+[36m2025-03-21 20:11:10[39m [[31mERROR[39m]: GET /profile 403 1.979 ms
+[36m2025-03-21 20:11:10[39m [[31mERROR[39m]: GET /profile 403 6.502 ms
+[36m2025-03-21 20:12:12[39m [[32mINFO[39m]: OPTIONS /profile 204 0.215 ms
+[36m2025-03-21 20:12:12[39m [[32mINFO[39m]: OPTIONS /profile 204 0.287 ms
+[36m2025-03-21 20:12:12[39m [[32mINFO[39m]: OPTIONS /profile 204 0.480 ms
+[36m2025-03-21 20:12:12[39m [[32mINFO[39m]: OPTIONS /profile 204 0.451 ms
+[36m2025-03-21 20:12:12[39m [[31mERROR[39m]: GET /profile 403 10.653 ms
+[36m2025-03-21 20:12:12[39m [[31mERROR[39m]: GET /profile 403 2.332 ms
+[36m2025-03-21 20:12:12[39m [[31mERROR[39m]: GET /profile 403 6.284 ms
+[36m2025-03-21 20:12:12[39m [[31mERROR[39m]: GET /profile 403 1.950 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 5.303 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 5.005 ms
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.226 ms
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.295 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 2.553 ms
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: POST /refresh-token 200 4.949 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 3.087 ms
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:12:17[39m [[32mINFO[39m]: POST /refresh-token 200 6.319 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 1.811 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 2.452 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 3.962 ms
+[36m2025-03-21 20:12:17[39m [[31mERROR[39m]: GET /profile 403 3.420 ms
+[36m2025-03-21 20:12:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.816 ms
+[36m2025-03-21 20:12:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.924 ms
+[36m2025-03-21 20:12:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.527 ms
+[36m2025-03-21 20:12:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.290 ms
+[36m2025-03-21 20:12:28[39m [[31mERROR[39m]: GET /profile 403 1.769 ms
+[36m2025-03-21 20:12:28[39m [[31mERROR[39m]: GET /profile 403 3.845 ms
+[36m2025-03-21 20:12:28[39m [[31mERROR[39m]: GET /profile 403 2.754 ms
+[36m2025-03-21 20:12:28[39m [[31mERROR[39m]: GET /profile 403 2.640 ms
+[36m2025-03-21 20:15:14[39m [[32mINFO[39m]: OPTIONS /profile 204 0.192 ms
+[36m2025-03-21 20:15:14[39m [[32mINFO[39m]: OPTIONS /profile 204 0.633 ms
+[36m2025-03-21 20:15:14[39m [[31mERROR[39m]: GET /profile 403 1.635 ms
+[36m2025-03-21 20:15:14[39m [[31mERROR[39m]: GET /profile 403 3.791 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.469 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.179 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 2.593 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 1.664 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: POST /refresh-token 200 4.792 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 6.764 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: POST /refresh-token 200 5.546 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 8.351 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: OPTIONS /profile 204 0.178 ms
+[36m2025-03-21 20:16:15[39m [[32mINFO[39m]: OPTIONS /profile 204 0.179 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 2.538 ms
+[36m2025-03-21 20:16:15[39m [[31mERROR[39m]: GET /profile 403 4.631 ms
+[36m2025-03-21 20:16:25[39m [[32mINFO[39m]: OPTIONS /register 204 0.185 ms
+[36m2025-03-21 20:16:25[39m [[33mWARN[39m]: Registration failed: Name is required
+[36m2025-03-21 20:16:25[39m [[32mINFO[39m]: POST /register 200 1.408 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.266 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.190 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 3.181 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 2.890 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: POST /refresh-token 200 5.563 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 4.979 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: POST /refresh-token 200 3.328 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 2.131 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: OPTIONS /profile 204 0.175 ms
+[36m2025-03-21 20:17:49[39m [[32mINFO[39m]: OPTIONS /profile 204 0.186 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 3.535 ms
+[36m2025-03-21 20:17:49[39m [[31mERROR[39m]: GET /profile 403 2.986 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 1.989 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 3.847 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.225 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 7.958 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.178 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 1.819 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: POST /refresh-token 200 4.449 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: POST /refresh-token 200 5.822 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: OPTIONS /profile 204 0.179 ms
+[36m2025-03-21 20:19:57[39m [[32mINFO[39m]: OPTIONS /profile 204 0.179 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 2.775 ms
+[36m2025-03-21 20:19:57[39m [[31mERROR[39m]: GET /profile 403 2.463 ms
+[36m2025-03-21 20:19:58[39m [[31mERROR[39m]: GET /profile 403 2.809 ms
+[36m2025-03-21 20:19:58[39m [[31mERROR[39m]: GET /profile 403 1.632 ms
+[36m2025-03-21 20:20:00[39m [[31mERROR[39m]: GET /profile 403 3.050 ms
+[36m2025-03-21 20:20:00[39m [[31mERROR[39m]: GET /profile 403 5.840 ms
+[36m2025-03-21 20:20:01[39m [[31mERROR[39m]: GET /profile 403 8.215 ms
+[36m2025-03-21 20:20:01[39m [[31mERROR[39m]: GET /profile 403 2.185 ms
+[36m2025-03-21 20:20:05[39m [[32mINFO[39m]: OPTIONS /profile 204 1.336 ms
+[36m2025-03-21 20:20:05[39m [[31mERROR[39m]: GET /profile 403 1.695 ms
+[36m2025-03-21 20:20:05[39m [[32mINFO[39m]: OPTIONS /profile 204 0.894 ms
+[36m2025-03-21 20:20:05[39m [[31mERROR[39m]: GET /profile 403 1.974 ms
+[36m2025-03-21 20:20:05[39m [[31mERROR[39m]: GET /profile 403 9.352 ms
+[36m2025-03-21 20:20:05[39m [[31mERROR[39m]: GET /profile 403 1.753 ms
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.158 ms
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.184 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 8.685 ms
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: POST /refresh-token 200 7.222 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 6.209 ms
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: POST /refresh-token 200 7.290 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 4.367 ms
+[36m2025-03-21 20:21:43[39m [[32mINFO[39m]: OPTIONS /profile 204 0.233 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 2.731 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 2.311 ms
+[36m2025-03-21 20:21:43[39m [[31mERROR[39m]: GET /profile 403 2.155 ms
+[36m2025-03-21 20:21:45[39m [[31mERROR[39m]: GET /profile 403 3.151 ms
+[36m2025-03-21 20:21:45[39m [[31mERROR[39m]: GET /profile 403 4.667 ms
+[36m2025-03-21 20:21:51[39m [[32mINFO[39m]: OPTIONS /profile 204 0.306 ms
+[36m2025-03-21 20:21:51[39m [[32mINFO[39m]: OPTIONS /profile 204 0.180 ms
+[36m2025-03-21 20:21:51[39m [[31mERROR[39m]: GET /profile 403 6.571 ms
+[36m2025-03-21 20:21:51[39m [[31mERROR[39m]: GET /profile 403 1.915 ms
+[36m2025-03-21 20:21:54[39m [[31mERROR[39m]: GET /profile 403 5.129 ms
+[36m2025-03-21 20:21:54[39m [[31mERROR[39m]: GET /profile 403 11.385 ms
+[36m2025-03-21 20:21:54[39m [[31mERROR[39m]: GET /profile 403 2.191 ms
+[36m2025-03-21 20:21:54[39m [[31mERROR[39m]: GET /profile 403 2.674 ms
+[36m2025-03-21 20:24:18[39m [[32mINFO[39m]: OPTIONS /profile 204 0.316 ms
+[36m2025-03-21 20:24:18[39m [[32mINFO[39m]: OPTIONS /profile 204 1.198 ms
+[36m2025-03-21 20:24:18[39m [[31mERROR[39m]: GET /profile 403 3.285 ms
+[36m2025-03-21 20:24:18[39m [[31mERROR[39m]: GET /profile 403 2.134 ms
+[36m2025-03-21 20:24:19[39m [[31mERROR[39m]: GET /profile 403 3.193 ms
+[36m2025-03-21 20:24:19[39m [[31mERROR[39m]: GET /profile 403 1.945 ms
+[36m2025-03-21 20:24:22[39m [[31mERROR[39m]: GET /profile 403 3.225 ms
+[36m2025-03-21 20:24:22[39m [[31mERROR[39m]: GET /profile 403 5.569 ms
+[36m2025-03-21 20:24:24[39m [[32mINFO[39m]: OPTIONS /profile 204 0.185 ms
+[36m2025-03-21 20:24:24[39m [[32mINFO[39m]: OPTIONS /profile 204 0.322 ms
+[36m2025-03-21 20:24:24[39m [[31mERROR[39m]: GET /profile 403 5.950 ms
+[36m2025-03-21 20:24:24[39m [[31mERROR[39m]: GET /profile 403 2.013 ms
+[36m2025-03-21 20:24:25[39m [[31mERROR[39m]: GET /profile 403 3.311 ms
+[36m2025-03-21 20:24:25[39m [[31mERROR[39m]: GET /profile 403 3.323 ms
+[36m2025-03-21 20:24:28[39m [[31mERROR[39m]: GET /profile 403 2.744 ms
+[36m2025-03-21 20:24:28[39m [[31mERROR[39m]: GET /profile 403 2.314 ms
+[36m2025-03-21 20:24:29[39m [[32mINFO[39m]: OPTIONS /profile 204 0.159 ms
+[36m2025-03-21 20:24:29[39m [[32mINFO[39m]: OPTIONS /profile 204 0.206 ms
+[36m2025-03-21 20:24:29[39m [[31mERROR[39m]: GET /profile 403 2.361 ms
+[36m2025-03-21 20:24:29[39m [[31mERROR[39m]: GET /profile 403 3.341 ms
+[36m2025-03-21 20:24:31[39m [[31mERROR[39m]: GET /profile 403 3.726 ms
+[36m2025-03-21 20:24:31[39m [[31mERROR[39m]: GET /profile 403 3.601 ms
+[36m2025-03-21 20:24:45[39m [[32mINFO[39m]: OPTIONS /profile 204 0.425 ms
+[36m2025-03-21 20:24:45[39m [[32mINFO[39m]: OPTIONS /profile 204 0.601 ms
+[36m2025-03-21 20:24:45[39m [[31mERROR[39m]: GET /profile 403 2.437 ms
+[36m2025-03-21 20:24:45[39m [[31mERROR[39m]: GET /profile 403 73.277 ms
+[36m2025-03-21 20:24:52[39m [[32mINFO[39m]: OPTIONS /profile 204 0.236 ms
+[36m2025-03-21 20:24:52[39m [[32mINFO[39m]: OPTIONS /profile 204 0.666 ms
+[36m2025-03-21 20:24:52[39m [[31mERROR[39m]: GET /profile 403 3.492 ms
+[36m2025-03-21 20:24:52[39m [[31mERROR[39m]: GET /profile 403 4.776 ms
+[36m2025-03-21 20:24:53[39m [[31mERROR[39m]: GET /profile 403 2.290 ms
+[36m2025-03-21 20:24:53[39m [[31mERROR[39m]: GET /profile 403 2.250 ms
+[36m2025-03-21 20:24:55[39m [[31mERROR[39m]: GET /profile 403 1.730 ms
+[36m2025-03-21 20:24:55[39m [[31mERROR[39m]: GET /profile 403 4.609 ms
+[36m2025-03-21 20:24:57[39m [[32mINFO[39m]: OPTIONS /profile 204 0.173 ms
+[36m2025-03-21 20:24:57[39m [[31mERROR[39m]: GET /profile 403 2.675 ms
+[36m2025-03-21 20:24:57[39m [[32mINFO[39m]: OPTIONS /profile 204 0.292 ms
+[36m2025-03-21 20:24:57[39m [[31mERROR[39m]: GET /profile 403 1.970 ms
+[36m2025-03-21 20:24:58[39m [[31mERROR[39m]: GET /profile 403 3.035 ms
+[36m2025-03-21 20:24:58[39m [[31mERROR[39m]: GET /profile 403 4.476 ms
+[36m2025-03-21 20:24:59[39m [[31mERROR[39m]: GET /profile 403 3.232 ms
+[36m2025-03-21 20:24:59[39m [[31mERROR[39m]: GET /profile 403 3.586 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 2.549 ms
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.179 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 1.917 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 25.213 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 7.069 ms
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: POST /refresh-token 200 5.629 ms
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: POST /refresh-token 200 9.498 ms
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: OPTIONS /profile 204 0.165 ms
+[36m2025-03-21 20:26:15[39m [[32mINFO[39m]: OPTIONS /profile 204 0.175 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 2.033 ms
+[36m2025-03-21 20:26:15[39m [[31mERROR[39m]: GET /profile 403 6.661 ms
+[36m2025-03-21 20:26:17[39m [[31mERROR[39m]: GET /profile 403 1.827 ms
+[36m2025-03-21 20:26:17[39m [[31mERROR[39m]: GET /profile 403 2.110 ms
+[36m2025-03-21 20:26:18[39m [[31mERROR[39m]: GET /profile 403 3.034 ms
+[36m2025-03-21 20:26:18[39m [[31mERROR[39m]: GET /profile 403 3.210 ms
+[36m2025-03-21 20:26:19[39m [[31mERROR[39m]: GET /profile 403 4.950 ms
+[36m2025-03-21 20:26:19[39m [[31mERROR[39m]: GET /profile 403 1.715 ms
+[36m2025-03-21 20:26:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.177 ms
+[36m2025-03-21 20:26:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.338 ms
+[36m2025-03-21 20:26:21[39m [[31mERROR[39m]: GET /profile 403 1.770 ms
+[36m2025-03-21 20:26:21[39m [[31mERROR[39m]: GET /profile 403 2.667 ms
+[36m2025-03-21 20:26:22[39m [[31mERROR[39m]: GET /profile 403 4.271 ms
+[36m2025-03-21 20:26:22[39m [[31mERROR[39m]: GET /profile 403 1.978 ms
+[36m2025-03-21 20:26:23[39m [[31mERROR[39m]: GET /profile 403 1.731 ms
+[36m2025-03-21 20:26:23[39m [[31mERROR[39m]: GET /profile 403 2.042 ms
+[36m2025-03-21 20:26:24[39m [[31mERROR[39m]: GET /profile 403 3.831 ms
+[36m2025-03-21 20:26:24[39m [[31mERROR[39m]: GET /profile 403 7.300 ms
+[36m2025-03-21 20:26:25[39m [[31mERROR[39m]: GET /profile 403 3.810 ms
+[36m2025-03-21 20:26:25[39m [[31mERROR[39m]: GET /profile 403 2.225 ms
+[36m2025-03-21 20:26:25[39m [[31mERROR[39m]: GET /profile 403 3.186 ms
+[36m2025-03-21 20:26:25[39m [[31mERROR[39m]: GET /profile 403 3.112 ms
+[36m2025-03-21 20:27:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.373 ms
+[36m2025-03-21 20:27:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.211 ms
+[36m2025-03-21 20:27:13[39m [[31mERROR[39m]: GET /profile 403 2.500 ms
+[36m2025-03-21 20:27:13[39m [[31mERROR[39m]: GET /profile 403 8.335 ms
+[36m2025-03-21 20:27:14[39m [[31mERROR[39m]: GET /profile 403 5.949 ms
+[36m2025-03-21 20:27:14[39m [[31mERROR[39m]: GET /profile 403 2.391 ms
+[36m2025-03-21 20:27:15[39m [[31mERROR[39m]: GET /profile 403 2.257 ms
+[36m2025-03-21 20:27:15[39m [[31mERROR[39m]: GET /profile 403 2.703 ms
+[36m2025-03-21 20:27:16[39m [[31mERROR[39m]: GET /profile 403 2.021 ms
+[36m2025-03-21 20:27:16[39m [[31mERROR[39m]: GET /profile 403 3.202 ms
+[36m2025-03-21 20:27:17[39m [[31mERROR[39m]: GET /profile 403 1.677 ms
+[36m2025-03-21 20:27:17[39m [[31mERROR[39m]: GET /profile 403 3.213 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.193 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.751 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 8.029 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 3.353 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 2.581 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: POST /refresh-token 200 3.707 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 7.077 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: POST /refresh-token 200 6.145 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: OPTIONS /profile 204 0.169 ms
+[36m2025-03-21 20:27:36[39m [[32mINFO[39m]: OPTIONS /profile 204 0.164 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 1.876 ms
+[36m2025-03-21 20:27:36[39m [[31mERROR[39m]: GET /profile 403 1.591 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 1.916 ms
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.159 ms
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.162 ms
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: POST /refresh-token 200 4.035 ms
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: POST /refresh-token 200 3.599 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 2.845 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 2.174 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 1.755 ms
+[36m2025-03-21 20:39:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.170 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 2.948 ms
+[36m2025-03-21 20:39:01[39m [[31mERROR[39m]: GET /profile 403 2.987 ms
+[36m2025-03-21 20:58:29[39m [[32mINFO[39m]: OPTIONS /profile 204 2.800 ms
+[36m2025-03-21 20:58:29[39m [[32mINFO[39m]: OPTIONS /profile 204 0.222 ms
+[36m2025-03-21 20:58:29[39m [[31mERROR[39m]: GET /profile 403 4.271 ms
+[36m2025-03-21 20:58:29[39m [[31mERROR[39m]: GET /profile 403 1.640 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 6.503 ms
+[36m2025-03-21 20:58:34[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.329 ms
+[36m2025-03-21 20:58:34[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:58:34[39m [[32mINFO[39m]: POST /refresh-token 200 4.720 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 2.375 ms
+[36m2025-03-21 20:58:34[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:58:34[39m [[32mINFO[39m]: POST /refresh-token 200 4.765 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 1.918 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 1.651 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 1.680 ms
+[36m2025-03-21 20:58:34[39m [[31mERROR[39m]: GET /profile 403 1.952 ms
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: POST /refresh-token 200 8.682 ms
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: POST /refresh-token 200 5.625 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 7.092 ms
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: OPTIONS /profile 204 0.965 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 1.634 ms
+[36m2025-03-21 20:58:36[39m [[32mINFO[39m]: OPTIONS /profile 204 0.217 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 3.045 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 3.633 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 1.677 ms
+[36m2025-03-21 20:58:36[39m [[31mERROR[39m]: GET /profile 403 2.850 ms
+[36m2025-03-21 20:58:38[39m [[31mERROR[39m]: GET /profile 403 2.693 ms
+[36m2025-03-21 20:58:38[39m [[31mERROR[39m]: GET /profile 403 1.697 ms
+[36m2025-03-21 20:58:41[39m [[32mINFO[39m]: OPTIONS /profile 204 0.196 ms
+[36m2025-03-21 20:58:41[39m [[32mINFO[39m]: OPTIONS /profile 204 0.206 ms
+[36m2025-03-21 20:58:41[39m [[31mERROR[39m]: GET /profile 403 2.168 ms
+[36m2025-03-21 20:58:41[39m [[31mERROR[39m]: GET /profile 403 3.395 ms
+[36m2025-03-21 20:58:43[39m [[31mERROR[39m]: GET /profile 403 4.460 ms
+[36m2025-03-21 20:58:43[39m [[31mERROR[39m]: GET /profile 403 2.875 ms
+[36m2025-03-21 20:58:44[39m [[31mERROR[39m]: GET /profile 403 1.656 ms
+[36m2025-03-21 20:58:44[39m [[31mERROR[39m]: GET /profile 403 3.164 ms
+[36m2025-03-21 20:58:47[39m [[32mINFO[39m]: OPTIONS /profile 204 1.078 ms
+[36m2025-03-21 20:58:47[39m [[32mINFO[39m]: OPTIONS /profile 204 1.074 ms
+[36m2025-03-21 20:58:47[39m [[31mERROR[39m]: GET /profile 403 1.668 ms
+[36m2025-03-21 20:58:47[39m [[31mERROR[39m]: GET /profile 403 1.668 ms
+[36m2025-03-21 20:58:49[39m [[31mERROR[39m]: GET /profile 403 5.146 ms
+[36m2025-03-21 20:58:49[39m [[31mERROR[39m]: GET /profile 403 2.390 ms
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.157 ms
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.146 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 3.293 ms
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: POST /refresh-token 200 4.010 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 10.019 ms
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: POST /refresh-token 200 5.687 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 1.892 ms
+[36m2025-03-21 21:01:34[39m [[32mINFO[39m]: OPTIONS /profile 204 0.133 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 5.005 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 1.952 ms
+[36m2025-03-21 21:01:34[39m [[31mERROR[39m]: GET /profile 403 2.178 ms
+[36m2025-03-21 21:01:36[39m [[31mERROR[39m]: GET /profile 403 2.633 ms
+[36m2025-03-21 21:01:36[39m [[31mERROR[39m]: GET /profile 403 2.638 ms
+[36m2025-03-21 21:01:39[39m [[31mERROR[39m]: GET /profile 403 3.438 ms
+[36m2025-03-21 21:01:39[39m [[31mERROR[39m]: GET /profile 403 8.804 ms
+[36m2025-03-21 21:01:41[39m [[32mINFO[39m]: OPTIONS /profile 204 0.168 ms
+[36m2025-03-21 21:01:41[39m [[32mINFO[39m]: OPTIONS /profile 204 1.747 ms
+[36m2025-03-21 21:01:41[39m [[31mERROR[39m]: GET /profile 403 4.041 ms
+[36m2025-03-21 21:01:41[39m [[31mERROR[39m]: GET /profile 403 3.685 ms
+[36m2025-03-21 21:01:44[39m [[31mERROR[39m]: GET /profile 403 7.699 ms
+[36m2025-03-21 21:01:44[39m [[31mERROR[39m]: GET /profile 403 1.844 ms
+[36m2025-03-21 21:01:46[39m [[31mERROR[39m]: GET /profile 403 1.681 ms
+[36m2025-03-21 21:01:46[39m [[31mERROR[39m]: GET /profile 403 3.729 ms
+[36m2025-03-21 21:01:47[39m [[32mINFO[39m]: OPTIONS /profile 204 0.158 ms
+[36m2025-03-21 21:01:47[39m [[32mINFO[39m]: OPTIONS /profile 204 0.247 ms
+[36m2025-03-21 21:01:48[39m [[31mERROR[39m]: GET /profile 403 7.443 ms
+[36m2025-03-21 21:01:48[39m [[31mERROR[39m]: GET /profile 403 2.547 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.148 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.560 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 1.528 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 1.819 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: POST /refresh-token 200 9.092 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 11.150 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: POST /refresh-token 200 4.312 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 1.812 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: OPTIONS /profile 204 0.146 ms
+[36m2025-03-21 21:03:40[39m [[32mINFO[39m]: OPTIONS /profile 204 0.146 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 2.114 ms
+[36m2025-03-21 21:03:40[39m [[31mERROR[39m]: GET /profile 403 2.003 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 2.029 ms
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.150 ms
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.153 ms
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: POST /refresh-token 200 4.195 ms
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: POST /refresh-token 200 5.751 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 1.655 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 1.547 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 1.554 ms
+[36m2025-03-21 21:03:52[39m [[32mINFO[39m]: OPTIONS /profile 204 0.165 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 2.009 ms
+[36m2025-03-21 21:03:52[39m [[31mERROR[39m]: GET /profile 403 2.099 ms
+[36m2025-03-21 21:03:54[39m [[31mERROR[39m]: GET /profile 403 3.053 ms
+[36m2025-03-21 21:03:54[39m [[31mERROR[39m]: GET /profile 403 2.512 ms
+[36m2025-03-21 21:03:56[39m [[31mERROR[39m]: GET /profile 403 4.279 ms
+[36m2025-03-21 21:03:56[39m [[31mERROR[39m]: GET /profile 403 4.565 ms
+[36m2025-03-21 21:04:22[39m [[32mINFO[39m]: OPTIONS /profile 204 0.177 ms
+[36m2025-03-21 21:04:22[39m [[32mINFO[39m]: OPTIONS /profile 204 4.921 ms
+[36m2025-03-21 21:04:22[39m [[31mERROR[39m]: GET /profile 403 6.749 ms
+[36m2025-03-21 21:04:22[39m [[31mERROR[39m]: GET /profile 403 3.120 ms
+[36m2025-03-21 21:04:26[39m [[31mERROR[39m]: GET /profile 403 1.803 ms
+[36m2025-03-21 21:04:26[39m [[31mERROR[39m]: GET /profile 403 3.023 ms
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.308 ms
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.248 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 4.035 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 1.807 ms
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: POST /refresh-token 200 7.623 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 1.804 ms
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: OPTIONS /profile 204 0.257 ms
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:05:25[39m [[32mINFO[39m]: POST /refresh-token 200 5.845 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 2.272 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 1.868 ms
+[36m2025-03-21 21:05:25[39m [[31mERROR[39m]: GET /profile 403 1.641 ms
+[36m2025-03-21 21:09:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.245 ms
+[36m2025-03-21 21:09:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.176 ms
+[36m2025-03-21 21:09:04[39m [[31mERROR[39m]: GET /profile 403 2.050 ms
+[36m2025-03-21 21:09:04[39m [[31mERROR[39m]: GET /profile 403 5.132 ms
+[36m2025-03-21 21:09:10[39m [[31mERROR[39m]: GET /profile 403 6.807 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.166 ms
+[36m2025-03-21 21:09:11[39m [[31mERROR[39m]: GET /profile 403 2.584 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.156 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: POST /refresh-token 200 5.749 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: POST /refresh-token 200 11.033 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: OPTIONS /profile 204 0.296 ms
+[36m2025-03-21 21:09:11[39m [[32mINFO[39m]: OPTIONS /profile 204 0.165 ms
+[36m2025-03-21 21:09:11[39m [[31mERROR[39m]: GET /profile 403 2.153 ms
+[36m2025-03-21 21:09:11[39m [[31mERROR[39m]: GET /profile 403 1.739 ms
+[36m2025-03-21 21:09:12[39m [[31mERROR[39m]: GET /profile 403 2.446 ms
+[36m2025-03-21 21:09:12[39m [[31mERROR[39m]: GET /profile 403 3.326 ms
+[36m2025-03-21 21:09:14[39m [[31mERROR[39m]: GET /profile 403 2.463 ms
+[36m2025-03-21 21:09:14[39m [[31mERROR[39m]: GET /profile 403 2.887 ms
+[36m2025-03-21 21:09:16[39m [[32mINFO[39m]: OPTIONS /profile 204 0.156 ms
+[36m2025-03-21 21:09:16[39m [[32mINFO[39m]: OPTIONS /profile 204 0.628 ms
+[36m2025-03-21 21:09:16[39m [[31mERROR[39m]: GET /profile 403 1.911 ms
+[36m2025-03-21 21:09:16[39m [[31mERROR[39m]: GET /profile 403 2.741 ms
+[36m2025-03-21 21:09:19[39m [[31mERROR[39m]: GET /profile 403 3.320 ms
+[36m2025-03-21 21:09:19[39m [[31mERROR[39m]: GET /profile 403 4.408 ms
+[36m2025-03-21 21:09:20[39m [[31mERROR[39m]: GET /profile 403 2.112 ms
+[36m2025-03-21 21:09:20[39m [[31mERROR[39m]: GET /profile 403 4.910 ms
+[36m2025-03-21 21:09:22[39m [[32mINFO[39m]: OPTIONS /profile 204 0.185 ms
+[36m2025-03-21 21:09:22[39m [[32mINFO[39m]: OPTIONS /profile 204 0.549 ms
+[36m2025-03-21 21:09:22[39m [[31mERROR[39m]: GET /profile 403 2.409 ms
+[36m2025-03-21 21:09:22[39m [[31mERROR[39m]: GET /profile 403 4.369 ms
+[36m2025-03-21 21:09:32[39m [[32mINFO[39m]: OPTIONS /profile 204 0.267 ms
+[36m2025-03-21 21:09:32[39m [[32mINFO[39m]: OPTIONS /profile 204 0.592 ms
+[36m2025-03-21 21:09:32[39m [[31mERROR[39m]: GET /profile 403 4.475 ms
+[36m2025-03-21 21:09:32[39m [[31mERROR[39m]: GET /profile 403 3.046 ms
+[36m2025-03-21 21:09:34[39m [[31mERROR[39m]: GET /profile 403 5.094 ms
+[36m2025-03-21 21:09:34[39m [[31mERROR[39m]: GET /profile 403 1.678 ms
+[36m2025-03-21 21:09:43[39m [[32mINFO[39m]: OPTIONS /profile 204 0.174 ms
+[36m2025-03-21 21:09:43[39m [[32mINFO[39m]: OPTIONS /profile 204 3.116 ms
+[36m2025-03-21 21:09:43[39m [[31mERROR[39m]: GET /profile 403 4.607 ms
+[36m2025-03-21 21:09:43[39m [[31mERROR[39m]: GET /profile 403 2.052 ms
+[36m2025-03-21 21:09:44[39m [[31mERROR[39m]: GET /profile 403 3.900 ms
+[36m2025-03-21 21:09:44[39m [[31mERROR[39m]: GET /profile 403 4.381 ms
+[36m2025-03-21 21:10:53[39m [[32mINFO[39m]: OPTIONS /profile 204 0.692 ms
+[36m2025-03-21 21:10:53[39m [[32mINFO[39m]: OPTIONS /profile 204 0.139 ms
+[36m2025-03-21 21:10:53[39m [[31mERROR[39m]: GET /profile 403 10.459 ms
+[36m2025-03-21 21:10:53[39m [[31mERROR[39m]: GET /profile 403 2.580 ms
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.160 ms
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.149 ms
+[36m2025-03-21 21:10:55[39m [[31mERROR[39m]: GET /profile 403 2.987 ms
+[36m2025-03-21 21:10:55[39m [[31mERROR[39m]: GET /profile 403 1.589 ms
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: POST /refresh-token 200 4.422 ms
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:10:55[39m [[32mINFO[39m]: POST /refresh-token 200 11.230 ms
+[36m2025-03-21 21:10:55[39m [[31mERROR[39m]: GET /profile 403 1.754 ms
+[36m2025-03-21 21:10:55[39m [[31mERROR[39m]: GET /profile 403 1.666 ms
+[36m2025-03-21 21:10:58[39m [[32mINFO[39m]: OPTIONS /profile 204 0.208 ms
+[36m2025-03-21 21:10:58[39m [[32mINFO[39m]: OPTIONS /profile 204 0.172 ms
+[36m2025-03-21 21:10:58[39m [[31mERROR[39m]: GET /profile 403 2.745 ms
+[36m2025-03-21 21:10:58[39m [[31mERROR[39m]: GET /profile 403 7.149 ms
+[36m2025-03-21 21:10:59[39m [[31mERROR[39m]: GET /profile 403 3.444 ms
+[36m2025-03-21 21:10:59[39m [[31mERROR[39m]: GET /profile 403 4.624 ms
+[36m2025-03-21 21:11:00[39m [[31mERROR[39m]: GET /profile 403 1.716 ms
+[36m2025-03-21 21:11:00[39m [[31mERROR[39m]: GET /profile 403 1.993 ms
+[36m2025-03-21 21:11:02[39m [[31mERROR[39m]: GET /profile 403 2.849 ms
+[36m2025-03-21 21:11:02[39m [[31mERROR[39m]: GET /profile 403 4.501 ms
+[36m2025-03-21 21:11:03[39m [[31mERROR[39m]: GET /profile 403 3.360 ms
+[36m2025-03-21 21:11:03[39m [[31mERROR[39m]: GET /profile 403 2.963 ms
+[36m2025-03-21 21:11:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.175 ms
+[36m2025-03-21 21:11:04[39m [[31mERROR[39m]: GET /profile 403 4.298 ms
+[36m2025-03-21 21:11:04[39m [[32mINFO[39m]: OPTIONS /profile 204 1.533 ms
+[36m2025-03-21 21:11:04[39m [[31mERROR[39m]: GET /profile 403 2.979 ms
+[36m2025-03-21 21:19:53[39m [[31mERROR[39m]: GET /profile 403 5.489 ms
+[36m2025-03-21 21:19:53[39m [[31mERROR[39m]: GET /profile 403 2.429 ms
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.554 ms
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.156 ms
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: POST /refresh-token 200 5.324 ms
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: POST /refresh-token 200 6.664 ms
+[36m2025-03-21 21:19:53[39m [[32mINFO[39m]: OPTIONS /profile 204 0.810 ms
+[36m2025-03-21 21:19:53[39m [[31mERROR[39m]: GET /profile 403 3.560 ms
+[36m2025-03-21 21:19:53[39m [[31mERROR[39m]: GET /profile 403 1.674 ms
+[36m2025-03-21 21:19:55[39m [[31mERROR[39m]: GET /profile 403 4.051 ms
+[36m2025-03-21 21:19:55[39m [[31mERROR[39m]: GET /profile 403 1.543 ms
+[36m2025-03-21 21:20:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.182 ms
+[36m2025-03-21 21:20:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.162 ms
+[36m2025-03-21 21:20:01[39m [[31mERROR[39m]: GET /profile 403 1.951 ms
+[36m2025-03-21 21:20:01[39m [[31mERROR[39m]: GET /profile 403 2.513 ms
+[36m2025-03-21 21:20:03[39m [[31mERROR[39m]: GET /profile 403 1.387 ms
+[36m2025-03-21 21:20:03[39m [[31mERROR[39m]: GET /profile 403 1.696 ms
+[36m2025-03-21 21:20:04[39m [[31mERROR[39m]: GET /profile 403 2.385 ms
+[36m2025-03-21 21:20:04[39m [[31mERROR[39m]: GET /profile 403 2.604 ms
+[36m2025-03-21 21:20:07[39m [[32mINFO[39m]: OPTIONS /profile 204 0.179 ms
+[36m2025-03-21 21:20:07[39m [[32mINFO[39m]: OPTIONS /profile 204 0.615 ms
+[36m2025-03-21 21:20:07[39m [[31mERROR[39m]: GET /profile 403 3.079 ms
+[36m2025-03-21 21:20:07[39m [[31mERROR[39m]: GET /profile 403 1.969 ms
+[36m2025-03-21 21:20:08[39m [[31mERROR[39m]: GET /profile 403 3.301 ms
+[36m2025-03-21 21:20:08[39m [[31mERROR[39m]: GET /profile 403 2.892 ms
+[36m2025-03-21 21:20:12[39m [[31mERROR[39m]: GET /profile 403 1.450 ms
+[36m2025-03-21 21:20:12[39m [[31mERROR[39m]: GET /profile 403 2.237 ms
+[36m2025-03-21 21:20:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.171 ms
+[36m2025-03-21 21:20:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.178 ms
+[36m2025-03-21 21:20:13[39m [[31mERROR[39m]: GET /profile 403 2.796 ms
+[36m2025-03-21 21:20:13[39m [[31mERROR[39m]: GET /profile 403 7.175 ms
+[36m2025-03-21 21:20:14[39m [[31mERROR[39m]: GET /profile 403 1.700 ms
+[36m2025-03-21 21:20:14[39m [[31mERROR[39m]: GET /profile 403 2.600 ms
+[36m2025-03-21 21:20:16[39m [[31mERROR[39m]: GET /profile 403 2.563 ms
+[36m2025-03-21 21:20:16[39m [[31mERROR[39m]: GET /profile 403 2.382 ms
+[36m2025-03-21 21:20:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.166 ms
+[36m2025-03-21 21:20:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.683 ms
+[36m2025-03-21 21:20:21[39m [[31mERROR[39m]: GET /profile 403 1.647 ms
+[36m2025-03-21 21:20:21[39m [[31mERROR[39m]: GET /profile 403 2.527 ms
+[36m2025-03-21 21:20:23[39m [[31mERROR[39m]: GET /profile 403 2.947 ms
+[36m2025-03-21 21:20:23[39m [[31mERROR[39m]: GET /profile 403 5.458 ms
+[36m2025-03-21 21:28:54[39m [[32mINFO[39m]: OPTIONS /profile 204 0.831 ms
+[36m2025-03-21 21:28:54[39m [[32mINFO[39m]: OPTIONS /profile 204 0.169 ms
+[36m2025-03-21 21:28:54[39m [[31mERROR[39m]: GET /profile 403 4.923 ms
+[36m2025-03-21 21:28:54[39m [[31mERROR[39m]: GET /profile 403 2.060 ms
+[36m2025-03-21 21:28:57[39m [[31mERROR[39m]: GET /profile 403 2.347 ms
+[36m2025-03-21 21:28:57[39m [[31mERROR[39m]: GET /profile 403 5.402 ms
+[36m2025-03-21 21:28:58[39m [[31mERROR[39m]: GET /profile 403 3.440 ms
+[36m2025-03-21 21:28:58[39m [[31mERROR[39m]: GET /profile 403 3.025 ms
+[36m2025-03-21 21:29:23[39m [[32mINFO[39m]: OPTIONS /profile 204 1.108 ms
+[36m2025-03-21 21:29:23[39m [[32mINFO[39m]: OPTIONS /profile 204 0.207 ms
+[36m2025-03-21 21:29:23[39m [[31mERROR[39m]: GET /profile 403 3.302 ms
+[36m2025-03-21 21:29:23[39m [[31mERROR[39m]: GET /profile 403 2.168 ms
+[36m2025-03-21 21:29:25[39m [[31mERROR[39m]: GET /profile 403 8.242 ms
+[36m2025-03-21 21:29:25[39m [[31mERROR[39m]: GET /profile 403 2.361 ms
+[36m2025-03-21 21:29:27[39m [[31mERROR[39m]: GET /profile 403 3.448 ms
+[36m2025-03-21 21:29:27[39m [[31mERROR[39m]: GET /profile 403 4.587 ms
+[36m2025-03-21 21:29:34[39m [[32mINFO[39m]: OPTIONS /profile 204 0.162 ms
+[36m2025-03-21 21:29:34[39m [[32mINFO[39m]: OPTIONS /profile 204 0.803 ms
+[36m2025-03-21 21:29:34[39m [[31mERROR[39m]: GET /profile 403 4.425 ms
+[36m2025-03-21 21:29:34[39m [[31mERROR[39m]: GET /profile 403 2.936 ms
+[36m2025-03-21 21:29:35[39m [[31mERROR[39m]: GET /profile 403 2.932 ms
+[36m2025-03-21 21:29:35[39m [[31mERROR[39m]: GET /profile 403 7.309 ms
+[36m2025-03-21 21:29:37[39m [[31mERROR[39m]: GET /profile 403 4.860 ms
+[36m2025-03-21 21:29:37[39m [[31mERROR[39m]: GET /profile 403 2.615 ms
+[36m2025-03-21 21:29:38[39m [[31mERROR[39m]: GET /profile 403 2.500 ms
+[36m2025-03-21 21:29:38[39m [[31mERROR[39m]: GET /profile 403 8.349 ms
+[36m2025-03-21 21:29:42[39m [[32mINFO[39m]: OPTIONS /profile 204 0.180 ms
+[36m2025-03-21 21:29:42[39m [[31mERROR[39m]: GET /profile 403 3.229 ms
+[36m2025-03-21 21:29:42[39m [[32mINFO[39m]: OPTIONS /profile 204 0.155 ms
+[36m2025-03-21 21:29:42[39m [[31mERROR[39m]: GET /profile 403 1.945 ms
+[36m2025-03-21 21:29:51[39m [[32mINFO[39m]: OPTIONS /login 204 0.156 ms
+[36m2025-03-21 21:29:55[39m [[33mWARN[39m]: Login failed: No user found with email 
+[36m2025-03-21 21:29:55[39m [[32mINFO[39m]: POST /login 200 3359.797 ms
+[36m2025-03-21 21:29:55[39m [[32mINFO[39m]: OPTIONS /profile 204 0.150 ms
+[36m2025-03-21 21:29:55[39m [[32mINFO[39m]: OPTIONS /profile 204 0.203 ms
+[36m2025-03-21 21:29:55[39m [[31mERROR[39m]: GET /profile 403 1.593 ms
+[36m2025-03-21 21:29:55[39m [[31mERROR[39m]: GET /profile 403 1.693 ms
+[36m2025-03-21 21:30:01[39m [[32mINFO[39m]: OPTIONS /profile 204 1.517 ms
+[36m2025-03-21 21:30:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.369 ms
+[36m2025-03-21 21:30:01[39m [[31mERROR[39m]: GET /profile 403 3.246 ms
+[36m2025-03-21 21:30:01[39m [[31mERROR[39m]: GET /profile 403 5.123 ms
+[36m2025-03-21 21:30:02[39m [[31mERROR[39m]: GET /profile 403 2.990 ms
+[36m2025-03-21 21:30:02[39m [[31mERROR[39m]: GET /profile 403 3.704 ms
+[36m2025-03-21 21:30:03[39m [[31mERROR[39m]: GET /profile 403 3.529 ms
+[36m2025-03-21 21:30:03[39m [[31mERROR[39m]: GET /profile 403 2.808 ms
+[36m2025-03-21 21:32:30[39m [[32mINFO[39m]: OPTIONS /profile 204 2.138 ms
+[36m2025-03-21 21:32:30[39m [[32mINFO[39m]: OPTIONS /profile 204 0.184 ms
+[36m2025-03-21 21:32:30[39m [[31mERROR[39m]: GET /profile 403 2.129 ms
+[36m2025-03-21 21:32:30[39m [[31mERROR[39m]: GET /profile 403 2.149 ms
+[36m2025-03-21 21:32:41[39m [[32mINFO[39m]: OPTIONS /profile 204 0.180 ms
+[36m2025-03-21 21:32:41[39m [[32mINFO[39m]: OPTIONS /profile 204 0.641 ms
+[36m2025-03-21 21:32:41[39m [[31mERROR[39m]: GET /profile 403 7.651 ms
+[36m2025-03-21 21:32:41[39m [[31mERROR[39m]: GET /profile 403 1.846 ms
+[36m2025-03-21 21:35:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.213 ms
+[36m2025-03-21 21:35:04[39m [[32mINFO[39m]: OPTIONS /profile 204 0.148 ms
+[36m2025-03-21 21:35:04[39m [[31mERROR[39m]: GET /profile 403 9.895 ms
+[36m2025-03-21 21:35:04[39m [[31mERROR[39m]: GET /profile 403 1.726 ms
+[36m2025-03-21 21:35:08[39m [[31mERROR[39m]: GET /profile 403 3.342 ms
+[36m2025-03-21 21:35:08[39m [[31mERROR[39m]: GET /profile 403 1.974 ms
+[36m2025-03-21 21:35:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.226 ms
+[36m2025-03-21 21:35:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.153 ms
+[36m2025-03-21 21:35:13[39m [[31mERROR[39m]: GET /profile 403 2.522 ms
+[36m2025-03-21 21:35:13[39m [[31mERROR[39m]: GET /profile 403 1.802 ms
+[36m2025-03-21 21:35:14[39m [[31mERROR[39m]: GET /profile 403 2.734 ms
+[36m2025-03-21 21:35:14[39m [[31mERROR[39m]: GET /profile 403 1.721 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.183 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.203 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: POST /refresh-token 200 4.850 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: POST /refresh-token 200 5.006 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: OPTIONS /profile 204 0.147 ms
+[36m2025-03-21 21:37:45[39m [[32mINFO[39m]: OPTIONS /profile 204 0.179 ms
+[36m2025-03-21 21:37:45[39m [[31mERROR[39m]: GET /profile 403 2.081 ms
+[36m2025-03-21 21:37:45[39m [[31mERROR[39m]: GET /profile 403 1.945 ms
+[36m2025-03-21 21:37:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:37:49[39m [[32mINFO[39m]: POST /refresh-token 200 10.436 ms
+[36m2025-03-21 21:37:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:37:49[39m [[32mINFO[39m]: POST /refresh-token 200 13.474 ms
+[36m2025-03-21 21:37:49[39m [[31mERROR[39m]: GET /profile 403 2.805 ms
+[36m2025-03-21 21:37:49[39m [[31mERROR[39m]: GET /profile 403 1.731 ms
+[36m2025-03-21 21:37:50[39m [[32mINFO[39m]: OPTIONS /profile 204 0.246 ms
+[36m2025-03-21 21:37:50[39m [[31mERROR[39m]: GET /profile 403 2.156 ms
+[36m2025-03-21 21:37:50[39m [[32mINFO[39m]: OPTIONS /profile 204 0.181 ms
+[36m2025-03-21 21:37:50[39m [[31mERROR[39m]: GET /profile 403 1.756 ms
+[36m2025-03-21 21:37:53[39m [[31mERROR[39m]: GET /profile 403 5.163 ms
+[36m2025-03-21 21:37:53[39m [[31mERROR[39m]: GET /profile 403 4.282 ms
+[36m2025-03-21 21:37:54[39m [[31mERROR[39m]: GET /profile 403 2.951 ms
+[36m2025-03-21 21:37:54[39m [[31mERROR[39m]: GET /profile 403 6.392 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.215 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.496 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: POST /refresh-token 200 3.542 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: POST /refresh-token 200 13.612 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: OPTIONS /profile 204 0.140 ms
+[36m2025-03-21 21:39:11[39m [[32mINFO[39m]: OPTIONS /profile 204 0.333 ms
+[36m2025-03-21 21:39:11[39m [[31mERROR[39m]: GET /profile 403 1.891 ms
+[36m2025-03-21 21:39:11[39m [[31mERROR[39m]: GET /profile 403 3.207 ms
+[36m2025-03-21 21:39:12[39m [[31mERROR[39m]: GET /profile 403 7.329 ms
+[36m2025-03-21 21:39:12[39m [[31mERROR[39m]: GET /profile 403 2.937 ms
+[36m2025-03-21 21:39:16[39m [[32mINFO[39m]: OPTIONS /profile 204 0.152 ms
+[36m2025-03-21 21:39:16[39m [[32mINFO[39m]: OPTIONS /profile 204 1.989 ms
+[36m2025-03-21 21:39:16[39m [[31mERROR[39m]: GET /profile 403 4.222 ms
+[36m2025-03-21 21:39:16[39m [[31mERROR[39m]: GET /profile 403 3.289 ms
+[36m2025-03-21 21:41:52[39m [[32mINFO[39m]: OPTIONS /profile 204 0.311 ms
+[36m2025-03-21 21:41:52[39m [[32mINFO[39m]: OPTIONS /profile 204 0.672 ms
+[36m2025-03-21 21:41:52[39m [[31mERROR[39m]: GET /profile 403 2.079 ms
+[36m2025-03-21 21:41:52[39m [[31mERROR[39m]: GET /profile 403 5.065 ms
+[36m2025-03-21 21:41:55[39m [[31mERROR[39m]: GET /profile 403 3.419 ms
+[36m2025-03-21 21:41:55[39m [[31mERROR[39m]: GET /profile 403 4.422 ms
+[36m2025-03-21 21:41:57[39m [[31mERROR[39m]: GET /profile 403 3.618 ms
+[36m2025-03-21 21:41:57[39m [[31mERROR[39m]: GET /profile 403 3.380 ms
+[36m2025-03-21 21:41:58[39m [[32mINFO[39m]: OPTIONS /profile 204 0.162 ms
+[36m2025-03-21 21:41:58[39m [[32mINFO[39m]: OPTIONS /profile 204 0.153 ms
+[36m2025-03-21 21:41:58[39m [[31mERROR[39m]: GET /profile 403 2.257 ms
+[36m2025-03-21 21:41:58[39m [[31mERROR[39m]: GET /profile 403 2.791 ms
+[36m2025-03-21 21:42:03[39m [[32mINFO[39m]: OPTIONS /profile 204 0.263 ms
+[36m2025-03-21 21:42:03[39m [[32mINFO[39m]: OPTIONS /profile 204 0.247 ms
+[36m2025-03-21 21:42:03[39m [[31mERROR[39m]: GET /profile 403 3.051 ms
+[36m2025-03-21 21:42:03[39m [[31mERROR[39m]: GET /profile 403 3.420 ms
+[36m2025-03-21 21:42:24[39m [[32mINFO[39m]: OPTIONS /profile 204 0.261 ms
+[36m2025-03-21 21:42:24[39m [[32mINFO[39m]: OPTIONS /profile 204 0.263 ms
+[36m2025-03-21 21:42:24[39m [[31mERROR[39m]: GET /profile 403 4.792 ms
+[36m2025-03-21 21:42:24[39m [[31mERROR[39m]: GET /profile 403 1.692 ms
+[36m2025-03-21 21:42:34[39m [[32mINFO[39m]: OPTIONS /profile 204 0.633 ms
+[36m2025-03-21 21:42:34[39m [[32mINFO[39m]: OPTIONS /profile 204 0.171 ms
+[36m2025-03-21 21:42:34[39m [[31mERROR[39m]: GET /profile 403 2.949 ms
+[36m2025-03-21 21:42:34[39m [[31mERROR[39m]: GET /profile 403 5.616 ms
+[36m2025-03-21 21:42:35[39m [[31mERROR[39m]: GET /profile 403 3.926 ms
+[36m2025-03-21 21:42:35[39m [[31mERROR[39m]: GET /profile 403 2.528 ms
+[36m2025-03-21 21:42:37[39m [[31mERROR[39m]: GET /profile 403 3.316 ms
+[36m2025-03-21 21:42:37[39m [[31mERROR[39m]: GET /profile 403 2.136 ms
+[36m2025-03-21 21:43:39[39m [[32mINFO[39m]: OPTIONS /profile 204 0.168 ms
+[36m2025-03-21 21:43:39[39m [[32mINFO[39m]: OPTIONS /profile 204 0.195 ms
+[36m2025-03-21 21:43:39[39m [[31mERROR[39m]: GET /profile 403 4.341 ms
+[36m2025-03-21 21:43:39[39m [[31mERROR[39m]: GET /profile 403 1.760 ms
+[36m2025-03-21 21:43:40[39m [[31mERROR[39m]: GET /profile 403 2.692 ms
+[36m2025-03-21 21:43:40[39m [[31mERROR[39m]: GET /profile 403 2.019 ms
+[36m2025-03-21 21:43:41[39m [[31mERROR[39m]: GET /profile 403 4.692 ms
+[36m2025-03-21 21:43:41[39m [[31mERROR[39m]: GET /profile 403 1.972 ms
+[36m2025-03-21 21:45:07[39m [[32mINFO[39m]: OPTIONS /profile 204 0.170 ms
+[36m2025-03-21 21:45:07[39m [[32mINFO[39m]: OPTIONS /profile 204 0.168 ms
+[36m2025-03-21 21:45:07[39m [[31mERROR[39m]: GET /profile 403 2.850 ms
+[36m2025-03-21 21:45:07[39m [[31mERROR[39m]: GET /profile 403 1.869 ms
+[36m2025-03-21 21:45:08[39m [[31mERROR[39m]: GET /profile 403 3.694 ms
+[36m2025-03-21 21:45:08[39m [[31mERROR[39m]: GET /profile 403 1.961 ms
+[36m2025-03-21 21:47:47[39m [[32mINFO[39m]: OPTIONS /profile 204 0.187 ms
+[36m2025-03-21 21:47:47[39m [[32mINFO[39m]: OPTIONS /profile 204 0.315 ms
+[36m2025-03-21 21:47:47[39m [[31mERROR[39m]: GET /profile 403 1.698 ms
+[36m2025-03-21 21:47:47[39m [[31mERROR[39m]: GET /profile 403 2.115 ms
+[36m2025-03-21 21:47:49[39m [[31mERROR[39m]: GET /profile 403 3.436 ms
+[36m2025-03-21 21:47:49[39m [[31mERROR[39m]: GET /profile 403 6.745 ms
+[36m2025-03-21 21:47:50[39m [[31mERROR[39m]: GET /profile 403 1.684 ms
+[36m2025-03-21 21:47:50[39m [[31mERROR[39m]: GET /profile 403 2.008 ms
+[36m2025-03-21 21:50:09[39m [[32mINFO[39m]: OPTIONS /profile 204 0.162 ms
+[36m2025-03-21 21:50:09[39m [[32mINFO[39m]: OPTIONS /profile 204 0.194 ms
+[36m2025-03-21 21:50:09[39m [[31mERROR[39m]: GET /profile 403 1.887 ms
+[36m2025-03-21 21:50:09[39m [[31mERROR[39m]: GET /profile 403 1.767 ms
+[36m2025-03-21 21:50:10[39m [[31mERROR[39m]: GET /profile 403 4.068 ms
+[36m2025-03-21 21:50:10[39m [[31mERROR[39m]: GET /profile 403 6.991 ms
+[36m2025-03-21 21:50:10[39m [[31mERROR[39m]: GET /profile 403 2.835 ms
+[36m2025-03-21 21:50:10[39m [[31mERROR[39m]: GET /profile 403 7.007 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.148 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.748 ms
+[36m2025-03-21 21:52:13[39m [[31mERROR[39m]: GET /profile 403 2.674 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: POST /refresh-token 200 6.235 ms
+[36m2025-03-21 21:52:13[39m [[31mERROR[39m]: GET /profile 403 8.245 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: POST /refresh-token 200 9.756 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.183 ms
+[36m2025-03-21 21:52:13[39m [[32mINFO[39m]: OPTIONS /profile 204 0.166 ms
+[36m2025-03-21 21:52:13[39m [[31mERROR[39m]: GET /profile 403 2.164 ms
+[36m2025-03-21 21:52:13[39m [[31mERROR[39m]: GET /profile 403 2.316 ms
+[36m2025-03-21 21:52:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.155 ms
+[36m2025-03-21 21:52:21[39m [[32mINFO[39m]: OPTIONS /profile 204 0.686 ms
+[36m2025-03-21 21:52:21[39m [[31mERROR[39m]: GET /profile 403 9.353 ms
+[36m2025-03-21 21:52:21[39m [[31mERROR[39m]: GET /profile 403 1.909 ms
+[36m2025-03-21 21:52:22[39m [[31mERROR[39m]: GET /profile 403 2.445 ms
+[36m2025-03-21 21:52:22[39m [[31mERROR[39m]: GET /profile 403 2.147 ms
+[36m2025-03-21 21:52:23[39m [[31mERROR[39m]: GET /profile 403 3.449 ms
+[36m2025-03-21 21:52:23[39m [[31mERROR[39m]: GET /profile 403 7.303 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 4.075 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.191 ms
+[36m2025-03-21 21:53:49[39m [[31mERROR[39m]: GET /profile 403 3.483 ms
+[36m2025-03-21 21:53:49[39m [[31mERROR[39m]: GET /profile 403 2.437 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: POST /refresh-token 200 3.868 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: POST /refresh-token 200 16.215 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: OPTIONS /profile 204 0.157 ms
+[36m2025-03-21 21:53:49[39m [[32mINFO[39m]: OPTIONS /profile 204 0.125 ms
+[36m2025-03-21 21:53:49[39m [[31mERROR[39m]: GET /profile 403 1.683 ms
+[36m2025-03-21 21:53:49[39m [[31mERROR[39m]: GET /profile 403 1.830 ms
+[36m2025-03-21 21:53:52[39m [[31mERROR[39m]: GET /profile 403 3.457 ms
+[36m2025-03-21 21:53:52[39m [[31mERROR[39m]: GET /profile 403 2.391 ms
+[36m2025-03-21 21:53:53[39m [[31mERROR[39m]: GET /profile 403 2.967 ms
+[36m2025-03-21 21:53:53[39m [[31mERROR[39m]: GET /profile 403 6.838 ms
+[36m2025-03-21 21:53:54[39m [[32mINFO[39m]: OPTIONS /profile 204 0.173 ms
+[36m2025-03-21 21:53:54[39m [[31mERROR[39m]: GET /profile 403 1.961 ms
+[36m2025-03-21 21:53:54[39m [[32mINFO[39m]: OPTIONS /profile 204 0.150 ms
+[36m2025-03-21 21:53:54[39m [[31mERROR[39m]: GET /profile 403 2.425 ms
+[36m2025-03-21 21:53:56[39m [[31mERROR[39m]: GET /profile 403 1.666 ms
+[36m2025-03-21 21:53:56[39m [[31mERROR[39m]: GET /profile 403 3.208 ms
+[36m2025-03-21 21:53:57[39m [[31mERROR[39m]: GET /profile 403 3.090 ms
+[36m2025-03-21 21:53:57[39m [[31mERROR[39m]: GET /profile 403 1.924 ms
+[36m2025-03-21 21:53:58[39m [[31mERROR[39m]: GET /profile 403 1.676 ms
+[36m2025-03-21 21:53:58[39m [[31mERROR[39m]: GET /profile 403 2.221 ms
+[36m2025-03-21 21:54:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.157 ms
+[36m2025-03-21 21:54:01[39m [[32mINFO[39m]: OPTIONS /profile 204 0.225 ms
+[36m2025-03-21 21:54:01[39m [[31mERROR[39m]: GET /profile 403 1.745 ms
+[36m2025-03-21 21:54:01[39m [[31mERROR[39m]: GET /profile 403 2.828 ms
+[36m2025-03-21 21:54:01[39m [[31mERROR[39m]: GET /profile 403 4.348 ms
+[36m2025-03-21 21:54:01[39m [[31mERROR[39m]: GET /profile 403 2.450 ms
+[36m2025-03-21 21:54:02[39m [[31mERROR[39m]: GET /profile 403 3.059 ms
+[36m2025-03-21 21:54:02[39m [[31mERROR[39m]: GET /profile 403 1.996 ms
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.377 ms
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.905 ms
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: POST /refresh-token 200 4.545 ms
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: POST /refresh-token 200 6.013 ms
+[36m2025-03-21 21:57:20[39m [[32mINFO[39m]: OPTIONS /profile 204 0.187 ms
+[36m2025-03-21 21:57:21[39m [[31mERROR[39m]: GET /profile 403 7.312 ms
+[36m2025-03-21 21:57:21[39m [[31mERROR[39m]: GET /profile 403 2.823 ms
+[36m2025-03-21 21:57:24[39m [[31mERROR[39m]: GET /profile 403 4.293 ms
+[36m2025-03-21 21:57:24[39m [[31mERROR[39m]: GET /profile 403 11.590 ms
+[36m2025-03-21 21:57:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.183 ms
+[36m2025-03-21 21:57:28[39m [[31mERROR[39m]: GET /profile 403 2.289 ms
+[36m2025-03-21 21:57:28[39m [[32mINFO[39m]: OPTIONS /profile 204 0.160 ms
+[36m2025-03-21 21:57:28[39m [[31mERROR[39m]: GET /profile 403 11.914 ms
+[36m2025-03-21 21:57:29[39m [[31mERROR[39m]: GET /profile 403 2.516 ms
+[36m2025-03-21 21:57:29[39m [[31mERROR[39m]: GET /profile 403 19.661 ms
+[36m2025-03-21 21:57:30[39m [[31mERROR[39m]: GET /profile 403 9.125 ms
+[36m2025-03-21 21:57:30[39m [[31mERROR[39m]: GET /profile 403 5.448 ms
+[36m2025-03-21 21:57:31[39m [[31mERROR[39m]: GET /profile 403 2.016 ms
+[36m2025-03-21 21:57:31[39m [[31mERROR[39m]: GET /profile 403 1.773 ms
+[36m2025-03-21 21:57:33[39m [[31mERROR[39m]: GET /profile 403 2.685 ms
+[36m2025-03-21 21:57:33[39m [[31mERROR[39m]: GET /profile 403 1.850 ms
+[36m2025-03-21 21:57:38[39m [[32mINFO[39m]: OPTIONS /profile 204 0.257 ms
+[36m2025-03-21 21:57:38[39m [[32mINFO[39m]: OPTIONS /profile 204 0.149 ms
+[36m2025-03-21 21:57:38[39m [[31mERROR[39m]: GET /profile 403 3.109 ms
+[36m2025-03-21 21:57:38[39m [[31mERROR[39m]: GET /profile 403 1.826 ms
+[36m2025-03-21 21:57:38[39m [[31mERROR[39m]: GET /profile 403 17.358 ms
+[36m2025-03-21 21:57:38[39m [[31mERROR[39m]: GET /profile 403 3.891 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 3.482 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 1.813 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 4.799 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 2.001 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 1.757 ms
+[36m2025-03-21 21:57:39[39m [[31mERROR[39m]: GET /profile 403 1.822 ms
+[36m2025-03-21 21:57:40[39m [[31mERROR[39m]: GET /profile 403 2.476 ms
+[36m2025-03-21 21:57:40[39m [[31mERROR[39m]: GET /profile 403 13.066 ms
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.154 ms
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: POST /refresh-token 200 4.988 ms
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: POST /refresh-token 200 4.625 ms
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: OPTIONS /profile 204 1.032 ms
+[36m2025-03-21 21:57:58[39m [[32mINFO[39m]: OPTIONS /profile 204 0.137 ms
+[36m2025-03-21 21:57:58[39m [[31mERROR[39m]: GET /profile 403 1.636 ms
+[36m2025-03-21 21:57:58[39m [[31mERROR[39m]: GET /profile 403 1.761 ms
+[36m2025-03-21 21:58:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:58:01[39m [[32mINFO[39m]: POST /refresh-token 200 7.237 ms
+[36m2025-03-21 21:58:01[39m [[32mINFO[39m]: New access token issued for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 21:58:01[39m [[32mINFO[39m]: POST /refresh-token 200 6.192 ms
+[36m2025-03-21 21:58:01[39m [[31mERROR[39m]: GET /profile 403 4.612 ms
+[36m2025-03-21 21:58:01[39m [[31mERROR[39m]: GET /profile 403 2.472 ms
+[36m2025-03-21 21:58:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.774 ms
+[36m2025-03-21 21:58:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.158 ms
+[36m2025-03-21 21:58:20[39m [[33mWARN[39m]: Token refresh failed: Invalid refresh token
+[36m2025-03-21 21:58:20[39m [[31mERROR[39m]: POST /refresh-token 403 3.427 ms
+[36m2025-03-21 21:58:20[39m [[33mWARN[39m]: Token refresh failed: Invalid refresh token
+[36m2025-03-21 21:58:20[39m [[31mERROR[39m]: POST /refresh-token 403 12.545 ms
+[36m2025-03-21 21:58:20[39m [[31mERROR[39m]: GET /profile 403 2.092 ms
+[36m2025-03-21 21:58:20[39m [[31mERROR[39m]: GET /profile 403 2.320 ms
+[36m2025-03-21 21:58:28[39m [[31mERROR[39m]: GET /profile 403 4.551 ms
+[36m2025-03-21 21:58:28[39m [[31mERROR[39m]: GET /profile 403 2.870 ms
+[36m2025-03-21 21:58:29[39m [[31mERROR[39m]: GET /profile 403 4.733 ms
+[36m2025-03-21 21:58:29[39m [[31mERROR[39m]: GET /profile 403 1.658 ms
+[36m2025-03-21 21:58:30[39m [[31mERROR[39m]: GET /profile 403 5.229 ms
+[36m2025-03-21 21:58:30[39m [[31mERROR[39m]: GET /profile 403 10.311 ms
+[36m2025-03-21 21:58:30[39m [[31mERROR[39m]: GET /profile 403 3.167 ms
+[36m2025-03-21 21:58:30[39m [[31mERROR[39m]: GET /profile 403 8.862 ms
+[36m2025-03-21 21:58:33[39m [[31mERROR[39m]: GET /profile 403 2.609 ms
+[36m2025-03-21 21:58:33[39m [[31mERROR[39m]: GET /profile 403 12.647 ms
+[36m2025-03-21 21:58:34[39m [[31mERROR[39m]: GET /profile 403 2.986 ms
+[36m2025-03-21 21:58:34[39m [[31mERROR[39m]: GET /profile 403 1.782 ms
+[36m2025-03-21 21:58:35[39m [[31mERROR[39m]: GET /profile 403 7.238 ms
+[36m2025-03-21 21:58:35[39m [[31mERROR[39m]: GET /profile 403 1.685 ms
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: GET /profile 403 3.039 ms
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: GET /profile 403 6.553 ms
+[36m2025-03-21 22:01:08[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.201 ms
+[36m2025-03-21 22:01:08[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.149 ms
+[36m2025-03-21 22:01:08[39m [[33mWARN[39m]: Token refresh failed: Invalid refresh token
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: POST /refresh-token 403 2.895 ms
+[36m2025-03-21 22:01:08[39m [[33mWARN[39m]: Token refresh failed: Invalid refresh token
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: POST /refresh-token 403 6.755 ms
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: GET /profile 403 1.694 ms
+[36m2025-03-21 22:01:08[39m [[31mERROR[39m]: GET /profile 403 1.638 ms
+[36m2025-03-21 22:01:13[39m [[31mERROR[39m]: GET /profile 403 3.982 ms
+[36m2025-03-21 22:01:13[39m [[31mERROR[39m]: GET /profile 403 2.237 ms
+[36m2025-03-21 22:01:14[39m [[31mERROR[39m]: GET /profile 403 3.180 ms
+[36m2025-03-21 22:01:14[39m [[31mERROR[39m]: GET /profile 403 2.406 ms
+[36m2025-03-21 22:01:19[39m [[31mERROR[39m]: GET /profile 403 7.789 ms
+[36m2025-03-21 22:01:19[39m [[31mERROR[39m]: GET /profile 403 3.007 ms
+[36m2025-03-21 22:01:20[39m [[31mERROR[39m]: GET /profile 403 4.508 ms
+[36m2025-03-21 22:01:20[39m [[31mERROR[39m]: GET /profile 403 1.881 ms
+[36m2025-03-21 22:01:22[39m [[31mERROR[39m]: GET /profile 403 2.663 ms
+[36m2025-03-21 22:01:22[39m [[31mERROR[39m]: GET /profile 403 1.989 ms
+[36m2025-03-21 22:02:00[39m [[31mERROR[39m]: GET /profile 403 1.707 ms
+[36m2025-03-21 22:02:00[39m [[31mERROR[39m]: GET /profile 403 1.851 ms
+[36m2025-03-21 22:02:01[39m [[31mERROR[39m]: GET /profile 403 3.525 ms
+[36m2025-03-21 22:02:01[39m [[31mERROR[39m]: GET /profile 403 1.764 ms
+[36m2025-03-21 22:02:02[39m [[31mERROR[39m]: GET /profile 403 3.303 ms
+[36m2025-03-21 22:02:02[39m [[31mERROR[39m]: GET /profile 403 6.816 ms
+[36m2025-03-21 22:02:04[39m [[31mERROR[39m]: GET /profile 403 5.483 ms
+[36m2025-03-21 22:02:04[39m [[31mERROR[39m]: GET /profile 403 4.501 ms
+[36m2025-03-21 22:02:05[39m [[31mERROR[39m]: GET /profile 403 1.735 ms
+[36m2025-03-21 22:02:05[39m [[31mERROR[39m]: GET /profile 403 1.957 ms
+[36m2025-03-21 22:02:07[39m [[31mERROR[39m]: GET /profile 403 2.030 ms
+[36m2025-03-21 22:02:07[39m [[31mERROR[39m]: GET /profile 403 4.902 ms
+[36m2025-03-21 22:02:08[39m [[31mERROR[39m]: GET /profile 403 2.807 ms
+[36m2025-03-21 22:02:08[39m [[31mERROR[39m]: GET /profile 403 1.704 ms
+[36m2025-03-21 22:02:14[39m [[31mERROR[39m]: GET /profile 403 3.571 ms
+[36m2025-03-21 22:02:14[39m [[31mERROR[39m]: GET /profile 403 2.029 ms
+[36m2025-03-21 22:02:15[39m [[31mERROR[39m]: GET /profile 403 2.077 ms
+[36m2025-03-21 22:02:15[39m [[31mERROR[39m]: GET /profile 403 2.591 ms
+[36m2025-03-21 22:02:20[39m [[31mERROR[39m]: GET /profile 403 2.861 ms
+[36m2025-03-21 22:02:20[39m [[31mERROR[39m]: GET /profile 403 4.162 ms
+[36m2025-03-21 22:02:21[39m [[31mERROR[39m]: GET /profile 403 3.200 ms
+[36m2025-03-21 22:02:21[39m [[31mERROR[39m]: GET /profile 403 7.812 ms
+[36m2025-03-21 22:02:23[39m [[31mERROR[39m]: GET /profile 403 3.423 ms
+[36m2025-03-21 22:02:23[39m [[31mERROR[39m]: GET /profile 403 2.880 ms
+[36m2025-03-21 22:02:40[39m [[32mINFO[39m]: OPTIONS /login 204 0.322 ms
+[36m2025-03-21 22:02:41[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:02:41[39m [[32mINFO[39m]: POST /login 200 756.409 ms
+[36m2025-03-21 22:04:27[39m [[31mERROR[39m]: GET /profile 403 3.346 ms
+[36m2025-03-21 22:04:27[39m [[31mERROR[39m]: GET /profile 403 2.687 ms
+[36m2025-03-21 22:04:36[39m [[31mERROR[39m]: GET /profile 403 1.882 ms
+[36m2025-03-21 22:04:36[39m [[31mERROR[39m]: GET /profile 403 7.260 ms
+[36m2025-03-21 22:04:37[39m [[31mERROR[39m]: GET /profile 403 4.460 ms
+[36m2025-03-21 22:04:37[39m [[31mERROR[39m]: GET /profile 403 1.844 ms
+[36m2025-03-21 22:04:39[39m [[31mERROR[39m]: GET /profile 403 2.609 ms
+[36m2025-03-21 22:04:39[39m [[31mERROR[39m]: GET /profile 403 4.410 ms
+[36m2025-03-21 22:04:42[39m [[31mERROR[39m]: GET /profile 403 3.691 ms
+[36m2025-03-21 22:04:42[39m [[31mERROR[39m]: GET /profile 403 2.562 ms
+[36m2025-03-21 22:04:43[39m [[31mERROR[39m]: GET /profile 403 3.149 ms
+[36m2025-03-21 22:04:43[39m [[31mERROR[39m]: GET /profile 403 1.802 ms
+[36m2025-03-21 22:04:44[39m [[31mERROR[39m]: GET /profile 403 3.042 ms
+[36m2025-03-21 22:04:44[39m [[31mERROR[39m]: GET /profile 403 3.014 ms
+[36m2025-03-21 22:07:31[39m [[32mINFO[39m]: OPTIONS /login 204 0.172 ms
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: POST /login 200 767.088 ms
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: GET /profile 200 9.136 ms
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:32[39m [[32mINFO[39m]: GET /profile 304 9.841 ms
+[36m2025-03-21 22:07:49[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:49[39m [[32mINFO[39m]: GET /profile 304 6.944 ms
+[36m2025-03-21 22:07:49[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:49[39m [[32mINFO[39m]: GET /profile 304 3.547 ms
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: POST /logout 200 0.948 ms
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: GET /profile 304 11.262 ms
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:50[39m [[32mINFO[39m]: GET /profile 304 5.637 ms
+[36m2025-03-21 22:07:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:51[39m [[32mINFO[39m]: GET /profile 304 10.755 ms
+[36m2025-03-21 22:07:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:51[39m [[32mINFO[39m]: GET /profile 304 8.870 ms
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: POST /logout 200 3.083 ms
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: GET /profile 304 3.839 ms
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:07:53[39m [[32mINFO[39m]: GET /profile 304 14.535 ms
+[36m2025-03-21 22:07:57[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:07:57[39m [[32mINFO[39m]: POST /logout 200 2.630 ms
+[36m2025-03-21 22:08:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:02[39m [[32mINFO[39m]: GET /profile 304 16.651 ms
+[36m2025-03-21 22:08:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:02[39m [[32mINFO[39m]: GET /profile 304 3.547 ms
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: POST /logout 200 1.854 ms
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: GET /profile 304 10.662 ms
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:03[39m [[32mINFO[39m]: GET /profile 304 9.090 ms
+[36m2025-03-21 22:08:04[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:04[39m [[32mINFO[39m]: POST /logout 200 0.547 ms
+[36m2025-03-21 22:08:10[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:10[39m [[32mINFO[39m]: GET /profile 304 6.831 ms
+[36m2025-03-21 22:08:10[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:10[39m [[32mINFO[39m]: GET /profile 304 6.556 ms
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: POST /logout 200 0.829 ms
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: GET /profile 304 5.367 ms
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:13[39m [[32mINFO[39m]: GET /profile 304 5.531 ms
+[36m2025-03-21 22:08:15[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:15[39m [[32mINFO[39m]: POST /logout 200 0.645 ms
+[36m2025-03-21 22:08:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:16[39m [[32mINFO[39m]: GET /profile 304 7.172 ms
+[36m2025-03-21 22:08:16[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:16[39m [[32mINFO[39m]: GET /profile 304 3.898 ms
+[36m2025-03-21 22:08:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:18[39m [[32mINFO[39m]: GET /profile 304 4.777 ms
+[36m2025-03-21 22:08:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:18[39m [[32mINFO[39m]: GET /profile 304 8.597 ms
+[36m2025-03-21 22:08:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:19[39m [[32mINFO[39m]: GET /profile 304 6.587 ms
+[36m2025-03-21 22:08:20[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:20[39m [[32mINFO[39m]: GET /profile 304 5.422 ms
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: POST /logout 200 2.168 ms
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: GET /profile 304 6.862 ms
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:21[39m [[32mINFO[39m]: GET /profile 304 6.986 ms
+[36m2025-03-21 22:08:22[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:08:22[39m [[32mINFO[39m]: POST /logout 200 3.982 ms
+[36m2025-03-21 22:08:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:24[39m [[32mINFO[39m]: GET /profile 304 6.119 ms
+[36m2025-03-21 22:08:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:08:24[39m [[32mINFO[39m]: GET /profile 304 4.144 ms
+[36m2025-03-21 22:08:47[39m [[31mERROR[39m]: GET /profile 403 5.022 ms
+[36m2025-03-21 22:08:47[39m [[31mERROR[39m]: GET /profile 403 3.786 ms
+[36m2025-03-21 22:08:49[39m [[31mERROR[39m]: GET /profile 403 2.316 ms
+[36m2025-03-21 22:08:49[39m [[31mERROR[39m]: GET /profile 403 6.253 ms
+[36m2025-03-21 22:08:52[39m [[31mERROR[39m]: GET /profile 403 2.016 ms
+[36m2025-03-21 22:08:52[39m [[31mERROR[39m]: GET /profile 403 2.136 ms
+[36m2025-03-21 22:08:53[39m [[31mERROR[39m]: GET /profile 403 3.779 ms
+[36m2025-03-21 22:08:53[39m [[31mERROR[39m]: GET /profile 403 3.790 ms
+[36m2025-03-21 22:08:58[39m [[31mERROR[39m]: GET /profile 403 3.208 ms
+[36m2025-03-21 22:08:58[39m [[31mERROR[39m]: GET /profile 403 3.550 ms
+[36m2025-03-21 22:08:59[39m [[31mERROR[39m]: GET /profile 403 5.305 ms
+[36m2025-03-21 22:08:59[39m [[31mERROR[39m]: GET /profile 403 1.616 ms
+[36m2025-03-21 22:09:00[39m [[31mERROR[39m]: GET /profile 403 3.011 ms
+[36m2025-03-21 22:09:00[39m [[31mERROR[39m]: GET /profile 403 6.397 ms
+[36m2025-03-21 22:09:03[39m [[31mERROR[39m]: GET /profile 403 2.318 ms
+[36m2025-03-21 22:09:03[39m [[31mERROR[39m]: GET /profile 403 4.671 ms
+[36m2025-03-21 22:09:04[39m [[31mERROR[39m]: GET /profile 403 3.885 ms
+[36m2025-03-21 22:09:04[39m [[31mERROR[39m]: GET /profile 403 1.797 ms
+[36m2025-03-21 22:09:05[39m [[31mERROR[39m]: GET /profile 403 5.132 ms
+[36m2025-03-21 22:09:05[39m [[31mERROR[39m]: GET /profile 403 1.659 ms
+[36m2025-03-21 22:09:21[39m [[32mINFO[39m]: OPTIONS /login 204 0.188 ms
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: POST /login 200 940.865 ms
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: GET /profile 200 3.853 ms
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:22[39m [[32mINFO[39m]: GET /profile 304 12.625 ms
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: POST /logout 200 1.589 ms
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: GET /profile 304 8.609 ms
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:50[39m [[32mINFO[39m]: GET /profile 304 5.327 ms
+[36m2025-03-21 22:09:52[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:09:52[39m [[32mINFO[39m]: POST /logout 200 2.342 ms
+[36m2025-03-21 22:09:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:53[39m [[32mINFO[39m]: GET /profile 304 12.242 ms
+[36m2025-03-21 22:09:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:53[39m [[32mINFO[39m]: GET /profile 304 7.228 ms
+[36m2025-03-21 22:09:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:55[39m [[32mINFO[39m]: GET /profile 304 6.195 ms
+[36m2025-03-21 22:09:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:55[39m [[32mINFO[39m]: GET /profile 304 9.243 ms
+[36m2025-03-21 22:09:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:56[39m [[32mINFO[39m]: GET /profile 304 8.707 ms
+[36m2025-03-21 22:09:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:56[39m [[32mINFO[39m]: GET /profile 304 6.245 ms
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: POST /logout 200 0.928 ms
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: GET /profile 304 13.323 ms
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:09:57[39m [[32mINFO[39m]: GET /profile 304 9.219 ms
+[36m2025-03-21 22:12:57[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.182 ms
+[36m2025-03-21 22:12:57[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:12:57[39m [[31mERROR[39m]: POST /refresh-token 403 0.729 ms
+[36m2025-03-21 22:12:57[39m [[31mERROR[39m]: GET /profile 403 9.437 ms
+[36m2025-03-21 22:12:57[39m [[31mERROR[39m]: GET /profile 403 1.664 ms
+[36m2025-03-21 22:13:01[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: POST /refresh-token 403 0.940 ms
+[36m2025-03-21 22:13:01[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: POST /refresh-token 403 0.849 ms
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: GET /profile 403 1.610 ms
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: GET /profile 403 4.973 ms
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: GET /profile 403 2.983 ms
+[36m2025-03-21 22:13:01[39m [[31mERROR[39m]: GET /profile 403 1.656 ms
+[36m2025-03-21 22:13:02[39m [[31mERROR[39m]: GET /profile 403 1.808 ms
+[36m2025-03-21 22:13:02[39m [[31mERROR[39m]: GET /profile 403 1.648 ms
+[36m2025-03-21 22:13:13[39m [[32mINFO[39m]: OPTIONS /login 204 0.295 ms
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: POST /login 200 819.973 ms
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: GET /profile 200 5.092 ms
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:14[39m [[32mINFO[39m]: GET /profile 304 11.807 ms
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: POST /logout 200 0.538 ms
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: GET /profile 304 6.292 ms
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:19[39m [[32mINFO[39m]: GET /profile 304 8.210 ms
+[36m2025-03-21 22:13:27[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:27[39m [[32mINFO[39m]: POST /logout 200 1.065 ms
+[36m2025-03-21 22:13:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:29[39m [[32mINFO[39m]: GET /profile 304 6.116 ms
+[36m2025-03-21 22:13:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:29[39m [[32mINFO[39m]: GET /profile 304 3.935 ms
+[36m2025-03-21 22:13:31[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:31[39m [[32mINFO[39m]: GET /profile 304 11.341 ms
+[36m2025-03-21 22:13:31[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:31[39m [[32mINFO[39m]: GET /profile 304 3.551 ms
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: POST /logout 200 1.513 ms
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: GET /profile 304 6.119 ms
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:32[39m [[32mINFO[39m]: GET /profile 304 3.689 ms
+[36m2025-03-21 22:13:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:34[39m [[32mINFO[39m]: GET /profile 304 4.382 ms
+[36m2025-03-21 22:13:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:34[39m [[32mINFO[39m]: GET /profile 304 7.192 ms
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: POST /logout 200 0.815 ms
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: GET /profile 304 13.207 ms
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: GET /profile 304 7.026 ms
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:35[39m [[32mINFO[39m]: POST /logout 200 0.642 ms
+[36m2025-03-21 22:13:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:37[39m [[32mINFO[39m]: GET /profile 304 9.037 ms
+[36m2025-03-21 22:13:37[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:37[39m [[32mINFO[39m]: GET /profile 304 4.066 ms
+[36m2025-03-21 22:13:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:38[39m [[32mINFO[39m]: GET /profile 304 5.923 ms
+[36m2025-03-21 22:13:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:38[39m [[32mINFO[39m]: GET /profile 304 7.373 ms
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: GET /profile 304 7.054 ms
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: GET /profile 304 6.961 ms
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: POST /logout 200 1.719 ms
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: GET /profile 304 4.168 ms
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:39[39m [[32mINFO[39m]: GET /profile 304 8.282 ms
+[36m2025-03-21 22:13:40[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:40[39m [[32mINFO[39m]: POST /logout 200 1.475 ms
+[36m2025-03-21 22:13:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:41[39m [[32mINFO[39m]: GET /profile 304 4.579 ms
+[36m2025-03-21 22:13:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:41[39m [[32mINFO[39m]: GET /profile 304 4.969 ms
+[36m2025-03-21 22:13:42[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:42[39m [[32mINFO[39m]: GET /profile 304 5.643 ms
+[36m2025-03-21 22:13:42[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:42[39m [[32mINFO[39m]: GET /profile 304 7.630 ms
+[36m2025-03-21 22:13:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:43[39m [[32mINFO[39m]: GET /profile 304 4.109 ms
+[36m2025-03-21 22:13:43[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:43[39m [[32mINFO[39m]: GET /profile 304 5.558 ms
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: POST /logout 200 1.999 ms
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: GET /profile 304 4.063 ms
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:44[39m [[32mINFO[39m]: GET /profile 304 4.172 ms
+[36m2025-03-21 22:13:45[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:13:45[39m [[32mINFO[39m]: POST /logout 200 2.427 ms
+[36m2025-03-21 22:13:47[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:47[39m [[32mINFO[39m]: GET /profile 304 4.145 ms
+[36m2025-03-21 22:13:47[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:13:47[39m [[32mINFO[39m]: GET /profile 304 14.212 ms
+[36m2025-03-21 22:16:06[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.175 ms
+[36m2025-03-21 22:16:06[39m [[31mERROR[39m]: GET /profile 403 3.559 ms
+[36m2025-03-21 22:16:06[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:16:06[39m [[31mERROR[39m]: POST /refresh-token 403 0.623 ms
+[36m2025-03-21 22:16:06[39m [[31mERROR[39m]: GET /profile 403 2.009 ms
+[36m2025-03-21 22:16:09[39m [[31mERROR[39m]: GET /profile 403 6.301 ms
+[36m2025-03-21 22:16:09[39m [[31mERROR[39m]: GET /profile 403 1.829 ms
+[36m2025-03-21 22:16:11[39m [[31mERROR[39m]: GET /profile 403 2.028 ms
+[36m2025-03-21 22:16:11[39m [[31mERROR[39m]: GET /profile 403 1.610 ms
+[36m2025-03-21 22:16:11[39m [[31mERROR[39m]: GET /profile 403 3.244 ms
+[36m2025-03-21 22:16:11[39m [[31mERROR[39m]: GET /profile 403 8.113 ms
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: OPTIONS /login 204 0.176 ms
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: POST /login 200 846.191 ms
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: GET /profile 200 6.757 ms
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:24[39m [[32mINFO[39m]: GET /profile 304 5.371 ms
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: POST /logout 200 0.737 ms
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: GET /profile 304 5.687 ms
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:38[39m [[32mINFO[39m]: GET /profile 304 11.421 ms
+[36m2025-03-21 22:16:40[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:40[39m [[32mINFO[39m]: POST /logout 200 2.472 ms
+[36m2025-03-21 22:16:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:44[39m [[32mINFO[39m]: GET /profile 304 11.592 ms
+[36m2025-03-21 22:16:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:44[39m [[32mINFO[39m]: GET /profile 304 3.360 ms
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: POST /logout 200 2.825 ms
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: GET /profile 304 6.102 ms
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:48[39m [[32mINFO[39m]: GET /profile 304 7.232 ms
+[36m2025-03-21 22:16:49[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:49[39m [[32mINFO[39m]: POST /logout 200 0.866 ms
+[36m2025-03-21 22:16:52[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:52[39m [[32mINFO[39m]: GET /profile 304 3.612 ms
+[36m2025-03-21 22:16:52[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:52[39m [[32mINFO[39m]: GET /profile 304 9.913 ms
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: POST /logout 200 1.788 ms
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: GET /profile 304 12.293 ms
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:53[39m [[32mINFO[39m]: GET /profile 304 7.553 ms
+[36m2025-03-21 22:16:55[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:55[39m [[32mINFO[39m]: POST /logout 200 1.800 ms
+[36m2025-03-21 22:16:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:57[39m [[32mINFO[39m]: GET /profile 304 6.287 ms
+[36m2025-03-21 22:16:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:57[39m [[32mINFO[39m]: GET /profile 304 4.873 ms
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: POST /logout 200 0.898 ms
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: GET /profile 304 5.459 ms
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:16:59[39m [[32mINFO[39m]: GET /profile 304 3.424 ms
+[36m2025-03-21 22:17:00[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:17:00[39m [[32mINFO[39m]: POST /logout 200 2.973 ms
+[36m2025-03-21 22:17:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:17:04[39m [[32mINFO[39m]: GET /profile 304 5.716 ms
+[36m2025-03-21 22:17:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:17:04[39m [[32mINFO[39m]: GET /profile 304 9.949 ms
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: POST /logout 200 0.857 ms
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: GET /profile 304 7.824 ms
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:17:05[39m [[32mINFO[39m]: GET /profile 304 3.924 ms
+[36m2025-03-21 22:17:06[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:17:06[39m [[32mINFO[39m]: POST /logout 200 1.476 ms
+[36m2025-03-21 22:21:11[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.181 ms
+[36m2025-03-21 22:21:11[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:21:11[39m [[31mERROR[39m]: POST /refresh-token 403 0.929 ms
+[36m2025-03-21 22:21:11[39m [[31mERROR[39m]: GET /profile 403 1.377 ms
+[36m2025-03-21 22:21:11[39m [[31mERROR[39m]: GET /profile 403 2.913 ms
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: GET /profile 403 3.715 ms
+[36m2025-03-21 22:21:26[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.142 ms
+[36m2025-03-21 22:21:26[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.153 ms
+[36m2025-03-21 22:21:26[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: POST /refresh-token 403 0.854 ms
+[36m2025-03-21 22:21:26[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: POST /refresh-token 403 0.817 ms
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: GET /profile 403 8.846 ms
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: GET /profile 403 1.592 ms
+[36m2025-03-21 22:21:26[39m [[31mERROR[39m]: GET /profile 403 2.360 ms
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: OPTIONS /login 204 0.172 ms
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: POST /login 200 910.942 ms
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: GET /profile 200 3.526 ms
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:42[39m [[32mINFO[39m]: GET /profile 304 7.847 ms
+[36m2025-03-21 22:21:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:45[39m [[32mINFO[39m]: GET /profile 304 4.990 ms
+[36m2025-03-21 22:21:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:45[39m [[32mINFO[39m]: GET /profile 304 4.194 ms
+[36m2025-03-21 22:21:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:57[39m [[32mINFO[39m]: GET /profile 304 3.778 ms
+[36m2025-03-21 22:21:57[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:57[39m [[32mINFO[39m]: GET /profile 304 8.227 ms
+[36m2025-03-21 22:21:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:59[39m [[32mINFO[39m]: GET /profile 304 3.009 ms
+[36m2025-03-21 22:21:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:21:59[39m [[32mINFO[39m]: GET /profile 304 5.070 ms
+[36m2025-03-21 22:22:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:00[39m [[32mINFO[39m]: GET /profile 304 8.209 ms
+[36m2025-03-21 22:22:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:00[39m [[32mINFO[39m]: GET /profile 304 5.821 ms
+[36m2025-03-21 22:22:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:01[39m [[32mINFO[39m]: GET /profile 304 3.239 ms
+[36m2025-03-21 22:22:01[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:01[39m [[32mINFO[39m]: GET /profile 304 4.647 ms
+[36m2025-03-21 22:22:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:02[39m [[32mINFO[39m]: GET /profile 304 3.370 ms
+[36m2025-03-21 22:22:02[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:02[39m [[32mINFO[39m]: GET /profile 304 4.684 ms
+[36m2025-03-21 22:22:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:04[39m [[32mINFO[39m]: GET /profile 304 4.755 ms
+[36m2025-03-21 22:22:04[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:04[39m [[32mINFO[39m]: GET /profile 304 3.969 ms
+[36m2025-03-21 22:22:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:05[39m [[32mINFO[39m]: GET /profile 304 5.376 ms
+[36m2025-03-21 22:22:05[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:05[39m [[32mINFO[39m]: GET /profile 304 8.228 ms
+[36m2025-03-21 22:22:23[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:23[39m [[32mINFO[39m]: GET /profile 304 7.071 ms
+[36m2025-03-21 22:22:40[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:22:40[39m [[32mINFO[39m]: POST /logout 200 1.538 ms
+[36m2025-03-21 22:22:43[39m [[31mERROR[39m]: GET /profile 403 4.068 ms
+[36m2025-03-21 22:22:43[39m [[31mERROR[39m]: GET /profile 403 2.616 ms
+[36m2025-03-21 22:22:44[39m [[31mERROR[39m]: GET /profile 403 4.175 ms
+[36m2025-03-21 22:22:44[39m [[31mERROR[39m]: GET /profile 403 5.046 ms
+[36m2025-03-21 22:22:45[39m [[31mERROR[39m]: GET /profile 403 3.474 ms
+[36m2025-03-21 22:22:45[39m [[31mERROR[39m]: GET /profile 403 1.603 ms
+[36m2025-03-21 22:22:55[39m [[32mINFO[39m]: OPTIONS /login 204 0.151 ms
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: POST /login 200 625.905 ms
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: GET /profile 200 3.593 ms
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:22:56[39m [[32mINFO[39m]: GET /profile 304 4.904 ms
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: POST /logout 200 0.608 ms
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: GET /profile 304 8.693 ms
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:00[39m [[32mINFO[39m]: GET /profile 304 3.956 ms
+[36m2025-03-21 22:23:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:11[39m [[32mINFO[39m]: GET /profile 304 4.988 ms
+[36m2025-03-21 22:23:11[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:11[39m [[32mINFO[39m]: GET /profile 304 7.114 ms
+[36m2025-03-21 22:23:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:13[39m [[32mINFO[39m]: GET /profile 304 6.731 ms
+[36m2025-03-21 22:23:13[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:13[39m [[32mINFO[39m]: GET /profile 304 5.485 ms
+[36m2025-03-21 22:23:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:15[39m [[32mINFO[39m]: GET /profile 304 3.914 ms
+[36m2025-03-21 22:23:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:15[39m [[32mINFO[39m]: GET /profile 304 10.588 ms
+[36m2025-03-21 22:23:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:17[39m [[32mINFO[39m]: GET /profile 304 8.409 ms
+[36m2025-03-21 22:23:17[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:17[39m [[32mINFO[39m]: GET /profile 304 7.575 ms
+[36m2025-03-21 22:23:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:18[39m [[32mINFO[39m]: GET /profile 304 7.043 ms
+[36m2025-03-21 22:23:18[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:18[39m [[32mINFO[39m]: GET /profile 304 4.532 ms
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: POST /logout 200 1.235 ms
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: GET /profile 304 4.313 ms
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:21[39m [[32mINFO[39m]: GET /profile 304 4.496 ms
+[36m2025-03-21 22:23:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:22[39m [[32mINFO[39m]: GET /profile 304 7.484 ms
+[36m2025-03-21 22:23:22[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:22[39m [[32mINFO[39m]: GET /profile 304 8.364 ms
+[36m2025-03-21 22:23:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:24[39m [[32mINFO[39m]: GET /profile 304 3.900 ms
+[36m2025-03-21 22:23:24[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:24[39m [[32mINFO[39m]: GET /profile 304 13.539 ms
+[36m2025-03-21 22:23:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:25[39m [[32mINFO[39m]: GET /profile 304 5.679 ms
+[36m2025-03-21 22:23:25[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:25[39m [[32mINFO[39m]: GET /profile 304 5.792 ms
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: POST /logout 200 2.518 ms
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: GET /profile 304 5.269 ms
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:26[39m [[32mINFO[39m]: GET /profile 304 10.512 ms
+[36m2025-03-21 22:23:27[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:27[39m [[32mINFO[39m]: POST /logout 200 2.840 ms
+[36m2025-03-21 22:23:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:29[39m [[32mINFO[39m]: GET /profile 304 4.998 ms
+[36m2025-03-21 22:23:29[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:29[39m [[32mINFO[39m]: GET /profile 304 8.113 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: GET /profile 304 9.281 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.125 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.128 ms
+[36m2025-03-21 22:23:32[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:23:32[39m [[31mERROR[39m]: POST /refresh-token 403 2.015 ms
+[36m2025-03-21 22:23:32[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:23:32[39m [[31mERROR[39m]: POST /refresh-token 403 0.891 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: GET /profile 304 3.368 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: GET /profile 304 6.774 ms
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:32[39m [[32mINFO[39m]: GET /profile 304 3.771 ms
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: POST /logout 200 0.727 ms
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: GET /profile 304 5.482 ms
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:34[39m [[32mINFO[39m]: GET /profile 304 4.249 ms
+[36m2025-03-21 22:23:35[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:35[39m [[32mINFO[39m]: POST /logout 200 0.505 ms
+[36m2025-03-21 22:23:36[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:36[39m [[32mINFO[39m]: GET /profile 304 6.759 ms
+[36m2025-03-21 22:23:36[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:36[39m [[32mINFO[39m]: GET /profile 304 3.805 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.421 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.160 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: GET /profile 304 6.621 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: GET /profile 304 4.614 ms
+[36m2025-03-21 22:23:38[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:23:38[39m [[31mERROR[39m]: POST /refresh-token 403 5.012 ms
+[36m2025-03-21 22:23:38[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:23:38[39m [[31mERROR[39m]: POST /refresh-token 403 0.626 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: GET /profile 304 3.578 ms
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:38[39m [[32mINFO[39m]: GET /profile 304 4.053 ms
+[36m2025-03-21 22:23:40[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:40[39m [[32mINFO[39m]: GET /profile 304 8.075 ms
+[36m2025-03-21 22:23:40[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:40[39m [[32mINFO[39m]: GET /profile 304 4.517 ms
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: POST /logout 200 2.815 ms
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: GET /profile 304 6.600 ms
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:41[39m [[32mINFO[39m]: GET /profile 304 5.775 ms
+[36m2025-03-21 22:23:42[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:42[39m [[32mINFO[39m]: POST /logout 200 2.427 ms
+[36m2025-03-21 22:23:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:44[39m [[32mINFO[39m]: GET /profile 304 5.742 ms
+[36m2025-03-21 22:23:44[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:44[39m [[32mINFO[39m]: GET /profile 304 6.243 ms
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: GET /profile 304 11.010 ms
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: GET /profile 304 3.537 ms
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:45[39m [[32mINFO[39m]: GET /profile 304 4.807 ms
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: GET /profile 304 7.997 ms
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: POST /logout 200 0.642 ms
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: GET /profile 304 8.173 ms
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:46[39m [[32mINFO[39m]: GET /profile 304 7.128 ms
+[36m2025-03-21 22:23:47[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:47[39m [[32mINFO[39m]: POST /logout 200 2.994 ms
+[36m2025-03-21 22:23:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:50[39m [[32mINFO[39m]: GET /profile 304 4.868 ms
+[36m2025-03-21 22:23:50[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:50[39m [[32mINFO[39m]: GET /profile 304 8.659 ms
+[36m2025-03-21 22:23:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:51[39m [[32mINFO[39m]: GET /profile 304 4.995 ms
+[36m2025-03-21 22:23:51[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:51[39m [[32mINFO[39m]: GET /profile 304 4.242 ms
+[36m2025-03-21 22:23:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:53[39m [[32mINFO[39m]: GET /profile 304 4.484 ms
+[36m2025-03-21 22:23:53[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:53[39m [[32mINFO[39m]: GET /profile 304 9.669 ms
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: POST /logout 200 0.891 ms
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: GET /profile 304 3.409 ms
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 22:23:55[39m [[32mINFO[39m]: GET /profile 304 8.531 ms
+[36m2025-03-21 22:23:57[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 22:23:57[39m [[32mINFO[39m]: POST /logout 200 1.776 ms
+[36m2025-03-21 22:24:18[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.189 ms
+[36m2025-03-21 22:24:18[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.322 ms
+[36m2025-03-21 22:24:18[39m [[31mERROR[39m]: GET /profile 403 3.540 ms
+[36m2025-03-21 22:24:18[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:24:18[39m [[31mERROR[39m]: POST /refresh-token 403 23.155 ms
+[36m2025-03-21 22:24:18[39m [[31mERROR[39m]: GET /profile 403 30.434 ms
+[36m2025-03-21 22:24:18[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:24:18[39m [[31mERROR[39m]: POST /refresh-token 403 20.140 ms
+[36m2025-03-21 22:24:18[39m [[31mERROR[39m]: GET /profile 403 7.633 ms
+[36m2025-03-21 22:24:19[39m [[31mERROR[39m]: GET /profile 403 15.555 ms
+[36m2025-03-21 22:38:46[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.778 ms
+[36m2025-03-21 22:38:46[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.369 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 2.392 ms
+[36m2025-03-21 22:38:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: POST /refresh-token 403 0.997 ms
+[36m2025-03-21 22:38:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: POST /refresh-token 403 0.582 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.609 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.699 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.580 ms
+[36m2025-03-21 22:38:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: POST /refresh-token 403 7.890 ms
+[36m2025-03-21 22:38:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: POST /refresh-token 403 24.772 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.626 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.552 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 1.628 ms
+[36m2025-03-21 22:38:46[39m [[31mERROR[39m]: GET /profile 403 2.266 ms
+[36m2025-03-21 23:14:19[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-21 23:16:39[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 5.081 ms
+[36m2025-03-21 23:16:39[39m [[31mERROR[39m]: GET /profile 403 8.368 ms
+[36m2025-03-21 23:16:40[39m [[31mERROR[39m]: GET /profile 403 4.403 ms
+[36m2025-03-21 23:16:40[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.268 ms
+[36m2025-03-21 23:16:40[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:16:40[39m [[31mERROR[39m]: POST /refresh-token 403 22.598 ms
+[36m2025-03-21 23:16:40[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:16:40[39m [[31mERROR[39m]: POST /refresh-token 403 3.406 ms
+[36m2025-03-21 23:16:40[39m [[31mERROR[39m]: GET /profile 403 2.601 ms
+[36m2025-03-21 23:16:40[39m [[31mERROR[39m]: GET /profile 403 1.901 ms
+[36m2025-03-21 23:17:59[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-21 23:21:13[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 2.091 ms
+[36m2025-03-21 23:21:13[39m [[31mERROR[39m]: GET /profile 403 6.667 ms
+[36m2025-03-21 23:21:13[39m [[31mERROR[39m]: GET /profile 403 3.423 ms
+[36m2025-03-21 23:21:13[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.250 ms
+[36m2025-03-21 23:21:14[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:21:14[39m [[31mERROR[39m]: POST /refresh-token 403 27.745 ms
+[36m2025-03-21 23:21:14[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:21:14[39m [[31mERROR[39m]: POST /refresh-token 403 1.339 ms
+[36m2025-03-21 23:21:14[39m [[31mERROR[39m]: GET /profile 403 4.384 ms
+[36m2025-03-21 23:21:14[39m [[31mERROR[39m]: GET /profile 403 1.648 ms
+[36m2025-03-21 23:27:50[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.960 ms
+[36m2025-03-21 23:27:50[39m [[31mERROR[39m]: GET /profile 403 6.926 ms
+[36m2025-03-21 23:27:50[39m [[31mERROR[39m]: GET /profile 403 1.989 ms
+[36m2025-03-21 23:27:50[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 7.046 ms
+[36m2025-03-21 23:27:50[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:27:50[39m [[31mERROR[39m]: POST /refresh-token 403 2.384 ms
+[36m2025-03-21 23:27:50[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:27:51[39m [[31mERROR[39m]: POST /refresh-token 403 6.697 ms
+[36m2025-03-21 23:27:51[39m [[31mERROR[39m]: GET /profile 403 2.250 ms
+[36m2025-03-21 23:27:51[39m [[31mERROR[39m]: GET /profile 403 1.994 ms
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: GET /profile 403 2.498 ms
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: GET /profile 403 1.955 ms
+[36m2025-03-21 23:27:58[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.950 ms
+[36m2025-03-21 23:27:58[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.207 ms
+[36m2025-03-21 23:27:58[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: POST /refresh-token 403 1.403 ms
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: GET /profile 403 1.855 ms
+[36m2025-03-21 23:27:58[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: POST /refresh-token 403 1.175 ms
+[36m2025-03-21 23:27:58[39m [[31mERROR[39m]: GET /profile 403 2.136 ms
+[36m2025-03-21 23:28:29[39m [[32mINFO[39m]: Database Connected
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: GET /profile 401 10.664 ms
+[36m2025-03-21 23:28:39[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.587 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 30.182 ms
+[36m2025-03-21 23:28:39[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 1.729 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 2.111 ms
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: GET /profile 401 0.396 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 1.813 ms
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: GET /profile 401 0.518 ms
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: GET /profile 401 0.614 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 3.692 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 1.614 ms
+[36m2025-03-21 23:28:39[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:39[39m [[31mERROR[39m]: POST /refresh-token 403 1.585 ms
+[36m2025-03-21 23:28:44[39m [[31mERROR[39m]: GET /profile 401 0.651 ms
+[36m2025-03-21 23:28:44[39m [[31mERROR[39m]: GET /profile 401 0.666 ms
+[36m2025-03-21 23:28:44[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:44[39m [[31mERROR[39m]: POST /refresh-token 403 1.142 ms
+[36m2025-03-21 23:28:44[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:44[39m [[31mERROR[39m]: POST /refresh-token 403 2.597 ms
+[36m2025-03-21 23:28:45[39m [[31mERROR[39m]: GET /profile 401 0.840 ms
+[36m2025-03-21 23:28:45[39m [[31mERROR[39m]: GET /profile 401 2.120 ms
+[36m2025-03-21 23:28:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.232 ms
+[36m2025-03-21 23:28:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:45[39m [[31mERROR[39m]: POST /refresh-token 403 0.968 ms
+[36m2025-03-21 23:28:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.382 ms
+[36m2025-03-21 23:28:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:28:45[39m [[31mERROR[39m]: POST /refresh-token 403 2.831 ms
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: OPTIONS /login 204 4.728 ms
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: POST /login 200 793.176 ms
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: GET /profile 200 11.905 ms
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:29:03[39m [[32mINFO[39m]: GET /profile 304 10.053 ms
+[36m2025-03-21 23:29:09[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 23:29:09[39m [[32mINFO[39m]: POST /logout 200 1.453 ms
+[36m2025-03-21 23:29:09[39m [[31mERROR[39m]: GET /profile 401 0.805 ms
+[36m2025-03-21 23:29:09[39m [[31mERROR[39m]: GET /profile 401 0.410 ms
+[36m2025-03-21 23:29:09[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.226 ms
+[36m2025-03-21 23:29:09[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.189 ms
+[36m2025-03-21 23:29:09[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:09[39m [[31mERROR[39m]: POST /refresh-token 403 4.239 ms
+[36m2025-03-21 23:29:09[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:09[39m [[31mERROR[39m]: POST /refresh-token 403 2.823 ms
+[36m2025-03-21 23:29:10[39m [[31mERROR[39m]: GET /profile 401 0.497 ms
+[36m2025-03-21 23:29:10[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:10[39m [[31mERROR[39m]: POST /refresh-token 403 1.559 ms
+[36m2025-03-21 23:29:10[39m [[31mERROR[39m]: GET /profile 401 0.422 ms
+[36m2025-03-21 23:29:10[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:10[39m [[31mERROR[39m]: POST /refresh-token 403 1.313 ms
+[36m2025-03-21 23:29:11[39m [[31mERROR[39m]: GET /profile 401 0.410 ms
+[36m2025-03-21 23:29:11[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:11[39m [[31mERROR[39m]: POST /refresh-token 403 3.113 ms
+[36m2025-03-21 23:29:11[39m [[31mERROR[39m]: GET /profile 401 1.971 ms
+[36m2025-03-21 23:29:11[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:11[39m [[31mERROR[39m]: POST /refresh-token 403 1.341 ms
+[36m2025-03-21 23:29:12[39m [[31mERROR[39m]: GET /profile 401 0.748 ms
+[36m2025-03-21 23:29:12[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:12[39m [[31mERROR[39m]: POST /refresh-token 403 0.864 ms
+[36m2025-03-21 23:29:12[39m [[31mERROR[39m]: GET /profile 401 4.369 ms
+[36m2025-03-21 23:29:12[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:12[39m [[31mERROR[39m]: POST /refresh-token 403 0.860 ms
+[36m2025-03-21 23:29:14[39m [[31mERROR[39m]: GET /profile 401 0.367 ms
+[36m2025-03-21 23:29:14[39m [[31mERROR[39m]: GET /profile 401 2.553 ms
+[36m2025-03-21 23:29:14[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.225 ms
+[36m2025-03-21 23:29:14[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.500 ms
+[36m2025-03-21 23:29:14[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:14[39m [[31mERROR[39m]: POST /refresh-token 403 1.648 ms
+[36m2025-03-21 23:29:14[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:14[39m [[31mERROR[39m]: POST /refresh-token 403 2.510 ms
+[36m2025-03-21 23:29:15[39m [[31mERROR[39m]: GET /profile 401 0.882 ms
+[36m2025-03-21 23:29:15[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:15[39m [[31mERROR[39m]: POST /refresh-token 403 2.386 ms
+[36m2025-03-21 23:29:15[39m [[31mERROR[39m]: GET /profile 401 0.868 ms
+[36m2025-03-21 23:29:15[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:15[39m [[31mERROR[39m]: POST /refresh-token 403 0.906 ms
+[36m2025-03-21 23:29:17[39m [[31mERROR[39m]: GET /profile 401 0.688 ms
+[36m2025-03-21 23:29:17[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:17[39m [[31mERROR[39m]: POST /refresh-token 403 1.185 ms
+[36m2025-03-21 23:29:17[39m [[31mERROR[39m]: GET /profile 401 0.361 ms
+[36m2025-03-21 23:29:17[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:17[39m [[31mERROR[39m]: POST /refresh-token 403 0.855 ms
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: GET /profile 401 0.756 ms
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: GET /profile 401 0.355 ms
+[36m2025-03-21 23:29:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.194 ms
+[36m2025-03-21 23:29:20[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.262 ms
+[36m2025-03-21 23:29:20[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: POST /refresh-token 403 3.269 ms
+[36m2025-03-21 23:29:20[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: POST /refresh-token 403 6.446 ms
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: GET /profile 401 0.560 ms
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: GET /profile 401 2.416 ms
+[36m2025-03-21 23:29:20[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: POST /refresh-token 403 0.940 ms
+[36m2025-03-21 23:29:20[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:20[39m [[31mERROR[39m]: POST /refresh-token 403 3.562 ms
+[36m2025-03-21 23:29:21[39m [[31mERROR[39m]: GET /profile 401 1.017 ms
+[36m2025-03-21 23:29:21[39m [[31mERROR[39m]: GET /profile 401 0.347 ms
+[36m2025-03-21 23:29:21[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:21[39m [[31mERROR[39m]: POST /refresh-token 403 1.299 ms
+[36m2025-03-21 23:29:21[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:29:21[39m [[31mERROR[39m]: POST /refresh-token 403 0.772 ms
+[36m2025-03-21 23:30:37[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.195 ms
+[36m2025-03-21 23:30:37[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.193 ms
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: GET /profile 401 0.326 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 2.043 ms
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: GET /profile 401 0.502 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 0.810 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 0.713 ms
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: GET /profile 401 0.511 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 0.680 ms
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: GET /profile 401 0.309 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 0.878 ms
+[36m2025-03-21 23:30:37[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:37[39m [[31mERROR[39m]: POST /refresh-token 403 0.718 ms
+[36m2025-03-21 23:30:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.208 ms
+[36m2025-03-21 23:30:45[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.730 ms
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: GET /profile 401 5.408 ms
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: GET /profile 401 0.473 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 3.312 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 0.816 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 0.754 ms
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: GET /profile 401 0.342 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 2.441 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 0.979 ms
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: GET /profile 401 0.350 ms
+[36m2025-03-21 23:30:45[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:30:45[39m [[31mERROR[39m]: POST /refresh-token 403 0.924 ms
+[36m2025-03-21 23:30:58[39m [[32mINFO[39m]: OPTIONS /login 204 0.850 ms
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: POST /login 200 630.456 ms
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: GET /profile 200 8.824 ms
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:30:59[39m [[32mINFO[39m]: GET /profile 304 13.658 ms
+[36m2025-03-21 23:31:03[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 23:31:03[39m [[32mINFO[39m]: POST /logout 200 1.934 ms
+[36m2025-03-21 23:31:03[39m [[31mERROR[39m]: GET /profile 401 0.538 ms
+[36m2025-03-21 23:31:03[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.164 ms
+[36m2025-03-21 23:31:03[39m [[31mERROR[39m]: GET /profile 401 0.462 ms
+[36m2025-03-21 23:31:03[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:03[39m [[31mERROR[39m]: POST /refresh-token 403 1.236 ms
+[36m2025-03-21 23:31:03[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:03[39m [[31mERROR[39m]: POST /refresh-token 403 0.744 ms
+[36m2025-03-21 23:31:05[39m [[31mERROR[39m]: GET /profile 401 0.346 ms
+[36m2025-03-21 23:31:05[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:05[39m [[31mERROR[39m]: POST /refresh-token 403 1.112 ms
+[36m2025-03-21 23:31:05[39m [[31mERROR[39m]: GET /profile 401 0.468 ms
+[36m2025-03-21 23:31:05[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:05[39m [[31mERROR[39m]: POST /refresh-token 403 1.256 ms
+[36m2025-03-21 23:31:06[39m [[31mERROR[39m]: GET /profile 401 0.369 ms
+[36m2025-03-21 23:31:06[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:06[39m [[31mERROR[39m]: POST /refresh-token 403 2.308 ms
+[36m2025-03-21 23:31:06[39m [[31mERROR[39m]: GET /profile 401 1.206 ms
+[36m2025-03-21 23:31:06[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:06[39m [[31mERROR[39m]: POST /refresh-token 403 0.714 ms
+[36m2025-03-21 23:31:07[39m [[31mERROR[39m]: GET /profile 401 0.357 ms
+[36m2025-03-21 23:31:07[39m [[31mERROR[39m]: GET /profile 401 1.619 ms
+[36m2025-03-21 23:31:08[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:08[39m [[31mERROR[39m]: POST /refresh-token 403 2.889 ms
+[36m2025-03-21 23:31:08[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:08[39m [[31mERROR[39m]: POST /refresh-token 403 1.967 ms
+[36m2025-03-21 23:31:09[39m [[31mERROR[39m]: GET /profile 401 1.330 ms
+[36m2025-03-21 23:31:09[39m [[31mERROR[39m]: GET /profile 401 0.511 ms
+[36m2025-03-21 23:31:09[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.274 ms
+[36m2025-03-21 23:31:09[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.245 ms
+[36m2025-03-21 23:31:09[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:09[39m [[31mERROR[39m]: POST /refresh-token 403 1.161 ms
+[36m2025-03-21 23:31:09[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:09[39m [[31mERROR[39m]: POST /refresh-token 403 0.792 ms
+[36m2025-03-21 23:31:10[39m [[31mERROR[39m]: GET /profile 401 6.225 ms
+[36m2025-03-21 23:31:10[39m [[31mERROR[39m]: GET /profile 401 0.433 ms
+[36m2025-03-21 23:31:10[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:10[39m [[31mERROR[39m]: POST /refresh-token 403 3.030 ms
+[36m2025-03-21 23:31:10[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:10[39m [[31mERROR[39m]: POST /refresh-token 403 0.848 ms
+[36m2025-03-21 23:31:11[39m [[31mERROR[39m]: GET /profile 401 0.348 ms
+[36m2025-03-21 23:31:11[39m [[31mERROR[39m]: GET /profile 401 0.564 ms
+[36m2025-03-21 23:31:11[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:11[39m [[31mERROR[39m]: POST /refresh-token 403 1.763 ms
+[36m2025-03-21 23:31:11[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:11[39m [[31mERROR[39m]: POST /refresh-token 403 0.739 ms
+[36m2025-03-21 23:31:29[39m [[32mINFO[39m]: OPTIONS /login 204 4.508 ms
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: POST /login 200 744.383 ms
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: GET /profile 200 7.106 ms
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:31:30[39m [[32mINFO[39m]: GET /profile 304 4.149 ms
+[36m2025-03-21 23:31:55[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 23:31:55[39m [[32mINFO[39m]: POST /logout 200 1.436 ms
+[36m2025-03-21 23:31:55[39m [[31mERROR[39m]: GET /profile 401 2.685 ms
+[36m2025-03-21 23:31:55[39m [[31mERROR[39m]: GET /profile 401 0.317 ms
+[36m2025-03-21 23:31:55[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.172 ms
+[36m2025-03-21 23:31:55[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.215 ms
+[36m2025-03-21 23:31:55[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:55[39m [[31mERROR[39m]: POST /refresh-token 403 1.295 ms
+[36m2025-03-21 23:31:55[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:55[39m [[31mERROR[39m]: POST /refresh-token 403 1.594 ms
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: GET /profile 401 0.317 ms
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: GET /profile 401 0.428 ms
+[36m2025-03-21 23:31:57[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: POST /refresh-token 403 4.157 ms
+[36m2025-03-21 23:31:57[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: POST /refresh-token 403 1.344 ms
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: GET /profile 401 2.672 ms
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: GET /profile 401 0.600 ms
+[36m2025-03-21 23:31:57[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: POST /refresh-token 403 1.383 ms
+[36m2025-03-21 23:31:57[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:57[39m [[31mERROR[39m]: POST /refresh-token 403 0.863 ms
+[36m2025-03-21 23:31:58[39m [[31mERROR[39m]: GET /profile 401 0.587 ms
+[36m2025-03-21 23:31:58[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:58[39m [[31mERROR[39m]: POST /refresh-token 403 0.678 ms
+[36m2025-03-21 23:31:58[39m [[31mERROR[39m]: GET /profile 401 2.247 ms
+[36m2025-03-21 23:31:58[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:31:58[39m [[31mERROR[39m]: POST /refresh-token 403 1.022 ms
+[36m2025-03-21 23:34:14[39m [[32mINFO[39m]: OPTIONS /login 204 0.375 ms
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: User logged in: o@gmail.com
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: POST /login 200 711.246 ms
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: GET /profile 200 3.617 ms
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: Profile accessed for user ID: 67dd5ee804dbce7a6244c33b
+[36m2025-03-21 23:34:15[39m [[32mINFO[39m]: GET /profile 304 8.908 ms
+[36m2025-03-21 23:34:54[39m [[32mINFO[39m]: User logged out: Unknown user
+[36m2025-03-21 23:34:54[39m [[32mINFO[39m]: POST /logout 200 0.690 ms
+[36m2025-03-21 23:34:54[39m [[31mERROR[39m]: GET /profile 401 0.511 ms
+[36m2025-03-21 23:34:54[39m [[31mERROR[39m]: GET /profile 401 3.277 ms
+[36m2025-03-21 23:34:54[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.235 ms
+[36m2025-03-21 23:34:54[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.313 ms
+[36m2025-03-21 23:34:54[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:34:54[39m [[31mERROR[39m]: POST /refresh-token 403 0.827 ms
+[36m2025-03-21 23:34:54[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:34:54[39m [[31mERROR[39m]: POST /refresh-token 403 2.050 ms
+[36m2025-03-21 23:35:07[39m [[31mERROR[39m]: GET /profile 401 0.437 ms
+[36m2025-03-21 23:35:07[39m [[31mERROR[39m]: GET /profile 401 0.422 ms
+[36m2025-03-21 23:35:07[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.169 ms
+[36m2025-03-21 23:35:07[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.167 ms
+[36m2025-03-21 23:35:07[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:35:07[39m [[31mERROR[39m]: POST /refresh-token 403 0.641 ms
+[36m2025-03-21 23:35:07[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:35:07[39m [[31mERROR[39m]: POST /refresh-token 403 4.674 ms
+[36m2025-03-21 23:35:27[39m [[32mINFO[39m]: OPTIONS /register 204 0.191 ms
+[36m2025-03-21 23:35:28[39m [[33mWARN[39m]: Registration failed: Email Nemasha@gmail.com already taken
+[36m2025-03-21 23:35:28[39m [[31mERROR[39m]: POST /register 400 570.290 ms
+[36m2025-03-21 23:35:36[39m [[32mINFO[39m]: OPTIONS /register 204 0.176 ms
+[36m2025-03-21 23:35:36[39m [[33mWARN[39m]: Registration failed: Email Nema@gmail.com already taken
+[36m2025-03-21 23:35:36[39m [[31mERROR[39m]: POST /register 400 318.457 ms
+[36m2025-03-21 23:35:44[39m [[32mINFO[39m]: OPTIONS /register 204 0.160 ms
+[36m2025-03-21 23:35:46[39m [[32mINFO[39m]: New user registered: NemaGuna@gmail.com
+[36m2025-03-21 23:35:46[39m [[32mINFO[39m]: POST /register 201 1068.885 ms
+[36m2025-03-21 23:35:46[39m [[31mERROR[39m]: GET /profile 401 0.416 ms
+[36m2025-03-21 23:35:46[39m [[31mERROR[39m]: GET /profile 401 0.713 ms
+[36m2025-03-21 23:35:46[39m [[32mINFO[39m]: OPTIONS /refresh-token 204 0.171 ms
+[36m2025-03-21 23:35:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:35:46[39m [[31mERROR[39m]: POST /refresh-token 403 0.862 ms
+[36m2025-03-21 23:35:46[39m [[33mWARN[39m]: Token refresh failed: No refresh token provided
+[36m2025-03-21 23:35:46[39m [[31mERROR[39m]: POST /refresh-token 403 2.036 ms
+[36m2025-03-21 23:36:02[39m [[32mINFO[39m]: OPTIONS /login 204 0.556 ms
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: User logged in: NemaGuna@gmail.com
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: POST /login 200 867.876 ms
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67ddaa791851eb0a54801c03
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: GET /profile 200 4.660 ms
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: Profile accessed for user ID: 67ddaa791851eb0a54801c03
+[36m2025-03-21 23:36:03[39m [[32mINFO[39m]: GET /profile 304 14.509 ms

@@ -22,20 +22,20 @@ const registerUser = asyncHandler(async (req: Request, res: Response): Promise<v
 
   if (!name) {
     logger.warn('Registration failed: Name is required');
-    res.json({ error: 'Name is required' });
+    res.status(400).json({ error: 'Name is required' });
     return;
   }
 
   if (!password || password.length < 6) {
     logger.warn('Registration failed: Weak password');
-    res.json({ error: 'Password should be at least 6 characters long' });
+    res.status(400).json({ error: 'Password should be at least 6 characters long' });
     return;
   }
 
   const exist = await User.findOne({ email });
   if (exist) {
     logger.warn(`Registration failed: Email ${email} already taken`);
-    res.json({ error: 'Email is already taken' });
+    res.status(400).json({ error: 'Email is already taken' });
     return;
   }
 
@@ -43,7 +43,7 @@ const registerUser = asyncHandler(async (req: Request, res: Response): Promise<v
   const user = await User.create({ name, email, password: hashedPassword });
 
   logger.info(`New user registered: ${email}`);
-  res.json(user);
+  res.status(201).json(user);
 });
 
 // Login Endpoint
@@ -53,7 +53,7 @@ const loginUser = asyncHandler(async (req: Request, res: Response): Promise<void
   const user = await User.findOne({ email });
   if (!user) {
     logger.warn(`Login failed: No user found with email ${email}`);
-    res.json({ error: 'No user found' });
+    res.status(404).json({ error: 'No user found' });
     return;
   }
 
@@ -95,7 +95,6 @@ const refreshAccessToken = asyncHandler(async (req: Request, res: Response): Pro
   jwt.verify(
     refreshToken,
     process.env.JWT_REFRESH_SECRET as string,
-    {}, // Empty options object
     (err: VerifyErrors | null, decoded: string | JwtPayload | undefined) => {
       if (err || !decoded || typeof decoded === 'string') {
         logger.warn('Token refresh failed: Invalid refresh token');
@@ -112,9 +111,11 @@ const refreshAccessToken = asyncHandler(async (req: Request, res: Response): Pro
 
 // Logout Endpoint
 const logoutUser = asyncHandler(async (req: AuthenticatedRequest, res: Response): Promise<void> => {
-  res.clearCookie('refreshToken');
+  res.cookie('refreshToken', '', { httpOnly: true, secure: true, sameSite: 'strict', maxAge: 0 });
+  res.cookie('accessToken', '', { httpOnly: true, secure: true, sameSite: 'strict', maxAge: 0 });
+
   logger.info(`User logged out: ${req.user?._id || 'Unknown user'}`);
-  res.json({ message: 'Logged out successfully' });
+  res.json({ success: true, message: 'Logged out successfully' });
 });
 
 // Get Profile Endpoint
@@ -129,7 +130,6 @@ const getProfile = asyncHandler(async (req: AuthenticatedRequest, res: Response)
   jwt.verify(
     accessToken,
     process.env.JWT_SECRET as string,
-    {}, // Empty options object
     (err: VerifyErrors | null, decoded: string | JwtPayload | undefined) => {
       if (err || !decoded || typeof decoded === 'string') {
         if (err?.name === 'TokenExpiredError') {

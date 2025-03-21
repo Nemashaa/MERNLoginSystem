@@ -4,6 +4,8 @@ import axios, { AxiosResponse } from 'axios';
 import { toast } from 'react-hot-toast';
 import { useNavigate } from 'react-router-dom';
 import useAuthStore from '../store/authStore';
+import MainLayout from '../layouts/MainLayout';
+import '../styles/Login.css';
 
 // Define types for user and API response
 interface User {
@@ -59,26 +61,29 @@ export default function Login() {
   };
 
   return (
-    <div>
-      <form onSubmit={loginUser}>
-        <label>Email</label>
-        <input
-          type="email"
-          placeholder="Enter email..."
-          value={loginData.email}
-          onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}
-          onKeyDown={handleKeyDown}
-        />
-        <label>Password</label>
-        <input
-          type="password"
-          placeholder="Enter password..."
-          value={loginData.password}
-          onChange={(e) => setLoginData({ ...loginData, password: e.target.value })}
-          onKeyDown={handleKeyDown}
-        />
-        <button type="submit">Login</button>
-      </form>
-    </div>
+    <MainLayout>
+      <div className="login-page">
+        <form className="form" onSubmit={loginUser}>
+          <h2>Login</h2>
+          <label>Email</label>
+          <input
+            type="email"
+            placeholder="Enter email..."
+            value={loginData.email}
+            onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}
+            onKeyDown={handleKeyDown}
+          />
+          <label>Password</label>
+          <input
+            type="password"
+            placeholder="Enter password..."
+            value={loginData.password}
+            onChange={(e) => setLoginData({ ...loginData, password: e.target.value })}
+            onKeyDown={handleKeyDown}
+          />
+          <button type="submit">Login</button>
+        </form>
+      </div>
+    </MainLayout>
   );
 }

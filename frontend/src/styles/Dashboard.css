@@ -1,0 +1,48 @@
+.dashboard-page {
+  padding: 20px;
+  text-align: center;
+  background-color: #ffffff; /* White background for the page */
+  margin-top: 60px; /* Push content below the Navbar (adjust based on Navbar height) */
+}
+
+.dashboard-page h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #343a40; /* Dark gray color for the heading */
+  margin-bottom: 20px;
+}
+
+.dashboard-page h2 {
+  font-size: 22px;
+  font-weight: normal;
+  color: #007bff; /* Blue color for the greeting */
+  margin-bottom: 20px;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.dashboard-table th,
+.dashboard-table td {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  text-align: left;
+  color: #000000; /* Set text color to black */
+}
+
+.dashboard-table th {
+  background-color: #f8f9fa; /* Light gray background for table headers */
+  font-weight: bold;
+  color: #343a40; /* Dark gray text color */
+}
+
+.dashboard-table tr:nth-child(even) {
+  background-color: #f2f2f2; /* Light gray background for even rows */
+}
+
+.dashboard-table tr:hover {
+  background-color: #e9ecef; /* Slightly darker gray on hover */
+}
