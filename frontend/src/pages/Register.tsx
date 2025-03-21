@@ -1,4 +1,3 @@
-// components/Register.tsx
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-hot-toast';
@@ -35,7 +34,7 @@ export default function Register() {
         toast.success('Registration successful! Welcome!');
         navigate('/login');
       },
-      onError: (error: AxiosError<ErrorResponse>) => { // Use AxiosError with ErrorResponse type
+      onError: (error: AxiosError<ErrorResponse>) => {
         const errorMessage = error.response?.data?.error || 'Registration failed';
         toast.error(errorMessage);
       },

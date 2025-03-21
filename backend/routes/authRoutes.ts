@@ -18,5 +18,6 @@ router.post('/login', loginUser);
 router.get('/profile', authMiddleware, getProfile);
 router.post('/refreshToken', refreshAccessToken);
 router.post('/logout', logoutUser);
+router.post('/refresh-token', refreshAccessToken);
 
 export default router;

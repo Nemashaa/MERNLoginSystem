@@ -18,7 +18,12 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+    "composite": true, // Required for project references
+    "outDir": "./dist",
+    "rootDir": "./src", // Keep rootDir as src
+    "esModuleInterop": true
   },
-  "include": ["vite.config.ts"]
+  "include": ["src/**/*"], // Remove vite.config.ts from include
+  "exclude": ["node_modules", "vite.config.ts"] // Explicitly exclude vite.config.ts
 }

@@ -1,13 +1,13 @@
 import { create } from "zustand";
 import axios from 'axios';
-import { User } from "../interfaces/User";
+import { User } from '../interfaces/User'; // Fix import
 
 interface AuthState {
   user: User | null;
   isLoggedIn: boolean;
-  accessToken: string | null; // Added accessToken property
-  setUser: (userData: User | null) => void;
-  setAccessToken: (token: string | null) => void; // Added setter for accessToken
+  accessToken: string | null;
+  setUser: (user: User | null) => void;
+  setAccessToken: (token: string | null) => void;
   checkAuth: () => Promise<void>;
   refreshAccessToken: () => Promise<void>;
   logout: () => Promise<void>;
@@ -16,14 +16,14 @@ interface AuthState {
 const useAuthStore = create<AuthState>((set) => ({
   user: null,
   isLoggedIn: false,
-  accessToken: null, // Initialize accessToken as null
+  accessToken: null,
 
-  setUser: (userData) => set({ user: userData, isLoggedIn: !!userData }),
-  setAccessToken: (token) => set({ accessToken: token }), // Setter for accessToken
+  setUser: (user) => set({ user, isLoggedIn: !!user }),
+  setAccessToken: (token) => set({ accessToken: token }),
 
   checkAuth: async () => {
     try {
-      const { data } = await axios.get('/profile', { withCredentials: true });
+      const { data } = await axios.get<User>('/profile', { withCredentials: true });
       set({ user: data, isLoggedIn: true });
     } catch {
       set({ user: null, isLoggedIn: false });
@@ -32,20 +32,20 @@ const useAuthStore = create<AuthState>((set) => ({
 
   refreshAccessToken: async () => {
     try {
-      const { data: responseData } = await axios.post('/refresh-token', {}, { withCredentials: true });
+      const { data: responseData } = await axios.post<{ accessToken: string; user: User }>('/refresh-token', {}, { withCredentials: true });
       if (responseData.accessToken) {
-        set({ accessToken: responseData.accessToken }); // Update accessToken
-        set({ user: { ...responseData.user, accessToken: responseData.accessToken }, isLoggedIn: true });
+        set({ accessToken: responseData.accessToken });
+        set({ user: { ...(responseData.user || {}), accessToken: responseData.accessToken }, isLoggedIn: true });
       }
     } catch {
-      set({ user: null, isLoggedIn: false, accessToken: null }); // Clear accessToken on failure
+      set({ user: null, isLoggedIn: false, accessToken: null });
     }
   },
 
   logout: async () => {
     try {
       await axios.post('/logout', {}, { withCredentials: true });
-      set({ user: null, isLoggedIn: false, accessToken: null }); // Clear accessToken on logout
+      set({ user: null, isLoggedIn: false, accessToken: null });
     } catch (error) {
       console.error("Logout error:", error);
     }

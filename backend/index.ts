@@ -27,7 +27,7 @@ mongoose
 app.use(express.json());
 app.use(cookieParser());
 app.use(express.urlencoded({ extended: false }));
-app.use(cors(corsOptions));
+app.use(cors(corsOptions)); // Use the updated CORS configuration
 
 // Routes
 app.use('/', authRoutes);
