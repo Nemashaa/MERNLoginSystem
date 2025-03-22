@@ -8,7 +8,7 @@ import authRoutes from './routes/authRoutes';
 import errorHandler from './middlewares/errorHandler';
 import logger from './utils/logger';
 import morganLogger from './utils/morganLogger';
-
+import todoRoutes from './routes/todoRoutes';
 // Load environment variables
 dotenv.config();
 
@@ -31,6 +31,7 @@ app.use(cors(corsOptions)); // Use the updated CORS configuration
 
 // Routes
 app.use('/', authRoutes);
+app.use('/api/todos', todoRoutes);
 
 // Global Error Handler Middleware
 app.use(errorHandler);

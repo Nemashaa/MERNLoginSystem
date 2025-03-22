@@ -1,9 +1,10 @@
 import React, { useEffect } from "react";
-import { Toaster } from "react-hot-toast";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import AppRoutes from "./routes/AppRoutes";
 import "./utils/axiosInterceptor"; // Ensure the interceptor is imported
 import useAuthStore from "./store/authStore";
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'; // Import react-toastify styles
 
 const queryClient = new QueryClient();
 
@@ -20,8 +21,9 @@ const App: React.FC = () => {
 
   return (
     <QueryClientProvider client={queryClient}>
-      <Toaster position="bottom-right" toastOptions={{ duration: 2000 }} />
+      {/* Only use ToastContainer for toast notifications */}
       <AppRoutes /> {/* Navbar is removed here to prevent duplication */}
+      <ToastContainer position="bottom-right" autoClose={2000} />
     </QueryClientProvider>
   );
 };

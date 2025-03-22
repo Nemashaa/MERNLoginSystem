@@ -1,8 +1,8 @@
 import { Request, Response, NextFunction } from 'express';
 import jwt, { JwtPayload, VerifyErrors } from 'jsonwebtoken';
 
-interface AuthenticatedRequest extends Request {
-  user?: string | JwtPayload;
+export interface AuthenticatedRequest extends Request {
+  user?: JwtPayload & { _id: string };
 }
 
 const authMiddleware = (req: AuthenticatedRequest, res: Response, next: NextFunction): void => {
@@ -16,7 +16,7 @@ const authMiddleware = (req: AuthenticatedRequest, res: Response, next: NextFunc
   jwt.verify(
     accessToken,
     process.env.JWT_SECRET as string,
-    (err: VerifyErrors | null, decoded: string | JwtPayload | undefined) => { // Explicitly typed err and decoded
+    (err: VerifyErrors | null, decoded: JwtPayload | string | undefined): void => {
       if (err) {
         if (err.name === 'TokenExpiredError') {
           res.status(403).json({ success: false, message: 'Access token expired' });
@@ -26,8 +26,13 @@ const authMiddleware = (req: AuthenticatedRequest, res: Response, next: NextFunc
         return;
       }
 
-      req.user = decoded;
-      next(); // Explicitly return void here
+      if (typeof decoded === 'string' || !decoded) {
+        res.status(403).json({ success: false, message: 'Invalid token payload' });
+        return;
+      }
+
+      req.user = decoded as JwtPayload & { _id: string };
+      next();
     }
   );
 };
