@@ -2,21 +2,8 @@ import axios from 'axios';
 import useAuthStore from '../store/authStore';
 
 axios.defaults.baseURL = 'http://localhost:8001';
-axios.defaults.withCredentials = true;
+axios.defaults.withCredentials = true; // Ensure credentials are sent
 
-// Request interceptor
-axios.interceptors.request.use(
-  (config) => {
-    const { accessToken } = useAuthStore.getState();
-    if (accessToken && config.headers) {
-      config.headers['Authorization'] = `Bearer ${accessToken}`;
-    }
-    return config;
-  },
-  (error) => Promise.reject(error)
-);
-
-// Response interceptor
 axios.interceptors.response.use(
   (response) => response,
   async (error) => {
@@ -31,7 +18,8 @@ axios.interceptors.response.use(
           return axios(originalRequest);
         }
       } catch (err) {
-        console.error('Failed to refresh token:', err);
+        console.error('Failed to refresh token:', err); // Log the error
+        useAuthStore.getState().logout(); // Log out the user if token refresh fails
       }
     }
     return Promise.reject(error);

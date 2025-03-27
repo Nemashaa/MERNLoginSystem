@@ -31,7 +31,7 @@ const authMiddleware = (req: AuthenticatedRequest, res: Response, next: NextFunc
         return;
       }
 
-      req.user = decoded as JwtPayload & { _id: string };
+      req.user = decoded as JwtPayload & { _id: string }; // Add the `user` property
       next();
     }
   );

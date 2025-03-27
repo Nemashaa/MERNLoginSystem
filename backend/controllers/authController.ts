@@ -87,7 +87,6 @@ const loginUser = asyncHandler(async (req: Request, res: Response): Promise<void
 const refreshAccessToken = asyncHandler(async (req: Request, res: Response): Promise<void> => {
   const refreshToken = req.cookies.refreshToken;
   if (!refreshToken) {
-    logger.warn('Token refresh failed: No refresh token provided');
     res.status(403).json({ error: 'Refresh token not found' });
     return;
   }
@@ -97,13 +96,11 @@ const refreshAccessToken = asyncHandler(async (req: Request, res: Response): Pro
     process.env.JWT_REFRESH_SECRET as string,
     (err: VerifyErrors | null, decoded: string | JwtPayload | undefined) => {
       if (err || !decoded || typeof decoded === 'string') {
-        logger.warn('Token refresh failed: Invalid refresh token');
         res.status(403).json({ error: 'Invalid refresh token' });
         return;
       }
 
       const newAccessToken = generateAccessToken(decoded as IUser);
-      logger.info(`New access token issued for user ID: ${(decoded as JwtPayload)._id}`);
       res.json({ accessToken: newAccessToken });
     }
   );

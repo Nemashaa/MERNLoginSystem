@@ -5,10 +5,11 @@ import corsOptions from './config/corsConfig';
 import mongoose from 'mongoose';
 import cookieParser from 'cookie-parser';
 import authRoutes from './routes/authRoutes';
+import postRoutes from './routes/postRoutes';
 import errorHandler from './middlewares/errorHandler';
 import logger from './utils/logger';
 import morganLogger from './utils/morganLogger';
-import todoRoutes from './routes/todoRoutes';
+
 // Load environment variables
 dotenv.config();
 
@@ -31,7 +32,7 @@ app.use(cors(corsOptions)); // Use the updated CORS configuration
 
 // Routes
 app.use('/', authRoutes);
-app.use('/api/todos', todoRoutes);
+app.use('/api', postRoutes); // Add post routes
 
 // Global Error Handler Middleware
 app.use(errorHandler);

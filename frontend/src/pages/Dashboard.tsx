@@ -1,45 +1,50 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import MainLayout from '../layouts/MainLayout';
 import useAuthStore from "../store/authStore";
-import { useFetchData } from '../hooks/useFetchData';
-import useTodoStore from '../store/todoStore';
+import { useUserPosts, useAddPost, useUpdatePost, useDeletePost } from '../hooks/usePosts';
 import '../styles/Dashboard.css';
 
-interface Todo {
-  todoId?: number;  // Optional `todoId`
-  id?: number;      // Optional `id` (for JSONPlaceholder)
-  title: string;
-  completed: boolean;
-}
-
-const Dashboard: React.FC = () => {
+export default function Dashboard() {
   const { user } = useAuthStore();
-  const { data: todos, isLoading, isError } = useFetchData();
-  const { addTodo, editTodo, removeTodo } = useTodoStore(); // Use Zustand for add, edit, and remove todos
+  const { data: posts, isLoading, isError } = useUserPosts();
+  const addPostMutation = useAddPost();
+  const updatePostMutation = useUpdatePost();
+  const deletePostMutation = useDeletePost();
   const navigate = useNavigate();
 
-  const [newTodoTitle, setNewTodoTitle] = useState('');
-  const [updatingTodo, setUpdatingTodo] = useState<Todo | null>(null);
+  const [postInput, setPostInput] = useState({ title: '', description: '' });
+  const [editPostID, setEditPostID] = useState<number | null>(null); // Track the post being edited
 
+  // Redirect to login if user is null
   useEffect(() => {
     if (!user) {
       navigate('/login');
     }
   }, [user, navigate]);
 
-  const handleAddTodo = () => {
-    if (newTodoTitle.trim()) {
-      addTodo(newTodoTitle);
-      setNewTodoTitle('');
+  const handleAddOrUpdatePost = () => {
+    if (editPostID) {
+      // Update post
+      updatePostMutation.mutate({
+        postID: editPostID,
+        updatedData: { title: postInput.title, description: postInput.description },
+      });
+      setEditPostID(null); // Reset edit state
+    } else {
+      // Add new post
+      addPostMutation.mutate(postInput);
     }
+    setPostInput({ title: '', description: '' }); // Clear input fields
   };
 
-  const handleUpdateTodo = () => {
-    if (updatingTodo && updatingTodo.title.trim()) {
-      editTodo(updatingTodo.todoId!, updatingTodo.title, updatingTodo.completed);
-      setUpdatingTodo(null); // Reset after updating
-    }
+  const handleEditPost = (postID: number, title: string, description: string) => {
+    setEditPostID(postID); // Set the post ID being edited
+    setPostInput({ title, description }); // Populate input fields with current post values
+  };
+
+  const handleDeletePost = (postID: number) => {
+    deletePostMutation.mutate(postID);
   };
 
   if (isLoading) {
@@ -56,61 +61,51 @@ const Dashboard: React.FC = () => {
         <h1>Dashboard</h1>
         {user && <h2>Hi {user.name}!</h2>}
 
-        {/* Add Todo Section */}
+        {/* Input Fields for Adding/Updating Posts */}
         <div className="add-task">
           <input
-            type="text"
-            placeholder="New Todo"
-            value={newTodoTitle}
-            onChange={(e) => setNewTodoTitle(e.target.value)} // Update state with the input value
             className="task-input"
+            type="text"
+            placeholder="Title"
+            value={postInput.title}
+            onChange={(e) => setPostInput({ ...postInput, title: e.target.value })}
           />
-          <button onClick={handleAddTodo} className="add-btn">Add Todo</button>
+          <input
+            className="task-input"
+            type="text"
+            placeholder="Description"
+            value={postInput.description}
+            onChange={(e) => setPostInput({ ...postInput, description: e.target.value })}
+          />
+          <button className="add-btn" onClick={handleAddOrUpdatePost}>
+            {editPostID ? 'Update Post' : 'Add Post'}
+          </button>
         </div>
 
-        {/* Update Todo Section */}
-        {updatingTodo && (
-          <div className="update-task">
-            <input
-              type="text"
-              value={updatingTodo.title}
-              onChange={(e) => setUpdatingTodo({ ...updatingTodo, title: e.target.value })}
-              className="task-input"
-            />
-            <button onClick={handleUpdateTodo} className="add-btn">Update Todo</button>
-          </div>
-        )}
-
+        {/* Posts Table */}
         <table className="dashboard-table">
           <thead>
             <tr>
-              <th>ID</th>
               <th>Title</th>
-              <th>Completed</th>
-              <th>Actions</th> {/* Added actions column for update and delete */}
+              <th>Description</th>
+              <th>Actions</th>
             </tr>
           </thead>
           <tbody>
-            {todos?.map((todo: Todo) => (
-              <tr key={todo.todoId ?? todo.id}>
-                <td>{todo.todoId ?? todo.id ?? 'N/A'}</td>
-                <td>{todo.title}</td>
-                <td>{todo.completed ? '✅' : '❌'}</td>
+            {posts?.map((post) => (
+              <tr key={post.postID}>
+                <td>{post.title}</td>
+                <td>{post.description}</td>
                 <td>
                   <button
                     className="update-btn"
-                    onClick={() => setUpdatingTodo(todo)} // Set the todo to be updated
+                    onClick={() => handleEditPost(post.postID, post.title, post.description)}
                   >
-                    Update
+                    Edit
                   </button>
                   <button
                     className="delete-btn"
-                    onClick={() => {
-                      const id = todo.todoId ?? todo.id;
-                      if (id) {
-                        removeTodo(id); // Call removeTodo with the valid ID
-                      }
-                    }}
+                    onClick={() => handleDeletePost(post.postID)}
                   >
                     Delete
                   </button>
@@ -122,6 +117,4 @@ const Dashboard: React.FC = () => {
       </div>
     </MainLayout>
   );
-};
-
-export default Dashboard;
+}

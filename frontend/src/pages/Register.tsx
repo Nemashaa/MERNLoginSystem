@@ -53,21 +53,21 @@ export default function Register() {
             type="text"
             placeholder="Enter name..."
             value={registerData.name}
-            onChange={(e) => setRegisterData({ ...registerData, name: e.target.value })}
+            onChange={(e) => setRegisterData({ ...registerData, name: (e.target as HTMLInputElement).value })}
           />
           <label>Email</label>
           <input
             type="email"
             placeholder="Enter email..."
             value={registerData.email}
-            onChange={(e) => setRegisterData({ ...registerData, email: e.target.value })}
+            onChange={(e) => setRegisterData({ ...registerData, email: (e.target as HTMLInputElement).value })}
           />
           <label>Password</label>
           <input
             type="password"
             placeholder="Enter password..."
             value={registerData.password}
-            onChange={(e) => setRegisterData({ ...registerData, password: e.target.value })}
+            onChange={(e) => setRegisterData({ ...registerData, password: (e.target as HTMLInputElement).value })}
           />
           <button type="submit">Submit</button>
         </form>
