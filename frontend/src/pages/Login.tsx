@@ -5,24 +5,8 @@ import { toast } from 'react-hot-toast';
 import { useNavigate } from 'react-router-dom';
 import useAuthStore from '../store/authStore';
 import MainLayout from '../layouts/MainLayout';
+import { LoginData, AuthResponse } from '../types/userTypes'; // Import centralized types
 import '../styles/Login.css';
-
-// Define types for user and API response
-interface User {
-  id: string;
-  name: string;
-  email: string;
-}
-
-interface AuthResponse {
-  user?: User;
-  error?: string;
-}
-
-interface LoginData {
-  email: string;
-  password: string;
-}
 
 export default function Login() {
   const navigate = useNavigate();
@@ -43,7 +27,6 @@ export default function Login() {
       if (responseData.error) {
         toast.error(responseData.error);
       } else if (responseData.user) {
-        console.log('Login Response:', responseData);
         setUser(responseData.user);
         setLoginData({ email: '', password: '' });
         navigate('/dashboard');

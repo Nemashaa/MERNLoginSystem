@@ -1,11 +1,11 @@
 import mongoose, { Document, Schema } from 'mongoose';
 
-// Define the IUser interface
-export interface IUser extends Document {
+// Define the IUser type
+export type IUser = Document & {
   name: string;
   email: string;
   password: string;
-}
+};
 
 // Define the User schema
 const UserSchema: Schema = new Schema({

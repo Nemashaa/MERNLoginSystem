@@ -17,6 +17,6 @@ router.post('/register', registerUser);
 router.post('/login', loginUser);
 router.get('/profile', authMiddleware, getProfile);
 router.post('/refresh-token', refreshAccessToken); // Keep only one refresh token route
-router.post('/logout', logoutUser);
+router.post('/logout', logoutUser); // Logout route already implemented here
 
 export default router;

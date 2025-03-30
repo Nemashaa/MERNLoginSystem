@@ -2,7 +2,7 @@ import axios from 'axios';
 import useAuthStore from '../store/authStore';
 
 axios.defaults.baseURL = 'http://localhost:8001';
-axios.defaults.withCredentials = true; // Ensure credentials are sent
+axios.defaults.withCredentials = true;
 
 axios.interceptors.response.use(
   (response) => response,
@@ -18,7 +18,7 @@ axios.interceptors.response.use(
           return axios(originalRequest);
         }
       } catch (err) {
-        console.error('Failed to refresh token:', err); // Log the error
+        console.error('Failed to refresh token:', err);
         useAuthStore.getState().logout(); // Log out the user if token refresh fails
       }
     }

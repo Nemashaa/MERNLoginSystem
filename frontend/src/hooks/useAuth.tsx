@@ -1,30 +1,8 @@
-import { useQuery, useMutation } from '@tanstack/react-query'; // Correct import for React Query
-import axios, { AxiosResponse, AxiosError } from 'axios'; // Use AxiosError from axios
+import { useQuery, useMutation } from '@tanstack/react-query';
+import axios, { AxiosResponse, AxiosError } from 'axios';
 import useAuthStore from '../store/authStore';
 import React from 'react';
-
-// Define types for user data
-interface User {
-  id: string;
-  name: string;
-  email: string;
-}
-
-interface AuthResponse {
-  user?: User;
-  error: string; // Ensure `error` is always a string
-}
-
-interface LoginData {
-  email: string;
-  password: string;
-}
-
-interface RegisterData {
-  name: string;
-  email: string;
-  password: string;
-}
+import { User, AuthResponse, LoginData, RegisterData } from '../types/userTypes'; // Import types
 
 export const useCheckAuth = () => {
   const { setUser } = useAuthStore();
@@ -35,10 +13,9 @@ export const useCheckAuth = () => {
       const res: AxiosResponse<User> = await axios.get('/profile');
       return res.data;
     },
-    enabled: false, // Prevent automatic fetching
+    enabled: false,
   });
 
-  // Handle side effects using useEffect
   React.useEffect(() => {
     if (query.isSuccess && query.data) {
       setUser(query.data);
@@ -80,7 +57,6 @@ export const useRegister = () => {
       }
     },
     onError: (error: AxiosError<AuthResponse>) => {
-      // Handle AxiosError specifically
       if (error.response) {
         console.error('Error response:', error.response.data);
       } else if (error.request) {

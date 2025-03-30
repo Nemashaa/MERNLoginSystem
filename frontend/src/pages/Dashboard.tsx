@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import MainLayout from '../layouts/MainLayout';
 import useAuthStore from "../store/authStore";
-import { useUserPosts, useAddPost, useUpdatePost, useDeletePost } from '../hooks/usePosts';
+import { useUserPosts, useAddPost, useUpdatePost, useDeletePost } from '../hooks/usePosts'; // Correct hook
 import '../styles/Dashboard.css';
 
 export default function Dashboard() {
   const { user } = useAuthStore();
-  const { data: posts, isLoading, isError } = useUserPosts();
+  const { data: posts, isLoading, isError } = useUserPosts(); // Correct hook for fetching posts
   const addPostMutation = useAddPost();
   const updatePostMutation = useUpdatePost();
   const deletePostMutation = useDeletePost();

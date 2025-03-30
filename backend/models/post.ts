@@ -1,14 +1,14 @@
 import mongoose, { Schema, Document, Model } from 'mongoose';
 const AutoIncrementFactory = require('mongoose-sequence');
 
-export interface IPost extends Document {
+export type IPost = Document & {
   postID: number;
   user: mongoose.Types.ObjectId; // Reference to the User model
   title: string;
   description: string;
   createdAt: Date;
   updatedAt: Date;
-}
+};
 
 const PostSchema = new Schema<IPost>(
   {

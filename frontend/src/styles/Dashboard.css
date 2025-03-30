@@ -4,6 +4,12 @@
   text-align: center;
   background-color: #ffffff;
   margin-top: 60px;
+  min-height: calc(100vh - 60px); /* Adjust to fit the full screen minus the navbar height */
+  width: 100%; /* Adjust to fit the full screen width */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  box-sizing: border-box; /* Include padding and border in width/height calculations */
 }
 
 .dashboard-page h1 {
@@ -97,7 +103,7 @@
 
 /* Table Styling */
 .dashboard-table {
-  width: 100%;
+  width: 100%; /* Adjust table width to fit the parent container */
   border-collapse: collapse;
   margin-top: 20px;
 }
@@ -124,17 +130,31 @@
   background-color: #e9ecef;
 }
 
-/* Delete Button Styling */
-.delete-btn {
-  background-color: #f44336;
-  color: white;
-  padding: 6px 12px;
-  cursor: pointer;
+/* Action Buttons Styling */
+.dashboard-table .delete-btn,
+.dashboard-table .update-btn {
+  padding: 8px 16px; /* Ensure both buttons have the same size */
+  font-size: 14px;
   border: none;
   border-radius: 5px;
-  font-size: 14px;
+  cursor: pointer;
+  margin-right: 5px; /* Add space between the buttons */
 }
 
-.delete-btn:hover {
+.dashboard-table .delete-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+.dashboard-table .delete-btn:hover {
   background-color: #e53935;
+}
+
+.dashboard-table .update-btn {
+  background-color: #ff9800;
+  color: white;
+}
+
+.dashboard-table .update-btn:hover {
+  background-color: #fb8c00;
 }

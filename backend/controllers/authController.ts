@@ -1,14 +1,10 @@
 import { Request, Response } from 'express';
+import { AuthenticatedRequest } from '../types/requestTypes'; // Use the imported type
 import User, { IUser } from '../models/user';
 import { hashPassword, comparePassword, generateAccessToken, generateRefreshToken } from '../helpers/auth';
 import jwt, { JwtPayload, VerifyErrors } from 'jsonwebtoken';
 import logger from '../utils/logger'; 
 import asyncHandler from 'express-async-handler';
-
-// Extend Request type to include `user`
-interface AuthenticatedRequest extends Request {
-  user?: JwtPayload & { _id: string };
-}
 
 // Test Endpoint
 const test = asyncHandler(async (req: Request, res: Response): Promise<void> => {
@@ -119,7 +115,6 @@ const logoutUser = asyncHandler(async (req: AuthenticatedRequest, res: Response)
 const getProfile = asyncHandler(async (req: AuthenticatedRequest, res: Response): Promise<void> => {
   const { accessToken } = req.cookies;
   if (!accessToken) {
-    logger.warn('Profile access denied: No access token provided');
     res.status(401).json({ success: false, message: 'No token provided' });
     return;
   }

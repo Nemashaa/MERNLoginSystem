@@ -84,18 +84,15 @@ exports.loginUser = loginUser;
 const refreshAccessToken = (0, express_async_handler_1.default)((req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const refreshToken = req.cookies.refreshToken;
     if (!refreshToken) {
-        logger_1.default.warn('Token refresh failed: No refresh token provided');
         res.status(403).json({ error: 'Refresh token not found' });
         return;
     }
     jsonwebtoken_1.default.verify(refreshToken, process.env.JWT_REFRESH_SECRET, (err, decoded) => {
         if (err || !decoded || typeof decoded === 'string') {
-            logger_1.default.warn('Token refresh failed: Invalid refresh token');
             res.status(403).json({ error: 'Invalid refresh token' });
             return;
         }
         const newAccessToken = (0, auth_1.generateAccessToken)(decoded);
-        logger_1.default.info(`New access token issued for user ID: ${decoded._id}`);
         res.json({ accessToken: newAccessToken });
     });
 }));
@@ -113,7 +110,6 @@ exports.logoutUser = logoutUser;
 const getProfile = (0, express_async_handler_1.default)((req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const { accessToken } = req.cookies;
     if (!accessToken) {
-        logger_1.default.warn('Profile access denied: No access token provided');
         res.status(401).json({ success: false, message: 'No token provided' });
         return;
     }

@@ -1,7 +1,11 @@
 import { Request, Response } from 'express';
 import Post from '../models/post';
 import asyncHandler from 'express-async-handler';
-import { AuthenticatedRequest } from '../middlewares/authMiddleware'; // Import the extended Request type
+
+// Extend Request type to include `user`
+export type AuthenticatedRequest = Request & {
+  user?: { _id: string };
+};
 
 // Create a new post
 export const createPost = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
