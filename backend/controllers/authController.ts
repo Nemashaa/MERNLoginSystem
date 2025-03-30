@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { AuthenticatedRequest } from '../types/requestTypes'; // Use the imported type
+import { AuthenticatedRequest } from "../types/requestTypes"; // Use the imported type
 import User, { IUser } from '../models/user';
 import { hashPassword, comparePassword, generateAccessToken, generateRefreshToken } from '../helpers/auth';
 import jwt, { JwtPayload, VerifyErrors } from 'jsonwebtoken';
